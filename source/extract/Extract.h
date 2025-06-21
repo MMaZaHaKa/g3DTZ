@@ -1,5 +1,5 @@
 #pragma once
-#include "Common.h"
+//#include "Common.h"
 #include <cstdio>
 #include <span>
 #include <string>
@@ -29,6 +29,6 @@ bool ExtractPathData();
 bool ExtractPaths();
 
 struct CAnimBlendTree;
-#ifndef CPP17
-void ExportAnimations(std::FILE* outFile, std::string_view blockName, std::span<CAnimBlendTree*> animTrees);
-#endif
+//#ifndef CPP17
+//void ExportAnimations(std::FILE* outFile, std::string_view blockName, std::span<CAnimBlendTree*> animTrees);
+//#endif
