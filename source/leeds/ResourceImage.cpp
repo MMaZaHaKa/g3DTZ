@@ -1,10 +1,14 @@
+#include "Common.h"
 #include <cstddef>
 #include <cstring>
+#ifndef CPP17
 #include <format>
+#endif
 #include <fstream>
 #include <stdexcept>
 #include <vector>
 #include <zlib.h>
+#pragma comment(lib, "zlib.lib") 
 
 #include "ResourceImage.h"
 
@@ -165,7 +169,11 @@ LoadResourceImage(fs::path iPath, const base::sChunkHeader& header, std::istream
 			if (int ret = inflate(&z, Z_SYNC_FLUSH); ret == Z_MEM_ERROR)
 				throw std::bad_alloc();
 			else if (ret != Z_OK || z.total_out <= sizeof(header))
+			{
+#ifndef CPP17
 				throw std::runtime_error(z.msg ? std::format("Zlib error: {}", z.msg) : "Input file is invalid");
+#endif
+			}
 
 			/* At this point we've produced enough bytes to read the header */
 			auto pHeader = reinterpret_cast<base::sChunkHeader*>(temp.out);
@@ -192,7 +200,11 @@ LoadResourceImage(fs::path iPath, const base::sChunkHeader& header, std::istream
 				else if (ret == Z_MEM_ERROR)
 					throw std::bad_alloc();
 				else if (ret != Z_OK || z.avail_out == 0)
+				{
+#ifndef CPP17
 					throw std::runtime_error(z.msg ? std::format("Zlib error: {}", z.msg) : "Input file is invalid");
+#endif
+				}
 				/* If all input bytes are consumed, attempt to read more */
 				if (z.avail_in == 0) {
 					if (!iStream.read(reinterpret_cast<char*>(buff), sizeof(buff)) && iStream.gcount() == 0)

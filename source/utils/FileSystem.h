@@ -12,6 +12,7 @@ private:
 public:
 	~CFileSystem() { delete[] ms_full_input_path; }
 
+	static void USetCurrentDirectory();
 	static bool Initialize(const wchar* inputFileName);
 	static bool CreateFolder(const char* newDir);
 	static bool CreateFolder(const wchar* newDir);

@@ -1,5 +1,6 @@
 #ifndef G3DTZ_COMMON_H
 #define G3DTZ_COMMON_H
+#define CPP17 // tmp
 #include <cstdint>
 #include <type_traits>
 

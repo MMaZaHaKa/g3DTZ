@@ -2,9 +2,20 @@
 #include "Win32.h"
 #include "Utils.h"
 #include <stdlib.h>
+#include <string>
+#include "Windows.h"
+
 
 /* A simple object that automatically frees the path buffers on exit */
 static CFileSystem __filesystem_auto_cleanup__;
+
+void CFileSystem::USetCurrentDirectory()
+{
+	char currentDir[MAX_PATH];
+	GetModuleFileNameA(NULL, currentDir, MAX_PATH);
+	std::string::size_type pos = std::string(currentDir).find_last_of("\\/");
+	SetCurrentDirectoryA(std::string(currentDir).substr(0, pos).c_str());
+}
 
 bool CFileSystem::Initialize(const wchar* input)
 {

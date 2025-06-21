@@ -7,7 +7,9 @@
 #include <span>
 #include <vector>
 #include <memory>
+#ifndef CPP17
 #include <format>
+#endif
 
 static std::map<int, const char*> bones{
 	{ 0, "Root"   },
@@ -242,6 +244,7 @@ namespace ifp
 	};
 }
 
+#ifndef CPP17
 void
 ExportAnimations(std::FILE* outFile, std::string_view blockName, std::span<CAnimBlendTree*> animTrees) {
 	// The name that will be used for unused bone names
@@ -364,3 +367,4 @@ bool ExtractAnimations() {
 #endif
 	return true;
 }
+#endif
