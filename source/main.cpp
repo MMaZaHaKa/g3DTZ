@@ -54,6 +54,7 @@ int main() {
 		CHECK(ExtractWaterLevel());
 		CHECK(ExtractZones());
 		CHECK(ExtractPathData());
+		CHECK(ExtractPaths());
 		std::cout << "All done!\n";
 
 		return EXIT_SUCCESS;

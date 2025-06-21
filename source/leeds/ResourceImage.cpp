@@ -74,7 +74,7 @@ struct sResourceImage
 	CPedStats** pedStats;
 #ifdef VCS
 	RslRGB(*RGBTable)[128]; // The ped and car colour table in VCS
-	void* unknown1;
+	void* interiorData;
 #endif
 	int32           numAttributeZones;
 	CAttributeZone *attributeZones;
@@ -112,8 +112,8 @@ struct sResourceImage
 #ifdef VCS
 	void* unknown7;
 	void* unknown8;
-	void* unknown9;
-	void* unknown10;
+	void* escalators;
+	int32 numEscalators;
 	void* fontdef;
 #endif
 	int fontTexListSize;
