@@ -270,7 +270,7 @@ LoadResourceImage(fs::path iPath, const base::sChunkHeader& header, std::istream
 	CParticleSystemMgr::Load(pResourceImage->particleSystemManager);
 	CWaterLevel::Load(pResourceImage->waterLevelInst);
 	CPlane::Init(pResourceImage->planeInst);
-	CPathFind::Init(pResourceImage->pThePaths);
+	_CPathFind::Init(pResourceImage->pThePaths);
 
 
 	gpTheZones = pResourceImage->theZones;

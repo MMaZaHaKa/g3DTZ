@@ -19,7 +19,7 @@ struct CPathNode
 	char numLinks_Flags8; // 0__numlinks[b0], 1__numlinks[b1], 2__numlinks[b2], 3__numlinks[b3], 4_bDeadEnd ? , 5_bDisabled, 6_bBetweenLevels, 7_bUseInRoad
 	char flags9; // 0_bWaterPath, 1_(1?bSelected?), 2_speedLimit[b0], 3_speedLimit[b1], 4_spawnRateINDEX[b0], 5_spawnRateINDEX[b1], 6_(0? always), 7_(1? always)
 };
-struct __declspec(align(2)) _CPathFind // todo class
+struct __declspec(align(2)) CPathFind // todo class
 {
 	CPathNode* m_pathNodes;
 	CCarPathLink* m_carPathLinks;
@@ -43,7 +43,7 @@ struct __declspec(align(2)) _CPathFind // todo class
 	__int16 field_7B9C;
 	__int16 field_7B9E;
 	__int16* m_connections;
-	int m_distances;
+	char* m_distances;
 	char field_7BA8[508];
 	int field_7DA4;
 	int field_7DA8;
@@ -56,10 +56,10 @@ struct __declspec(align(2)) _CPathFind // todo class
 
 
 
-class CPathFind final // todo fields
+class _CPathFind final // todo fields
 {
 public:
-	inline static _CPathFind* mspInst;
-	static void Init(CPathFind* inst) { mspInst = (_CPathFind*)inst; }
+	inline static CPathFind* mspInst;
+	static void Init(CPathFind* inst) { mspInst = inst; }
 
 };
