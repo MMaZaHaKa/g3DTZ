@@ -33,6 +33,7 @@
 #include "WeaponInfo.h"
 #include "CutsceneMgr.h"
 #include "Ferry.h"
+#include "PathFind.h"
 #include "Train.h"
 #include "Plane.h"
 #include "SampMan.h"
@@ -41,7 +42,7 @@ namespace fs = std::filesystem;
 
 struct sResourceImage
 {
-	void* pThePaths;
+	CPathFind* pThePaths;
 	CBuildingPool      *buildingPool;
 	CTreadablePool     *treadablePool;
 	CDummyPool         *dummyPool;
@@ -269,6 +270,7 @@ LoadResourceImage(fs::path iPath, const base::sChunkHeader& header, std::istream
 	CParticleSystemMgr::Load(pResourceImage->particleSystemManager);
 	CWaterLevel::Load(pResourceImage->waterLevelInst);
 	CPlane::Init(pResourceImage->planeInst);
+	CPathFind::Init(pResourceImage->pThePaths);
 
 
 	gpTheZones = pResourceImage->theZones;

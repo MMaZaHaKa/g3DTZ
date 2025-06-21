@@ -39,21 +39,22 @@ int main() {
 #ifndef CPP17
 		CHECK(ExtractAnimations());
 #endif
-		CHECK(ExtractIPLs());
-		CHECK(ExtractModelInfoAndStuff());
-		CHECK(ExtractObjectData());
-		CHECK(ExtractFightMoves());
-		CHECK(ExtractPedType());
-		CHECK(ExtractPedStats());
-		CHECK(ExtractPedGroups());
-		CHECK(ExtractWeaponInfo());
-		CHECK(ExtractTimeCycle());
-		CHECK(ExtractSurfaceTable());
-		CHECK(ExtractDIRs());
-		CHECK(ExtractParticle());
-		CHECK(ExtractWaterLevel());
-		CHECK(ExtractZones());
-		CHECK(ExtractPathData());
+		// temp not need
+		//CHECK(ExtractIPLs());
+		//CHECK(ExtractModelInfoAndStuff());
+		//CHECK(ExtractObjectData());
+		//CHECK(ExtractFightMoves());
+		//CHECK(ExtractPedType());
+		//CHECK(ExtractPedStats());
+		//CHECK(ExtractPedGroups());
+		//CHECK(ExtractWeaponInfo());
+		//CHECK(ExtractTimeCycle());
+		//CHECK(ExtractSurfaceTable());
+		//CHECK(ExtractDIRs());
+		//CHECK(ExtractParticle());
+		//CHECK(ExtractWaterLevel());
+		//CHECK(ExtractZones());
+		//CHECK(ExtractPathData());
 		CHECK(ExtractPaths());
 		std::cout << "All done!\n";
 

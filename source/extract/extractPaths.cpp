@@ -1,10 +1,13 @@
 #include "Extract.h"
 #include "Utils.h"
+#include "PathFind.h"
 #include "FileSystem.h"
 #include <fstream>
 
 bool ExtractPaths()
 {
+
+	CPathFind::mspInst;
 
 
 	///* Open flight.dat */
