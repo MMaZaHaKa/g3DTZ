@@ -2,39 +2,67 @@
 //#include "Maths.h"
 
 #pragma pack(push, 1) // VCS PS2 !!!!
-struct CCarPathLink
+
+struct CPathConnection	// 2 not original name
 {
-	__int16 field_0; // 0_pathNodeIndex, 1_pathNodeIndex, 2_pathNodeIndex, 3_pathNodeIndex, 4_pathNodeIndex, 5_pathNodeIndex, 6_pathNodeIndex, 7_pathNodeIndex  0_pathNodeIndex, 1_pathNodeIndex, 2_pathNodeIndex, 3_pathNodeIndex, 4_pathNodeIndex, 5_pathNodeIndex, 6_, 7_
-	char num_field_2; // 0_numLeftLanes, 1_numLeftLanes, 2_numLeftLanes, 3_numRightLanes, 4_numRightLanes, 5_numRightLanes, 6_, 7_
-	char field_3; // todo
-	char field_4; // todo
+	uint16_t idx : 14;
+	uint16_t bTrafficLight : 1;
+	uint16_t bCrossesRoad : 1;
+};
+struct CCarPathLink // 4    ?
+{
+	////uint16_t idx : 14;
+	//uint16_t bTrafficLight : 1; // ?
+	//uint16_t bCrossesRoad : 1; // ?
+
+	uint16_t pathNodeIndex : 14;
+	uint16_t unk1 : 1; // ?
+	uint16_t unk2 : 1; // ?
+
+	int8_t numLeftLanes : 3;
+	int8_t numRightLanes : 3;
+	int8_t unk3 : 1; // ?
+	int8_t unk4 : 1; // ?
+
+	int8_t unk5;
 };
 struct CPathNode
 {
-	__int16 posX;
-	__int16 posY;
-	char posZ;
-	char width;
-	__int16 firstLink;
-	char numLinks_Flags8; // 0__numlinks[b0], 1__numlinks[b1], 2__numlinks[b2], 3__numlinks[b3], 4_bDeadEnd ? , 5_bDisabled, 6_bBetweenLevels, 7_bUseInRoad
-	char flags9; // 0_bWaterPath, 1_(1?bSelected?), 2_speedLimit[b0], 3_speedLimit[b1], 4_spawnRateINDEX[b0], 5_spawnRateINDEX[b1], 6_(0? always), 7_(1? always)
+	int16_t posX;
+	int16_t posY;
+	int8_t posZ; // #define PATHZSCALE (1.0f)
+	int8_t width; // flood fill group?
+	int16_t firstLink;
+
+	uint8_t numLinks : 4;
+	uint8_t bDeadEnd : 1; //?
+	uint8_t bDisabled : 1;
+	uint8_t bBetweenLevels : 1;
+	uint8_t bUseInRoadBlock : 1;
+
+	uint8_t bWaterPath : 1;
+	uint8_t bSelected : 1; // bOnlySmallBoats?  bSelected?
+	uint8_t speedLimit : 2;
+	uint8_t spawnRateIndex : 2; // int gaSpawnRate[] = { 0, 4, 7, 15 };
+	uint8_t unk1 : 1; // 0 always
+	uint8_t unk2 : 1; // 1 always
 };
-struct __declspec(align(2)) CPathFind // todo class
+struct __declspec(align(2)) CPathFind // todo move into class
 {
 	CPathNode* m_pathNodes;
 	CCarPathLink* m_carPathLinks;
-	__int16* m_carPathConnections;
-	int m_numPathNodes;      // 8387
-	int m_numCarPathNodes;   // 3079
-	int m_numPedPathNodes;   // 5308
-	__int16 m_numMapObjects; // 0
-	__int16 m_numConnections;// 17625
-	__int16 possible_m_numCarPathLinks_field_1C; // ?   6354
-	__int16 pad_AAAA_field_1E;
-	__int16 possible_m_numCarPathLinks_field_20; // ?  3177
-	__int16 field_22;
-	__int16 pad_AAAA_field_24;
-	__int16 field_26;
+	uint16_t* m_carPathConnections;
+
+	int32_t m_numPathNodes;      // 8387
+	int32_t m_numCarPathNodes;   // 3079
+	int32_t m_numPedPathNodes;   // 5308
+	int16_t m_numMapObjects; // 0
+	int16_t m_numConnections;// 17625
+	int16_t m_numCarPathConnections; // ?   6354
+	int16_t pad_AAAA_field_1E;
+	int32_t m_numCarPathLinks; // ?  3177
+	int16_t pad_AAAA_field_24;
+	int16_t field_26;
 	char AAAAAA_field_28[1608];
 	__int16 field_670;
 	__int16 field_672;
@@ -42,8 +70,10 @@ struct __declspec(align(2)) CPathFind // todo class
 	char field_678[29988];
 	__int16 field_7B9C;
 	__int16 field_7B9E;
-	__int16* m_connections;
-	char* m_distances;
+
+	CPathConnection* m_connections; //16*
+	uint8_t* m_distances; //8*
+
 	char field_7BA8[508];
 	int field_7DA4;
 	int field_7DA8;
