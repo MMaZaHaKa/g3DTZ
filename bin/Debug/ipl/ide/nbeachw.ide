@@ -1,0 +1,209 @@
+# 
+objs
+5370, nbeachroads01, knackers, 1, 170, 0
+5371, nbeachroads02, knackers, 1, 200, 0
+5372, nbeachroads03, knackers, 1, 145, 0
+5373, starbits13, knackers, 1, 180, 0
+5374, starbits20, knackers, 1, 60, 0
+5375, starbits05, knackers, 1, 100, 0
+5376, nw_nbwroad01, knackers, 1, 200, 1
+5377, starwaterfrnt05, knackers, 1, 108, 0
+5378, starwaterfrnt06, knackers, 1, 170, 0
+5379, starwaterfrnt09, knackers, 1, 180, 0
+5380, starwaterfrnt10, knackers, 1, 180, 0
+5381, starwaterfrnt11, knackers, 1, 180, 0
+5382, starwaterfrnt12, knackers, 1, 180, 0
+5383, nbt_htlpoolbase02, knackers, 1, 108, 0
+5384, nw_nbwroad04, knackers, 1, 100, 1
+5385, starblocks02, knackers, 1, 179.4, 1
+5386, starblocks03, knackers, 1, 200, 1
+5387, nw_nbwroad06, knackers, 1, 220, 1
+5388, nbw_bush01, knackers, 1, 140, 0
+5389, starbits52, knackers, 1, 84, 0
+5390, nbeachwjetty01, knackers, 1, 100, 0
+5391, stardepot, knackers, 1, 250, 1
+5392, nbt_apartpool01, knackers, 1, 108, 0
+5393, nbt_apartpool02, knackers, 1, 108, 0
+5394, nbt_balcony02, knackers, 1, 60, 0
+5395, nbt_balcony03, knackers, 1, 60, 0
+5396, nbt_balcony05, knackers, 1, 60, 0
+5397, nbt_htlpoolbar01, knackers, 1, 60, 0
+5398, nbt_apartpool03, knackers, 1, 60, 0
+5399, nbt_barfence01, knackers, 1, 30, 0
+5400, nbt_htlpoolrm01, knackers, 1, 60, 0
+5401, nbt_htlpoolrm02, knackers, 1, 60, 0
+5402, nbt_htlpoolbase01, knackers, 1, 108, 0
+5403, LODachroads02, knackers, 1, 2000, 0
+5404, LODachroads03, knackers, 1, 2000, 0
+5405, LODrbits13, knackers, 1, 2000, 0
+5406, LODrbits05, knackers, 1, 2000, 0
+5407, LODnbwroad01, knackers, 1, 2000, 0
+5408, LODrwaterfrnt05, knackers, 1, 2000, 0
+5409, LODrwaterfrnt06, knackers, 1, 2000, 0
+5410, LODrwaterfrnt07, knackers, 1, 2000, 0
+5411, LODrwaterfrnt08, knackers, 1, 2000, 0
+5412, LODrwaterfrnt11, knackers, 1, 2000, 0
+5413, LOD_htlpoolbase02, knackers, 1, 2000, 0
+5414, LODnbwroad04, knackers, 1, 2000, 0
+5415, LODachroads01, knackers, 1, 2000, 0
+5416, LODnbwroad06, knackers, 1, 2000, 0
+5417, LODnbwroad05, knackers, 1, 2000, 0
+5418, LODrbits52, knackers, 1, 2000, 0
+5419, LODachwjetty01, knackers, 1, 2000, 0
+5420, LOD_htlpoolbase01, knackers, 1, 2000, 0
+5421, LODrwaterfrnt10, knackers, 1, 2000, 0
+5422, hash_422BDCB9, knackers, 1, 2000, 0
+5423, LODrblocks02, knackers, 1, 2000, 0
+5424, LODrblocks03, knackers, 1, 2000, 0
+5425, LOD_htlpoolbar01, knackers, 1, 2000, 0
+5426, nw_nbwroad08, knackers, 1, 185, 1
+5427, nbt_htlpoolbase03, knackers, 1, 108, 0
+5428, LOD_htlpoolbase03, knackers, 1, 2000, 0
+5429, LODnbwroad08, knackers, 1, 2000, 0
+5430, LODrwaterfrnt09, knackers, 1, 2000, 0
+5431, nbt_htlpoolbase04, knackers, 1, 108, 0
+5432, LOD_htlpoolrm02, knackers, 1, 2000, 0
+5433, LOD_htlpoolrm01, knackers, 1, 2000, 0
+5434, starbitbush, knackers, 1, 60, 0
+5435, nbeachroads09, knackers, 1, 130, 0
+5436, LODachroads09, knackers, 1, 2000, 0
+5437, starwaterfrnt09b, knackers, 1, 180, 0
+5438, LODrwaterfrnt09b, knackers, 1, 2000, 0
+5439, starsbush2, knackers, 1, 60, 0
+5440, LOD_htlpoolbase04, knackers, 1, 2000, 0
+5441, starbits13c, knackers, 1, 180, 0
+5442, LODrbits13c, knackers, 1, 2000, 0
+5443, nbt_htlpoolbase01b, knackers, 1, 108, 0
+5444, LOD_htlpoolbase01b, knackers, 1, 2000, 0
+5445, starwaterfrnt07, knackers, 1, 128, 0
+5446, starwaterfrnt08, knackers, 1, 180, 0
+5447, nw_nbwroad05, knackers, 1, 200, 1
+5448, nw_nbwroad07, knackers, 1, 200, 1
+5449, nw_nbwroad03, knackers, 1, 200, 1
+5450, nw_nbwroad02, knackers, 1, 250, 1
+5451, nbw_grssypatch, knackers, 1, 100, 0
+5452, nbw_bridgew, knackers, 1, 200, 1
+5453, LODnbwroad07, knackers, 1, 2000, 0
+5454, LODnbwroad03, knackers, 1, 2000, 0
+5455, LODnbwroad02, knackers, 1, 2000, 0
+5456, LOD_bridgew, knackers, 1, 2000, 0
+5457, LOD_grssypatch, knackers, 1, 2000, 0
+5458, nbt_htlpool01, knackers, 1, 108, 0
+5459, starbl02b, knackers, 1, 160, 1
+5460, LODrbl02b, knackers, 1, 2000, 0
+5461, nbeachwjetty02, knackers, 1, 120, 0
+5462, LODachwjetty02, knackers, 1, 2000, 0
+5463, starwaterfrnt06b, knackers, 1, 170, 0
+5464, LODrwaterfrnt06b, knackers, 1, 2000, 0
+5465, starwaterfrnt07b, knackers, 1, 108, 0
+5466, LODrwaterfrnt07b, knackers, 1, 2000, 0
+5467, wash_hardwares, knackers, 1, 100, 0
+5468, nbchwbridge, knackers, 1, 200, 1
+5469, LODh_hardwares, knackers, 1, 2000, 0
+5470, nbw_bush02, knackers, 1, 100, 0
+5471, LODhwbridge, knackers, 1, 2000, 0
+5472, nbt_htlpiswr01, knackers, 1, 100, 0
+5473, nbt_htlpiswr02, knackers, 1, 100, 0
+5474, nbw_roadsigns, knackers, 1, 150, 0
+5475, nbbridgbit2, knackers, 1, 185, 1
+5476, nbchwbridgb, knackers, 1, 200, 1
+5477, nbwbusshy2, knackers, 1, 120, 0
+5478, nbeachbed02, knackers, 1, 65, 0
+5479, muck_nbeachw, knackers, 1, 100, 0
+5480, eb_nbw_22, knackers, 1, 100, 0
+5481, eb_nbw_21, knackers, 1, 100, 0
+5482, hash_788C4791, knackers, 1, 200, 0
+5483, pm_bigw_fence, knackers, 1, 100, 0
+5484, hash_CD62FD3D, knackers, 1, 100, 0
+5485, hash_6010EEF9, knackers, 1, 75, 0
+5486, hash_4A3F63D4, knackers, 1, 50, 0
+5487, pm_fortsign, knackers, 1, 250, 0
+5488, pm_fortshortwall, knackers, 1, 160, 0
+5489, pm_forthiwall, knackers, 1, 250, 0
+5490, hash_00C3A9E5, knackers, 1, 250, 0
+5491, pm_forthiwall01, knackers, 1, 250, 0
+5492, pm_fair_cost, knackers, 1, 50, 0
+5493, hash_95DF5A6C, knackers, 1, 100, 0
+5494, hash_7BD13B40, knackers, 1, 75, 0
+5495, hash_EE932260, knackers, 1, 150, 0
+5496, hash_F11C37C6, knackers, 1, 250, 1
+5497, pm_lightramp, knackers, 1, 100, 0
+5498, hash_EC61DFF2, knackers, 1, 299, 0
+5499, ferris_wheel, knackers, 1, 299, 0
+5500, pm_fairlights_dum, pm_fairlights_dum, 1, 299, 0
+5501, nbw_sh_ext, knackers, 1, 299, 0
+5502, hash_2EBDB981, knackers, 1, 299, 0
+5503, pm_gardrsafe4, pm_gardrsafe4, 1, 100, 0
+5505, buildingground40, knackers, 1, 145, 0
+5506, starbits13b, knackers, 1, 180, 0
+5507, hash_81984EBC, knackers, 1, 60, 4
+5508, hash_F42F1966, knackers, 1, 65, 0
+5509, hash_BD800AA0, knackers, 1, 86, 0
+5510, hash_B0E3AE65, knackers, 1, 100, 0
+5511, hash_948E3C1F, knackers, 1, 100, 0
+5512, hash_2442CA50, knackers, 1, 65, 0
+5513, hash_C516128E, knackers, 1, 250, 0
+5514, hash_BC1B6605, knackers, 1, 180, 164
+5518, pmcoffeeb, knackers, 1, 150, 0
+5519, pmcoffeea, knackers, 1, 165, 0
+5520, pm_roofarc1, knackers, 1, 100, 0
+5521, pm_roofarc02, knackers, 1, 100, 0
+5522, hash_5413E7B8, knackers, 1, 50, 0
+5523, nbw_bill01, knackers, 1, 140, 0
+5524, hash_F1B5351A, knackers, 1, 80, 0
+5525, hash_71CEDA46, knackers, 1, 1500, 0
+5526, hash_A031E31C, knackers, 1, 2000, 0
+5527, LODris_wheel, knackers, 1, 2000, 0
+5534, hash_D4255B5C, knackers, 1, 50, 0
+5535, hash_C588430F, knackers, 1, 50, 0
+5536, hash_BDA68C85, knackers, 1, 2000, 0
+5543, LODrwaterfrnt12, knackers, 1, 2000, 0
+5544, LODrbits13b, knackers, 1, 2000, 0
+5545, LODldingground40, knackers, 1, 2000, 0
+end
+tobj
+5504, hash_AE260566, knackers, 1, 295, 172, 18, 5
+5515, nbwneon01, knackers, 1, 100, 0, 22, 5
+5516, siu_neon, knackers, 1, 180, 140, 19, 5
+5517, pm_dog_neon, knackers, 1, 250, 172, 0, 23
+5528, macnbw_lights01, knackers, 1, 299, 12, 18, 5
+5529, macnbw_lights02, knackers, 1, 299, 12, 18, 5
+5530, macnbw_lights03, knackers, 1, 299, 12, 18, 5
+5531, LODnbw_lights01, knackers, 1, 2999, 8, 18, 5
+5532, LODnbw_lights03, knackers, 1, 2999, 8, 18, 5
+5533, LODnbw_lights02, knackers, 1, 2999, 8, 18, 5
+5537, LODnbw_lights01x, knackers, 1, 5001, 12, 18, 5
+5538, LODnbw_lights02x, knackers, 1, 5001, 8, 18, 5
+5539, LODnbw_lights03x, knackers, 1, 5001, 8, 18, 5
+5540, macnbw_lights01x, knackers, 1, 299, 12, 18, 5
+5541, macnbw_lights03x, knackers, 1, 299, 12, 18, 5
+5542, macnbw_lights02x, knackers, 1, 299, 12, 18, 5
+end
+2dfx
+5402, 27.8228, -7.57376, 0.307362, 176, 168, 251, 9, 3, 0, 0.998003, -0.0631588, 0, 0.998003, -0.0631588, 0
+5402, 29.7117, -18.1357, -1.31046, 176, 168, 251, 9, 3, 0, 0.998003, -0.0631588, 0, 0.998003, -0.0631588, 0
+5443, 6.99932, 28.0563, 0.129468, 176, 168, 251, 9, 3, 1, -0.0429187, 0.999079, 0, -0.0429187, 0.999079, 0
+5443, 23.4455, 28.2732, 0.129468, 176, 168, 251, 9, 3, 1, -0.0429194, 0.999079, 0, -0.0429194, 0.999079, 0
+5443, 46.8791, 28.7086, 0.129468, 176, 168, 251, 9, 3, 1, -0.0429271, 0.999078, 0, -0.0429271, 0.999078, 0
+5459, 0.0265503, -26.7243, 0.242106, 176, 168, 251, 9, 3, 1, 0.0609005, -0.998144, 0, 0.0609005, -0.998144, 0
+5459, 4.49588, -21.5992, 0.330629, 176, 168, 251, 9, 3, 1, 0.914442, -0.404717, 0, 0.914442, -0.404717, 0
+5500, -9.51599, -5.37399, 11.074, 45, 45, 249, 200, 0, "coronastar", "shad_exp", 180, 12, 0.75, 6, 40, 5, 0, 0, 2
+5500, -16.4341, -5.37399, 11.0803, 22, 4, 253, 200, 0, "coronastar", "shad_exp", 180, 12, 0.75, 6, 40, 5, 0, 0, 2
+5500, -13.5829, -5.37399, 11.0965, 251, 45, 45, 200, 0, "coronastar", "shad_exp", 180, 12, 0.75, 6, 40, 7, 0, 0, 2
+5500, -5.78076, -5.37399, 11.055, 255, 4, 4, 200, 0, "coronastar", "shad_exp", 180, 12, 0.75, 6, 40, 7, 0, 0, 2
+5500, 5.0755, -5.37399, 11.0834, 253, 45, 45, 200, 0, "coronastar", "shad_exp", 180, 12, 0.75, 6, 40, 7, 0, 0, 2
+5500, 12.8505, -5.37399, 11.082, 255, 12, 12, 200, 0, "coronastar", "shad_exp", 180, 12, 0.75, 6, 40, 7, 0, 0, 2
+5500, 9.17603, -5.37399, 11.067, 18, 18, 253, 200, 0, "coronastar", "shad_exp", 180, 12, 0.75, 6, 40, 5, 0, 0, 2
+5500, 0.430328, -5.37399, 11.0777, 32, 15, 255, 200, 0, "coronastar", "shad_exp", 180, 12, 0.75, 6, 40, 5, 0, 0, 2
+5500, 42.2738, -4.63643, 35.6384, 0, 204, 255, 200, 0, "coronastar", "shad_exp", 180, 6, 0.75, 6, 40, 9, 0, 0, 2
+5500, 12.8524, -16.6094, 11.0834, 253, 45, 45, 200, 0, "coronastar", "shad_exp", 180, 12, 0.75, 6, 40, 7, 0, 0, 2
+5500, 12.8524, -10.7031, 11.0777, 32, 15, 255, 200, 0, "coronastar", "shad_exp", 180, 12, 0.75, 6, 40, 5, 0, 0, 2
+5500, 12.8524, -22.4534, 11.067, 18, 18, 253, 200, 0, "coronastar", "shad_exp", 180, 12, 0.75, 6, 40, 5, 0, 0, 2
+5500, 42.3745, -4.74557, 35.7046, 255, 12, 138, 200, 0, "coronastar", "shad_exp", 180, 12, 0.75, 6, 40, 7, 0, 0, 2
+5500, -16.2327, -10.9145, 11.082, 255, 12, 12, 200, 0, "coronastar", "shad_exp", 180, 12, 0.75, 6, 40, 7, 0, 0, 2
+5500, -16.2327, -17.0474, 11.067, 18, 18, 253, 200, 0, "coronastar", "shad_exp", 180, 12, 0.75, 6, 40, 5, 0, 0, 2
+5500, -16.2327, -22.3293, 11.0834, 253, 45, 45, 200, 0, "coronastar", "shad_exp", 180, 12, 0.75, 6, 40, 7, 0, 0, 2
+5500, -9.07825, -20.5338, 11.0869, 254, 255, 201, 200, 0, "coronastar", "shad_exp", 180, 12, 0.75, 6, 40, 5, 1, 0, 2
+5500, 4.02084, -20.4694, 11.0869, 254, 255, 201, 200, 0, "coronastar", "shad_exp", 180, 12, 0.75, 6, 40, 7, 1, 0, 2
+5500, -43.9625, -43.2033, 11.1954, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 3, 0, 0, 0
+end

@@ -167,25 +167,28 @@ bool ExtractModelInfoAndStuff()
 					break;
 				case MITYPE_VEHICLE:
 				{
+					//"%d %s %s %s %s %s %s %d %d %x %d %f %f"
 					CVehicleModelInfo* m = reinterpret_cast<CVehicleModelInfo*>(mi);
 					vehicleModelInfos.push_back(m);
 
-					s	<< ", " << m->GetVehicleTypeName()
-						<< ", " << m->GetHandlingName()
-						<< ", " << m->GetGameName()
-						<< ", " << m->GetAnimBlockName()
-						<< ", " << m->GetVehicleClass()
-						<< ", " << m->GetFrequency()
-						<< ", " << m->GetLevel()
-						<< ", " << std::hex << m->GetCompRules() << std::dec << ", ";
+					s	<< ", " << m->GetVehicleTypeName() // 3
+						<< ", " << m->GetHandlingName() // 4
+						<< ", " << m->GetGameName() // 5
+						<< ", " << m->GetAnimBlockName() // 6
+						<< ", " << m->GetVehicleClass() //7
+
+
+						<< ", " << m->GetFrequency() //8
+						<< ", " << m->GetLevel() //9
+						<< ", " << std::hex << m->GetCompRules() << std::dec << ", "; //10
 					switch (m->GetVehicleType())
 					{
 					case VEHICLE_TYPE_CAR:
-						s << m->GetWheelId() << ", ";
+						s << m->GetWheelId() << ", "; //11 (MISC)
 					wheel_scale_label:
-						s << m->GetWheelScale() << ", ";
+						s << m->GetWheelScale() << ", "; //12 (WS)
 #ifdef VCS
-						s << m->GetWheelScaleRear() << ", ";
+						s << m->GetWheelScaleRear() << ", "; //13 (WSR)
 #endif
 						goto normals_label;
 					case VEHICLE_TYPE_BIKE:
@@ -193,10 +196,10 @@ bool ExtractModelInfoAndStuff()
 					case VEHICLE_TYPE_BMX:
 					case VEHICLE_TYPE_QUAD:
 #endif
-						s << m->GetBikeSteerAngle() << ", ";
+						s << m->GetBikeSteerAngle() << ", "; //11 (MISC)
 						goto wheel_scale_label;
 					case VEHICLE_TYPE_PLANE:
-						s << m->GetPlaneLodId() << ", ";
+						s << m->GetPlaneLodId() << ", "; //11 (MISC)
 						goto ignored_label;
 					default:
 						s << "0, ";
@@ -206,7 +209,7 @@ bool ExtractModelInfoAndStuff()
 						s << "0, ";
 #endif
 					normals_label:
-						s << m->GetNormalSplay();
+						s << m->GetNormalSplay(); //14 (NS)
 					}
 					break;
 				}
@@ -437,6 +440,21 @@ bool ExtractModelInfoAndStuff()
 			<< '\t' << h.GetTurnResY()
 			<< '\t' << h.GetTurnResZ()
 			<< '\t' << h.GetBehindCamHeight()
+			<< '\t' << h.GetBoatVolumeDistribution(0)
+			<< '\t' << h.GetBoatVolumeDistribution(1)
+			<< '\t' << h.GetBoatVolumeDistribution(2)
+			<< '\t' << h.GetBoatVolumeDistribution(3)
+			<< '\t' << h.GetBoatVolumeDistribution(4)
+			<< '\t' << h.GetBoatVolumeDistribution(5)
+			<< '\t' << h.GetBoatVolumeDistribution(6)
+			<< '\t' << h.GetBoatVolumeDistribution(7)
+			<< '\t' << h.GetBoatVolumeDistribution(8)
+			<< '\t' << h.GetScaleMaxX()
+			<< '\t' << h.GetScaleMaxY()
+			<< '\t' << h.GetScaleMaxZ()
+			<< '\t' << h.GetScaleMinX()
+			<< '\t' << h.GetScaleMinY()
+			<< '\t' << h.GetScaleMinZ()
 			<< std::endl;
 #ifdef VCS
 		}

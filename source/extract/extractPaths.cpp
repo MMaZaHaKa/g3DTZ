@@ -583,7 +583,7 @@ void DumpRoadsToFile(CPathFind* pf, const char* filename)
 	FILE* f = std::fopen(filename, "w");
 	if (!f) return;
 
-	std::fprintf(f, "hdr\n");
+	std::fprintf(f, "hdr\n"); // done --------------------------------------
 	std::fprintf(f,
 		"%d %d %d %d %d %d %d\n",
 		pf->m_numPathNodes,
@@ -632,11 +632,11 @@ void DumpRoadsToFile(CPathFind* pf, const char* filename)
 		std::fprintf(f,
 			//"%f %f %f %u %d %d %u %u %u %u %u %u %u %u\n",
 			//"%d %f %f %f %u %d %d %u %u %u %u %u %u %u %u\n", i,
-			"[%d] %f %f %f %u %d %d %u %u %u %u %u %u %u %u\n", i,
+			"[%d] %f %f %f %d %d %d %u %u %u %u %u %u %u %u\n", i,
 			x, y, z,
 			n.width,
 			n.firstLink,
-			(int)n.numLinks,
+			n.numLinks,
 			dead, dis, between, roadblk,
 			water, sel, spd, spawn
 		);
@@ -665,19 +665,9 @@ void DumpRoadsToFile(CPathFind* pf, const char* filename)
 	std::fprintf(f, "end\n\n");
 
 	// --- ccon (массив uint16_t, авто-соединения)
-	std::fprintf(f, "ccon\n");
+	std::fprintf(f, "ccon\n"); // done -----------------------------------------
 	for (int i = 0; i < pf->m_numCarPathConnections; i++) {
-		//uint16_t v = pf->m_carPathConnections[i];
-		//uint16_t idx = v & 0x3FFF;
-		//uint8_t  lightFlag = (v >> 14) & 1;
-		//uint8_t  crossFlag = (v >> 15) & 1;
-		CPathConnection v = *(CPathConnection*)&(pf->m_carPathConnections[i]);
-		uint16_t idx = v.idx;
-		uint8_t  lightFlag = v.bTrafficLight;
-		uint8_t  crossFlag = v.bCrossesRoad;
-		//std::fprintf(f, "%u %u %u\n", idx, lightFlag, crossFlag);
-		//std::fprintf(f, "%d %u %u %u\n", i, idx, lightFlag, crossFlag);
-		std::fprintf(f, "[%d] %u %u %u\n", i, idx, lightFlag, crossFlag);
+		std::fprintf(f, "[%d] %u\n", i, pf->m_carPathConnections[i]);
 	}
 	std::fprintf(f, "end\n\n");
 

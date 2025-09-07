@@ -244,7 +244,7 @@ public:
 
 class CHandlingBoat final
 {
-private:
+//private:
 #ifdef LCS
 	int32 nIdentifier;
 #endif
@@ -261,7 +261,14 @@ private:
 #endif
 	CVuVector moveRes;
 	CVuVector turnRes;
+#ifdef LCS
 	float     unk[4];  // All 0 in LCS (padding?), in VCS usually values { 0.75, 0.9, 0.75, 0.95 } (???)
+#else
+	float fBoatVolumeDistribution[9]; // 3*3
+	uint8 padding2[12]; // from fBoatVolumeDistribution 4*3
+	CVuVector scaleMax;
+	CVuVector scaleMin;
+#endif
 
 public:
 	const char* GetThrustY()         { return Precision(fThrustY);       }
@@ -281,6 +288,13 @@ public:
 #ifdef LCS
 	const char* GetHandlingName();
 #endif
+	const char* GetBoatVolumeDistribution(int idx) { return Precision3(fBoatVolumeDistribution[idx]); }
+	const char* GetScaleMaxX() { return Precision3(scaleMax.x); }
+	const char* GetScaleMaxY() { return Precision3(scaleMax.y); }
+	const char* GetScaleMaxZ() { return Precision3(scaleMax.z); }
+	const char* GetScaleMinX() { return Precision3(scaleMin.x); }
+	const char* GetScaleMinY() { return Precision3(scaleMin.y); }
+	const char* GetScaleMinZ() { return Precision3(scaleMin.z); }
 };
 
 #ifdef LCS

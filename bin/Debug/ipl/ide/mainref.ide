@@ -1,0 +1,243 @@
+# 
+objs
+6300, hash_CEF90225, knackers, 1, 120, 0
+6301, hash_E1153EC5, knackers, 1, 120, 0
+6302, hash_DFC0FBBF, knackers, 1, 90, 0
+6303, hash_4808A610, knackers, 1, 80, 0
+6304, hash_38856624, knackers, 1, 80, 0
+6305, hash_8BD5140E, knackers, 1, 200, 0
+6306, hash_DB78A7D4, knackers, 1, 60, 0
+6307, hash_DCE73F02, knackers, 1, 90, 0
+6308, hash_9C439C57, knackers, 1, 60, 0
+6309, hash_06C27E80, knackers, 1, 65, 0
+6310, hash_6436F504, knackers, 1, 160, 0
+6311, hash_790D842A, knackers, 1, 170, 0
+6312, hash_82988F6A, knackers, 1, 60, 0
+6313, hash_1B91DED0, knackers, 1, 60, 0
+6314, hash_6C96EE46, knackers, 1, 60, 0
+6315, hash_F2F27BE5, knackers, 1, 60, 0
+6316, hash_358041A1, knackers, 1, 65, 0
+6317, hash_C4F01218, knackers, 1, 65, 0
+6318, hash_97DAD9DB, knackers, 1, 65, 0
+6319, hash_387BE05F, knackers, 1, 100, 0
+6320, hash_345A3D28, knackers, 1, 65, 0
+6321, hash_E684F832, knackers, 1, 100, 0
+6322, hash_268DA374, knackers, 1, 600, 0
+6323, hash_387D7BAB, knackers, 1, 130, 0
+6324, hash_674A6772, knackers, 1, 65, 0
+6325, hash_8388B613, knackers, 1, 165, 0
+6326, jm_apsteps01, knackers, 1, 200, 0
+6327, hash_403CED18, knackers, 1, 160, 0
+6328, hash_D935BCA2, knackers, 1, 120, 0
+6329, hash_AE328C34, knackers, 1, 160, 0
+6330, dr_roofbloka, knackers, 1, 100, 0
+6331, dr_roofblokc, knackers, 1, 100, 0
+6332, dr_roofblokb, knackers, 1, 100, 0
+6333, dr_roofventa, knackers, 1, 100, 0
+6334, dr_roofventb, knackers, 1, 100, 0
+6335, dr_roofblokd, knackers, 1, 100, 0
+6336, dr_roofbloke, knackers, 1, 100, 0
+6337, dr_basketball, knackers, 1, 90, 0
+6338, dr_haitihute, knackers, 1, 200, 0
+6339, dr_haitihutc, knackers, 1, 200, 0
+6340, dr_haitihutb, knackers, 1, 200, 0
+6341, dr_haitihuta, knackers, 1, 200, 0
+6342, dr_haitihutd, knackers, 1, 200, 0
+6343, dr_haitihutg, knackers, 1, 200, 0
+6344, dr_haitihuth, knackers, 1, 200, 0
+6345, dr_haitihutf, knackers, 1, 200, 0
+6346, dr_haitihutj, knackers, 1, 200, 0
+6347, dr_haitihuti, knackers, 1, 200, 0
+6348, dr_apsmallhang, knackers, 1, 170, 4
+6349, dr_apblock, knackers, 1, 200, 4
+6350, dr_apbighang, knackers, 1, 170, 4
+6351, hash_6584981E, knackers, 1, 100, 4
+6352, jm_boatramp, knackers, 1, 200, 0
+6353, hash_5B6F984E, knackers, 1, 160, 0
+6354, dr_portacabin, knackers, 1, 130, 0
+6355, hash_0C4E76D2, knackers, 1, 130, 0
+6356, hash_A131046E, knackers, 1, 100, 0
+6357, dr_bigpipe, knackers, 1, 100, 0
+6358, hash_BFAFC9E2, knackers, 1, 100, 0
+6359, hash_F682C6FD, knackers, 1, 100, 0
+6360, hash_C113A7D1, knackers, 1, 100, 0
+6361, hash_B749F474, knackers, 1, 100, 0
+6362, hash_673E7995, knackers, 1, 100, 0
+6363, dr_snl_hse4, knackers, 1, 150, 0
+6364, DR_TRAILERA, knackers, 1, 150, 0
+6365, dr_tcanopya, knackers, 1, 100, 0
+6366, dr_tcanopyb, knackers, 1, 100, 0
+6367, dr_tcanopyc, knackers, 1, 100, 0
+6368, DR_TRAILERC, knackers, 1, 150, 0
+6369, dr_tcanopyd, knackers, 1, 100, 0
+6370, DR_TRAILERD, knackers, 1, 150, 0
+6371, DR_TRAILERE, knackers, 1, 150, 0
+6372, dr_tcanopye, knackers, 1, 100, 0
+6373, hash_7092F2B9, knackers, 1, 100, 0
+6374, hash_E99BA303, knackers, 1, 100, 0
+6375, hash_00F80636, knackers, 1, 100, 0
+6376, hash_9E9C9395, knackers, 1, 100, 0
+6377, DR_TRAILERB, knackers, 1, 100, 0
+6378, wh_prop09, wh_prop09, 1, 100, 0
+6379, wh_prop04, wh_prop04, 1, 100, 0
+6380, wh_prop13, wh_prop13, 1, 100, 0
+6381, wh_debris, wh_debris, 1, 100, 0
+6382, me_warehouseint, knackers, 1, 100, 0
+6383, JM_LBCRANE, knackers, 1, 100, 0
+6384, JM_LIFEBOAT, knackers, 1, 100, 0
+6385, hash_880AD36D, knackers, 1, 200, 0
+6386, hash_6B760079, knackers, 1, 299, 0
+6387, JM_HANGAR01, knackers, 1, 299, 0
+6388, dr_bigskipa, knackers, 1, 70, 128
+6389, dr_bigskipjump, dr_bigskipjump, 1, 160, 0
+6390, dr_roofbilla, knackers, 1, 140, 0
+6391, hash_E97A2F72, knackers, 1, 200, 1
+6392, jm_oilpipe01, knackers, 1, 150, 0
+6393, jm_oilpipejnt, knackers, 1, 150, 0
+6394, jm_oilpipe_b2, knackers, 1, 150, 0
+6395, hash_6362DDE0, knackers, 1, 150, 0
+6396, jm_oilpipe02, knackers, 1, 150, 0
+6397, hash_638482E9, knackers, 1, 110, 0
+6398, jm_oilpipe03, knackers, 1, 150, 0
+6399, hash_AC02D609, knackers, 1, 100, 0
+6400, apt_fltanks_dest, knackers, 1, 250, 0
+6401, hash_597D1D03, knackers, 1, 210, 0
+6402, hash_D31AD37B, knackers, 1, 100, 0
+6403, hash_A43D21C9, knackers, 1, 100, 0
+6404, pm_destwin, pm_destwin, 1, 299, 1536
+6405, hash_B03FABEE, knackers, 1, 100, 0
+6406, hash_585D06BA, knackers, 1, 100, 0
+6407, hash_CAF4D2C5, knackers, 1, 100, 0
+6408, hash_36BF117A, knackers, 1, 100, 0
+6409, hash_FBAAD2C7, knackers, 1, 150, 0
+6410, jm_oilpipe_b1, knackers, 1, 150, 0
+6411, dr_cin_b, knackers, 1, 100, 0
+6412, ed_flatbed, knackers, 1, 160, 0
+6413, ed_container, knackers, 1, 160, 0
+6414, hash_9BFCB282, knackers, 1, 160, 0
+6415, ED_TRAILER, knackers, 1, 160, 0
+6416, LODTRAILERE, knackers, 1, 800, 0
+6417, LODTRAILERD, knackers, 1, 800, 0
+6418, LODTRAILERA, knackers, 1, 800, 0
+6419, LODTRAILERC, knackers, 1, 800, 0
+6420, LODsnl_hse4, knackers, 1, 800, 0
+6421, LODlhav_hsea, knackers, 1, 800, 0
+6422, LODlhav_hseb, knackers, 1, 800, 0
+6423, dr_haithouseF, knackers, 1, 100, 0
+6424, dr_haithouseE, knackers, 1, 100, 0
+6425, dr_haithouseH, knackers, 1, 100, 0
+6426, dr_haithouseB, knackers, 1, 100, 0
+6427, dr_haithouseG, knackers, 1, 100, 0
+6428, dr_haithouseI, knackers, 1, 100, 0
+6429, dr_haithouseD, knackers, 1, 100, 0
+6430, dr_haithouseA, knackers, 1, 100, 0
+6431, dr_haithouseC, knackers, 1, 100, 0
+6432, hash_3C80FD13, knackers, 1, 180, 128
+6433, dr_lhav_hsea, knackers, 1, 100, 0
+6434, dr_lhav_hseb, knackers, 1, 100, 0
+6435, dr_lhav_hsec, knackers, 1, 100, 0
+6436, dr_lhav_hsed, knackers, 1, 100, 0
+6437, LODlhav_hsec, knackers, 1, 800, 0
+6438, LODlhav_hsed, knackers, 1, 800, 0
+6439, hash_FD89FFDE, knackers, 1, 900, 0
+6440, LODhaithouseH, knackers, 1, 800, 0
+6441, LODhaithouseA, knackers, 1, 800, 0
+6442, LODhaithouseC, knackers, 1, 800, 0
+6443, LODhaithouseE, knackers, 1, 800, 0
+6444, LODhaithouseI, knackers, 1, 800, 0
+6445, LODhaithouseG, knackers, 1, 800, 0
+6446, LODhaithouseF, knackers, 1, 800, 0
+6447, LODhaithouseB, knackers, 1, 800, 0
+6448, LODhaithouseD, knackers, 1, 800, 0
+6449, hash_6A34BA00, knackers, 1, 180, 0
+6450, LODairliner, knackers, 1, 800, 0
+6451, ed_airliner, knackers, 1, 160, 0
+6452, dr_opendump, knackers, 1, 70, 128
+6453, hash_B3E9F13C, knackers, 1, 100, 0
+6454, haitin_sh_int, knackers, 1, 250, 0
+6455, hash_C9A13574, knackers, 1, 250, 0
+6456, apn_sh_int, knackers, 1, 250, 0
+6457, hash_A5E5A147, knackers, 1, 250, 0
+6458, dks_sh_int, knackers, 1, 250, 0
+6459, hash_275B5603, knackers, 1, 250, 0
+6460, hash_69DC26D1, knackers, 1, 250, 0
+6461, hash_96E2F513, knackers, 1, 250, 0
+6462, hash_1199FB6B, knackers, 1, 100, 0
+6463, hash_2814C7AE, knackers, 1, 250, 0
+6464, hash_2BA45CF8, knackers, 1, 100, 0
+6465, hash_018A6B16, knackers, 1, 250, 0
+6466, hash_1AB76BB1, knackers, 1, 250, 0
+6467, hash_6A7C760E, knackers, 1, 100, 0
+6468, hash_9814D28D, knackers, 1, 299, 128
+6469, LODapsmallhang, knackers, 1, 2000, 0
+6476, LOD_fltanks_dest, LOD_fltanks_dest, 1, 2000, 0
+6480, LODapbighang, knackers, 1, 2000, 0
+end
+2dfx
+6303, 0.0212402, -0.0183105, 1.02853, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+6390, -6.17741, 1.32915, 3.26938, 223, 181, 91, 200, 0, "coronastar", "shad_exp", 150, 18, 3, 0, 0, 1, 0, 0, 0
+6390, -0.0709343, 1.32915, 3.26938, 223, 181, 91, 200, 0, "coronastar", "shad_exp", 150, 18, 3, 0, 0, 1, 0, 0, 0
+6390, 6.12617, 1.32915, 3.26938, 223, 181, 91, 200, 0, "coronastar", "shad_exp", 150, 18, 3, 0, 0, 1, 0, 0, 0
+6403, -5.54584, 10.2131, 20.222, 228, 226, 223, 200, 0, "coronastar", "shad_exp", 100, 3, 2.5, 0, 0, 1, 0, 0, 0
+6403, -0.0185547, 10.2131, 20.222, 228, 226, 223, 200, 0, "coronastar", "shad_exp", 100, 3, 2.5, 0, 0, 1, 0, 0, 0
+6403, 5.41829, 10.2131, 20.222, 228, 226, 223, 200, 0, "coronastar", "shad_exp", 100, 3, 2.5, 0, 0, 1, 0, 0, 0
+6403, -0.0185547, 5.1405, 20.222, 228, 226, 223, 200, 0, "coronastar", "shad_exp", 100, 3, 2.5, 0, 0, 1, 0, 0, 0
+6403, 5.41829, 5.1405, 20.222, 228, 226, 223, 200, 0, "coronastar", "shad_exp", 100, 3, 2.5, 0, 0, 1, 0, 0, 0
+6403, -5.54584, 5.1405, 20.222, 228, 226, 223, 200, 0, "coronastar", "shad_exp", 100, 3, 2.5, 0, 0, 1, 0, 0, 0
+6403, -0.0185547, 0.216614, 20.222, 228, 226, 223, 200, 0, "coronastar", "shad_exp", 100, 3, 2.5, 0, 0, 1, 0, 0, 0
+6403, 5.41829, 0.216614, 20.222, 228, 226, 223, 200, 0, "coronastar", "shad_exp", 100, 3, 2.5, 0, 0, 1, 0, 0, 0
+6403, -5.54584, 0.216614, 20.222, 228, 226, 223, 200, 0, "coronastar", "shad_exp", 100, 3, 2.5, 0, 0, 1, 0, 0, 0
+6403, -0.0185547, -4.81927, 20.222, 228, 226, 223, 200, 0, "coronastar", "shad_exp", 100, 3, 2.5, 0, 0, 1, 0, 0, 0
+6403, 5.41829, -4.81927, 20.222, 228, 226, 223, 200, 0, "coronastar", "shad_exp", 100, 3, 2.5, 0, 0, 1, 0, 0, 0
+6403, -5.54584, -4.81927, 20.222, 228, 226, 223, 200, 0, "coronastar", "shad_exp", 100, 3, 2.5, 0, 0, 1, 0, 0, 0
+6403, -0.0185547, -11.6699, 18.8945, 228, 226, 223, 200, 0, "coronastar", "shad_exp", 100, 3, 2.5, 0, 0, 1, 0, 0, 0
+6403, -5.54584, -11.6699, 18.8945, 228, 226, 223, 200, 0, "coronastar", "shad_exp", 100, 3, 2.5, 0, 0, 1, 0, 0, 0
+6403, 5.41829, -11.6699, 18.8945, 228, 226, 223, 200, 0, "coronastar", "shad_exp", 100, 3, 2.5, 0, 0, 1, 0, 0, 0
+6449, -0.0496006, 1.02681, 3.60012, 223, 181, 91, 200, 0, "coronastar", "shad_exp", 150, 18, 3, 0, 0, 1, 0, 0, 0
+6449, -6.15608, 1.02681, 3.60012, 223, 181, 91, 200, 0, "coronastar", "shad_exp", 150, 18, 3, 0, 0, 1, 0, 0, 0
+6449, 6.1475, 1.02681, 3.60012, 223, 181, 91, 200, 0, "coronastar", "shad_exp", 150, 18, 3, 0, 0, 1, 0, 0, 0
+6453, 2.29126, -5.07346, -1.32296, 255, 247, 235, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 0, 0, 0, 0, 0
+6453, 5.75708, -5.07346, -1.32296, 255, 247, 235, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 0, 0, 0, 0, 0
+6453, 9.22583, -5.07346, -1.32296, 255, 247, 235, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 0, 0, 0, 0, 0
+6453, 2.29126, -10.1103, -1.32296, 255, 247, 235, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 0, 0, 0, 0, 0
+6453, 5.75708, -10.1103, -1.32296, 255, 247, 235, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 0, 0, 0, 0, 0
+6453, 9.22583, -10.1103, -1.32296, 255, 247, 235, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 0, 0, 0, 0, 0
+6453, 12.2485, -10.1103, -1.32296, 255, 247, 235, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 0, 0, 0, 0, 0
+6453, -11.311, -6.67606, -0.710966, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 0, 0, 0, 0, 0
+6455, -2.9729, 6.12378, 0.530985, 209, 188, 161, 200, 0, "coronastar", "shad_exp", 100, 1, 1.5, 0, 0, 0, 0, 0, 0
+6455, 0.0541992, 6.11572, 0.554018, 209, 188, 161, 200, 0, "coronastar", "shad_exp", 100, 1, 1.5, 0, 0, 0, 0, 0, 0
+6455, 3.22607, 6.11572, 0.48517, 209, 188, 161, 200, 0, "coronastar", "shad_exp", 100, 1, 1.5, 0, 0, 0, 0, 0, 0
+6456, 0.00538635, -6.8443, 3.03011, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6456, -2.55943, -11.9388, 3.03011, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6456, 2.58139, -11.9388, 3.03011, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6456, 0.000640869, -2.28763, 3.03011, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6456, 0.000640869, 2.31067, 3.03011, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6456, 0.000640869, 6.83078, 3.03011, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6456, -4.4954, 13.2723, 3.03011, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6456, 4.47734, 13.2723, 3.03011, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6457, 0.590134, 0.450424, 1.47691, 253, 252, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6457, -7.5162, -0.655655, 1.47691, 253, 252, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6458, 0.599396, 0.445221, 1.21739, 253, 252, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6458, -7.53033, -0.66037, 1.21739, 253, 252, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6460, -3.27512, 2.48474, 3.03289, 252, 252, 236, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6460, -2.36497, -1.48645, 3.03289, 252, 252, 236, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6461, 8.98505, -4.51572, 17.5958, 251, 252, 236, 200, 0, "coronastar", "shad_exp", 100, 0, 1.5, 0, 0, 0, 0, 0, 0
+6461, 5.89912, -2.1384, 17.5958, 252, 252, 236, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6461, 12.36, -2.67673, 17.5958, 251, 252, 236, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6462, -4.95065, 3.38245, 0.883604, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6463, -5.89667, -1.96094, 8.25684, 252, 252, 236, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6463, -11.9811, 0.630768, 8.25684, 252, 252, 236, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6463, -12.0682, -5.44302, 8.25684, 252, 252, 236, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6463, -7.03271, -9.44424, 8.3488, 252, 252, 236, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6463, -10.656, -2.17874, 8.60732, 252, 252, 236, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6463, -5.13458, -0.452454, 8.60732, 252, 252, 236, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6464, -9.69401, -29.0157, 30.5644, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6464, -8.31406, -29.832, 30.5644, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6464, -9.70242, -30.6242, 30.5644, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6464, -3.89371, -33.8385, 30.5644, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6464, -5.27082, -34.6228, 30.5644, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6464, -3.90603, -35.4418, 30.5644, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6465, 3.1633, 4.94159, -0.17139, 252, 253, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6466, -4.46007, -13.2564, 2.99591, 252, 252, 236, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+6466, 4.47263, -13.2564, 2.99591, 252, 252, 236, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+end
