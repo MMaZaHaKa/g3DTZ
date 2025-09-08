@@ -58,8 +58,23 @@ public:
 	}
 } names;
 
+#include <string>
+#include <algorithm>
+std::string ToUpper(std::string strToConvert)
+{
+	std::transform(strToConvert.begin(), strToConvert.end(), strToConvert.begin(), std::toupper); //::toupper
+	return strToConvert;
+}
+std::string ToLower(std::string strToConvert)
+{
+	std::transform(strToConvert.begin(), strToConvert.end(), strToConvert.begin(), std::tolower);
+	return strToConvert;
+}
+std::string str = "";
 const char* CBaseModelInfo::GetModelName()
 {
+	str = ToUpper(names[m_hashname]);
+	return str.c_str();
 	return names[m_hashname];
 }
 

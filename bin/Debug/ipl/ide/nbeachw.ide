@@ -1,183 +1,183 @@
 # 
 objs
-5370, nbeachroads01, knackers, 1, 170, 0
-5371, nbeachroads02, knackers, 1, 200, 0
-5372, nbeachroads03, knackers, 1, 145, 0
-5373, starbits13, knackers, 1, 180, 0
-5374, starbits20, knackers, 1, 60, 0
-5375, starbits05, knackers, 1, 100, 0
-5376, nw_nbwroad01, knackers, 1, 200, 1
-5377, starwaterfrnt05, knackers, 1, 108, 0
-5378, starwaterfrnt06, knackers, 1, 170, 0
-5379, starwaterfrnt09, knackers, 1, 180, 0
-5380, starwaterfrnt10, knackers, 1, 180, 0
-5381, starwaterfrnt11, knackers, 1, 180, 0
-5382, starwaterfrnt12, knackers, 1, 180, 0
-5383, nbt_htlpoolbase02, knackers, 1, 108, 0
-5384, nw_nbwroad04, knackers, 1, 100, 1
-5385, starblocks02, knackers, 1, 179.4, 1
-5386, starblocks03, knackers, 1, 200, 1
-5387, nw_nbwroad06, knackers, 1, 220, 1
-5388, nbw_bush01, knackers, 1, 140, 0
-5389, starbits52, knackers, 1, 84, 0
-5390, nbeachwjetty01, knackers, 1, 100, 0
-5391, stardepot, knackers, 1, 250, 1
-5392, nbt_apartpool01, knackers, 1, 108, 0
-5393, nbt_apartpool02, knackers, 1, 108, 0
-5394, nbt_balcony02, knackers, 1, 60, 0
-5395, nbt_balcony03, knackers, 1, 60, 0
-5396, nbt_balcony05, knackers, 1, 60, 0
-5397, nbt_htlpoolbar01, knackers, 1, 60, 0
-5398, nbt_apartpool03, knackers, 1, 60, 0
-5399, nbt_barfence01, knackers, 1, 30, 0
-5400, nbt_htlpoolrm01, knackers, 1, 60, 0
-5401, nbt_htlpoolrm02, knackers, 1, 60, 0
-5402, nbt_htlpoolbase01, knackers, 1, 108, 0
-5403, LODachroads02, knackers, 1, 2000, 0
-5404, LODachroads03, knackers, 1, 2000, 0
-5405, LODrbits13, knackers, 1, 2000, 0
-5406, LODrbits05, knackers, 1, 2000, 0
-5407, LODnbwroad01, knackers, 1, 2000, 0
-5408, LODrwaterfrnt05, knackers, 1, 2000, 0
-5409, LODrwaterfrnt06, knackers, 1, 2000, 0
-5410, LODrwaterfrnt07, knackers, 1, 2000, 0
-5411, LODrwaterfrnt08, knackers, 1, 2000, 0
-5412, LODrwaterfrnt11, knackers, 1, 2000, 0
-5413, LOD_htlpoolbase02, knackers, 1, 2000, 0
-5414, LODnbwroad04, knackers, 1, 2000, 0
-5415, LODachroads01, knackers, 1, 2000, 0
-5416, LODnbwroad06, knackers, 1, 2000, 0
-5417, LODnbwroad05, knackers, 1, 2000, 0
-5418, LODrbits52, knackers, 1, 2000, 0
-5419, LODachwjetty01, knackers, 1, 2000, 0
-5420, LOD_htlpoolbase01, knackers, 1, 2000, 0
-5421, LODrwaterfrnt10, knackers, 1, 2000, 0
-5422, hash_422BDCB9, knackers, 1, 2000, 0
-5423, LODrblocks02, knackers, 1, 2000, 0
-5424, LODrblocks03, knackers, 1, 2000, 0
-5425, LOD_htlpoolbar01, knackers, 1, 2000, 0
-5426, nw_nbwroad08, knackers, 1, 185, 1
-5427, nbt_htlpoolbase03, knackers, 1, 108, 0
-5428, LOD_htlpoolbase03, knackers, 1, 2000, 0
-5429, LODnbwroad08, knackers, 1, 2000, 0
-5430, LODrwaterfrnt09, knackers, 1, 2000, 0
-5431, nbt_htlpoolbase04, knackers, 1, 108, 0
-5432, LOD_htlpoolrm02, knackers, 1, 2000, 0
-5433, LOD_htlpoolrm01, knackers, 1, 2000, 0
-5434, starbitbush, knackers, 1, 60, 0
-5435, nbeachroads09, knackers, 1, 130, 0
-5436, LODachroads09, knackers, 1, 2000, 0
-5437, starwaterfrnt09b, knackers, 1, 180, 0
-5438, LODrwaterfrnt09b, knackers, 1, 2000, 0
-5439, starsbush2, knackers, 1, 60, 0
-5440, LOD_htlpoolbase04, knackers, 1, 2000, 0
-5441, starbits13c, knackers, 1, 180, 0
-5442, LODrbits13c, knackers, 1, 2000, 0
-5443, nbt_htlpoolbase01b, knackers, 1, 108, 0
-5444, LOD_htlpoolbase01b, knackers, 1, 2000, 0
-5445, starwaterfrnt07, knackers, 1, 128, 0
-5446, starwaterfrnt08, knackers, 1, 180, 0
-5447, nw_nbwroad05, knackers, 1, 200, 1
-5448, nw_nbwroad07, knackers, 1, 200, 1
-5449, nw_nbwroad03, knackers, 1, 200, 1
-5450, nw_nbwroad02, knackers, 1, 250, 1
-5451, nbw_grssypatch, knackers, 1, 100, 0
-5452, nbw_bridgew, knackers, 1, 200, 1
-5453, LODnbwroad07, knackers, 1, 2000, 0
-5454, LODnbwroad03, knackers, 1, 2000, 0
-5455, LODnbwroad02, knackers, 1, 2000, 0
-5456, LOD_bridgew, knackers, 1, 2000, 0
-5457, LOD_grssypatch, knackers, 1, 2000, 0
-5458, nbt_htlpool01, knackers, 1, 108, 0
-5459, starbl02b, knackers, 1, 160, 1
-5460, LODrbl02b, knackers, 1, 2000, 0
-5461, nbeachwjetty02, knackers, 1, 120, 0
-5462, LODachwjetty02, knackers, 1, 2000, 0
-5463, starwaterfrnt06b, knackers, 1, 170, 0
-5464, LODrwaterfrnt06b, knackers, 1, 2000, 0
-5465, starwaterfrnt07b, knackers, 1, 108, 0
-5466, LODrwaterfrnt07b, knackers, 1, 2000, 0
-5467, wash_hardwares, knackers, 1, 100, 0
-5468, nbchwbridge, knackers, 1, 200, 1
-5469, LODh_hardwares, knackers, 1, 2000, 0
-5470, nbw_bush02, knackers, 1, 100, 0
-5471, LODhwbridge, knackers, 1, 2000, 0
-5472, nbt_htlpiswr01, knackers, 1, 100, 0
-5473, nbt_htlpiswr02, knackers, 1, 100, 0
-5474, nbw_roadsigns, knackers, 1, 150, 0
-5475, nbbridgbit2, knackers, 1, 185, 1
-5476, nbchwbridgb, knackers, 1, 200, 1
-5477, nbwbusshy2, knackers, 1, 120, 0
-5478, nbeachbed02, knackers, 1, 65, 0
-5479, muck_nbeachw, knackers, 1, 100, 0
-5480, eb_nbw_22, knackers, 1, 100, 0
-5481, eb_nbw_21, knackers, 1, 100, 0
-5482, hash_788C4791, knackers, 1, 200, 0
-5483, pm_bigw_fence, knackers, 1, 100, 0
-5484, hash_CD62FD3D, knackers, 1, 100, 0
-5485, hash_6010EEF9, knackers, 1, 75, 0
-5486, hash_4A3F63D4, knackers, 1, 50, 0
-5487, pm_fortsign, knackers, 1, 250, 0
-5488, pm_fortshortwall, knackers, 1, 160, 0
-5489, pm_forthiwall, knackers, 1, 250, 0
-5490, hash_00C3A9E5, knackers, 1, 250, 0
-5491, pm_forthiwall01, knackers, 1, 250, 0
-5492, pm_fair_cost, knackers, 1, 50, 0
-5493, hash_95DF5A6C, knackers, 1, 100, 0
-5494, hash_7BD13B40, knackers, 1, 75, 0
-5495, hash_EE932260, knackers, 1, 150, 0
-5496, hash_F11C37C6, knackers, 1, 250, 1
-5497, pm_lightramp, knackers, 1, 100, 0
-5498, hash_EC61DFF2, knackers, 1, 299, 0
-5499, ferris_wheel, knackers, 1, 299, 0
-5500, pm_fairlights_dum, pm_fairlights_dum, 1, 299, 0
-5501, nbw_sh_ext, knackers, 1, 299, 0
-5502, hash_2EBDB981, knackers, 1, 299, 0
-5503, pm_gardrsafe4, pm_gardrsafe4, 1, 100, 0
-5505, buildingground40, knackers, 1, 145, 0
-5506, starbits13b, knackers, 1, 180, 0
-5507, hash_81984EBC, knackers, 1, 60, 4
-5508, hash_F42F1966, knackers, 1, 65, 0
-5509, hash_BD800AA0, knackers, 1, 86, 0
-5510, hash_B0E3AE65, knackers, 1, 100, 0
-5511, hash_948E3C1F, knackers, 1, 100, 0
-5512, hash_2442CA50, knackers, 1, 65, 0
-5513, hash_C516128E, knackers, 1, 250, 0
-5514, hash_BC1B6605, knackers, 1, 180, 164
-5518, pmcoffeeb, knackers, 1, 150, 0
-5519, pmcoffeea, knackers, 1, 165, 0
-5520, pm_roofarc1, knackers, 1, 100, 0
-5521, pm_roofarc02, knackers, 1, 100, 0
-5522, hash_5413E7B8, knackers, 1, 50, 0
-5523, nbw_bill01, knackers, 1, 140, 0
-5524, hash_F1B5351A, knackers, 1, 80, 0
-5525, hash_71CEDA46, knackers, 1, 1500, 0
-5526, hash_A031E31C, knackers, 1, 2000, 0
-5527, LODris_wheel, knackers, 1, 2000, 0
-5534, hash_D4255B5C, knackers, 1, 50, 0
-5535, hash_C588430F, knackers, 1, 50, 0
-5536, hash_BDA68C85, knackers, 1, 2000, 0
-5543, LODrwaterfrnt12, knackers, 1, 2000, 0
-5544, LODrbits13b, knackers, 1, 2000, 0
-5545, LODldingground40, knackers, 1, 2000, 0
+5370, NBEACHROADS01, knackers, 1, 170, 0
+5371, NBEACHROADS02, knackers, 1, 200, 0
+5372, NBEACHROADS03, knackers, 1, 145, 0
+5373, STARBITS13, knackers, 1, 180, 0
+5374, STARBITS20, knackers, 1, 60, 0
+5375, STARBITS05, knackers, 1, 100, 0
+5376, NW_NBWROAD01, knackers, 1, 200, 1
+5377, STARWATERFRNT05, knackers, 1, 108, 0
+5378, STARWATERFRNT06, knackers, 1, 170, 0
+5379, STARWATERFRNT09, knackers, 1, 180, 0
+5380, STARWATERFRNT10, knackers, 1, 180, 0
+5381, STARWATERFRNT11, knackers, 1, 180, 0
+5382, STARWATERFRNT12, knackers, 1, 180, 0
+5383, NBT_HTLPOOLBASE02, knackers, 1, 108, 0
+5384, NW_NBWROAD04, knackers, 1, 100, 1
+5385, STARBLOCKS02, knackers, 1, 179.4, 1
+5386, STARBLOCKS03, knackers, 1, 200, 1
+5387, NW_NBWROAD06, knackers, 1, 220, 1
+5388, NBW_BUSH01, knackers, 1, 140, 0
+5389, STARBITS52, knackers, 1, 84, 0
+5390, NBEACHWJETTY01, knackers, 1, 100, 0
+5391, STARDEPOT, knackers, 1, 250, 1
+5392, NBT_APARTPOOL01, knackers, 1, 108, 0
+5393, NBT_APARTPOOL02, knackers, 1, 108, 0
+5394, NBT_BALCONY02, knackers, 1, 60, 0
+5395, NBT_BALCONY03, knackers, 1, 60, 0
+5396, NBT_BALCONY05, knackers, 1, 60, 0
+5397, NBT_HTLPOOLBAR01, knackers, 1, 60, 0
+5398, NBT_APARTPOOL03, knackers, 1, 60, 0
+5399, NBT_BARFENCE01, knackers, 1, 30, 0
+5400, NBT_HTLPOOLRM01, knackers, 1, 60, 0
+5401, NBT_HTLPOOLRM02, knackers, 1, 60, 0
+5402, NBT_HTLPOOLBASE01, knackers, 1, 108, 0
+5403, LODACHROADS02, knackers, 1, 2000, 0
+5404, LODACHROADS03, knackers, 1, 2000, 0
+5405, LODRBITS13, knackers, 1, 2000, 0
+5406, LODRBITS05, knackers, 1, 2000, 0
+5407, LODNBWROAD01, knackers, 1, 2000, 0
+5408, LODRWATERFRNT05, knackers, 1, 2000, 0
+5409, LODRWATERFRNT06, knackers, 1, 2000, 0
+5410, LODRWATERFRNT07, knackers, 1, 2000, 0
+5411, LODRWATERFRNT08, knackers, 1, 2000, 0
+5412, LODRWATERFRNT11, knackers, 1, 2000, 0
+5413, LOD_HTLPOOLBASE02, knackers, 1, 2000, 0
+5414, LODNBWROAD04, knackers, 1, 2000, 0
+5415, LODACHROADS01, knackers, 1, 2000, 0
+5416, LODNBWROAD06, knackers, 1, 2000, 0
+5417, LODNBWROAD05, knackers, 1, 2000, 0
+5418, LODRBITS52, knackers, 1, 2000, 0
+5419, LODACHWJETTY01, knackers, 1, 2000, 0
+5420, LOD_HTLPOOLBASE01, knackers, 1, 2000, 0
+5421, LODRWATERFRNT10, knackers, 1, 2000, 0
+5422, HASH_422BDCB9, knackers, 1, 2000, 0
+5423, LODRBLOCKS02, knackers, 1, 2000, 0
+5424, LODRBLOCKS03, knackers, 1, 2000, 0
+5425, LOD_HTLPOOLBAR01, knackers, 1, 2000, 0
+5426, NW_NBWROAD08, knackers, 1, 185, 1
+5427, NBT_HTLPOOLBASE03, knackers, 1, 108, 0
+5428, LOD_HTLPOOLBASE03, knackers, 1, 2000, 0
+5429, LODNBWROAD08, knackers, 1, 2000, 0
+5430, LODRWATERFRNT09, knackers, 1, 2000, 0
+5431, NBT_HTLPOOLBASE04, knackers, 1, 108, 0
+5432, LOD_HTLPOOLRM02, knackers, 1, 2000, 0
+5433, LOD_HTLPOOLRM01, knackers, 1, 2000, 0
+5434, STARBITBUSH, knackers, 1, 60, 0
+5435, NBEACHROADS09, knackers, 1, 130, 0
+5436, LODACHROADS09, knackers, 1, 2000, 0
+5437, STARWATERFRNT09B, knackers, 1, 180, 0
+5438, LODRWATERFRNT09B, knackers, 1, 2000, 0
+5439, STARSBUSH2, knackers, 1, 60, 0
+5440, LOD_HTLPOOLBASE04, knackers, 1, 2000, 0
+5441, STARBITS13C, knackers, 1, 180, 0
+5442, LODRBITS13C, knackers, 1, 2000, 0
+5443, NBT_HTLPOOLBASE01B, knackers, 1, 108, 0
+5444, LOD_HTLPOOLBASE01B, knackers, 1, 2000, 0
+5445, STARWATERFRNT07, knackers, 1, 128, 0
+5446, STARWATERFRNT08, knackers, 1, 180, 0
+5447, NW_NBWROAD05, knackers, 1, 200, 1
+5448, NW_NBWROAD07, knackers, 1, 200, 1
+5449, NW_NBWROAD03, knackers, 1, 200, 1
+5450, NW_NBWROAD02, knackers, 1, 250, 1
+5451, NBW_GRSSYPATCH, knackers, 1, 100, 0
+5452, NBW_BRIDGEW, knackers, 1, 200, 1
+5453, LODNBWROAD07, knackers, 1, 2000, 0
+5454, LODNBWROAD03, knackers, 1, 2000, 0
+5455, LODNBWROAD02, knackers, 1, 2000, 0
+5456, LOD_BRIDGEW, knackers, 1, 2000, 0
+5457, LOD_GRSSYPATCH, knackers, 1, 2000, 0
+5458, NBT_HTLPOOL01, knackers, 1, 108, 0
+5459, STARBL02B, knackers, 1, 160, 1
+5460, LODRBL02B, knackers, 1, 2000, 0
+5461, NBEACHWJETTY02, knackers, 1, 120, 0
+5462, LODACHWJETTY02, knackers, 1, 2000, 0
+5463, STARWATERFRNT06B, knackers, 1, 170, 0
+5464, LODRWATERFRNT06B, knackers, 1, 2000, 0
+5465, STARWATERFRNT07B, knackers, 1, 108, 0
+5466, LODRWATERFRNT07B, knackers, 1, 2000, 0
+5467, WASH_HARDWARES, knackers, 1, 100, 0
+5468, NBCHWBRIDGE, knackers, 1, 200, 1
+5469, LODH_HARDWARES, knackers, 1, 2000, 0
+5470, NBW_BUSH02, knackers, 1, 100, 0
+5471, LODHWBRIDGE, knackers, 1, 2000, 0
+5472, NBT_HTLPISWR01, knackers, 1, 100, 0
+5473, NBT_HTLPISWR02, knackers, 1, 100, 0
+5474, NBW_ROADSIGNS, knackers, 1, 150, 0
+5475, NBBRIDGBIT2, knackers, 1, 185, 1
+5476, NBCHWBRIDGB, knackers, 1, 200, 1
+5477, NBWBUSSHY2, knackers, 1, 120, 0
+5478, NBEACHBED02, knackers, 1, 65, 0
+5479, MUCK_NBEACHW, knackers, 1, 100, 0
+5480, EB_NBW_22, knackers, 1, 100, 0
+5481, EB_NBW_21, knackers, 1, 100, 0
+5482, HASH_788C4791, knackers, 1, 200, 0
+5483, PM_BIGW_FENCE, knackers, 1, 100, 0
+5484, HASH_CD62FD3D, knackers, 1, 100, 0
+5485, HASH_6010EEF9, knackers, 1, 75, 0
+5486, HASH_4A3F63D4, knackers, 1, 50, 0
+5487, PM_FORTSIGN, knackers, 1, 250, 0
+5488, PM_FORTSHORTWALL, knackers, 1, 160, 0
+5489, PM_FORTHIWALL, knackers, 1, 250, 0
+5490, HASH_00C3A9E5, knackers, 1, 250, 0
+5491, PM_FORTHIWALL01, knackers, 1, 250, 0
+5492, PM_FAIR_COST, knackers, 1, 50, 0
+5493, HASH_95DF5A6C, knackers, 1, 100, 0
+5494, HASH_7BD13B40, knackers, 1, 75, 0
+5495, HASH_EE932260, knackers, 1, 150, 0
+5496, HASH_F11C37C6, knackers, 1, 250, 1
+5497, PM_LIGHTRAMP, knackers, 1, 100, 0
+5498, HASH_EC61DFF2, knackers, 1, 299, 0
+5499, FERRIS_WHEEL, knackers, 1, 299, 0
+5500, PM_FAIRLIGHTS_DUM, pm_fairlights_dum, 1, 299, 0
+5501, NBW_SH_EXT, knackers, 1, 299, 0
+5502, HASH_2EBDB981, knackers, 1, 299, 0
+5503, PM_GARDRSAFE4, pm_gardrsafe4, 1, 100, 0
+5505, BUILDINGGROUND40, knackers, 1, 145, 0
+5506, STARBITS13B, knackers, 1, 180, 0
+5507, HASH_81984EBC, knackers, 1, 60, 4
+5508, HASH_F42F1966, knackers, 1, 65, 0
+5509, HASH_BD800AA0, knackers, 1, 86, 0
+5510, HASH_B0E3AE65, knackers, 1, 100, 0
+5511, HASH_948E3C1F, knackers, 1, 100, 0
+5512, HASH_2442CA50, knackers, 1, 65, 0
+5513, HASH_C516128E, knackers, 1, 250, 0
+5514, HASH_BC1B6605, knackers, 1, 180, 164
+5518, PMCOFFEEB, knackers, 1, 150, 0
+5519, PMCOFFEEA, knackers, 1, 165, 0
+5520, PM_ROOFARC1, knackers, 1, 100, 0
+5521, PM_ROOFARC02, knackers, 1, 100, 0
+5522, HASH_5413E7B8, knackers, 1, 50, 0
+5523, NBW_BILL01, knackers, 1, 140, 0
+5524, HASH_F1B5351A, knackers, 1, 80, 0
+5525, HASH_71CEDA46, knackers, 1, 1500, 0
+5526, HASH_A031E31C, knackers, 1, 2000, 0
+5527, LODRIS_WHEEL, knackers, 1, 2000, 0
+5534, HASH_D4255B5C, knackers, 1, 50, 0
+5535, HASH_C588430F, knackers, 1, 50, 0
+5536, HASH_BDA68C85, knackers, 1, 2000, 0
+5543, LODRWATERFRNT12, knackers, 1, 2000, 0
+5544, LODRBITS13B, knackers, 1, 2000, 0
+5545, LODLDINGGROUND40, knackers, 1, 2000, 0
 end
 tobj
-5504, hash_AE260566, knackers, 1, 295, 172, 18, 5
-5515, nbwneon01, knackers, 1, 100, 0, 22, 5
-5516, siu_neon, knackers, 1, 180, 140, 19, 5
-5517, pm_dog_neon, knackers, 1, 250, 172, 0, 23
-5528, macnbw_lights01, knackers, 1, 299, 12, 18, 5
-5529, macnbw_lights02, knackers, 1, 299, 12, 18, 5
-5530, macnbw_lights03, knackers, 1, 299, 12, 18, 5
-5531, LODnbw_lights01, knackers, 1, 2999, 8, 18, 5
-5532, LODnbw_lights03, knackers, 1, 2999, 8, 18, 5
-5533, LODnbw_lights02, knackers, 1, 2999, 8, 18, 5
-5537, LODnbw_lights01x, knackers, 1, 5001, 12, 18, 5
-5538, LODnbw_lights02x, knackers, 1, 5001, 8, 18, 5
-5539, LODnbw_lights03x, knackers, 1, 5001, 8, 18, 5
-5540, macnbw_lights01x, knackers, 1, 299, 12, 18, 5
-5541, macnbw_lights03x, knackers, 1, 299, 12, 18, 5
-5542, macnbw_lights02x, knackers, 1, 299, 12, 18, 5
+5504, HASH_AE260566, knackers, 1, 295, 172, 18, 5
+5515, NBWNEON01, knackers, 1, 100, 0, 22, 5
+5516, SIU_NEON, knackers, 1, 180, 140, 19, 5
+5517, PM_DOG_NEON, knackers, 1, 250, 172, 0, 23
+5528, MACNBW_LIGHTS01, knackers, 1, 299, 12, 18, 5
+5529, MACNBW_LIGHTS02, knackers, 1, 299, 12, 18, 5
+5530, MACNBW_LIGHTS03, knackers, 1, 299, 12, 18, 5
+5531, LODNBW_LIGHTS01, knackers, 1, 2999, 8, 18, 5
+5532, LODNBW_LIGHTS03, knackers, 1, 2999, 8, 18, 5
+5533, LODNBW_LIGHTS02, knackers, 1, 2999, 8, 18, 5
+5537, LODNBW_LIGHTS01X, knackers, 1, 5001, 12, 18, 5
+5538, LODNBW_LIGHTS02X, knackers, 1, 5001, 8, 18, 5
+5539, LODNBW_LIGHTS03X, knackers, 1, 5001, 8, 18, 5
+5540, MACNBW_LIGHTS01X, knackers, 1, 299, 12, 18, 5
+5541, MACNBW_LIGHTS03X, knackers, 1, 299, 12, 18, 5
+5542, MACNBW_LIGHTS02X, knackers, 1, 299, 12, 18, 5
 end
 2dfx
 5402, 27.8228, -7.57376, 0.307362, 176, 168, 251, 9, 3, 0, 0.998003, -0.0631588, 0, 0.998003, -0.0631588, 0

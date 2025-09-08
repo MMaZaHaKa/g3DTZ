@@ -1,287 +1,287 @@
 # 
 objs
-2800, doontoon09, knackers, 1, 250, 1
-2801, doontoon11, knackers, 1, 250, 0
-2802, hash_3D968B1D, knackers, 1, 130, 0
-2803, doontoon22, knackers, 1, 299, 0
-2804, doontoon30, knackers, 1, 150, 1
-2805, hash_3E26104B, knackers, 1, 250, 0
-2806, doontoon47, knackers, 1, 120, 0
-2807, doontoon55, knackers, 1, 299, 0
-2808, doontoon59, knackers, 1, 250, 1
-2809, doontoon61, knackers, 1, 250, 1
-2810, doontoon62, knackers, 1, 250, 1
-2811, doontoon67, knackers, 1, 250, 1
-2812, doontoon70, knackers, 1, 250, 1
-2813, LODntoon_newbit, knackers, 1, 2000, 0
-2814, LODntoon39, knackers, 1, 3500, 0
-2815, compound_bits, knackers, 1, 100, 0
-2816, dt_compound_roof, knackers, 1, 180, 0
-2817, LODcompound_roof, knackers, 1, 1500, 0
-2818, gluetest03, knackers, 1, 50, 4
-2819, LODntoon_04_bit2, knackers, 1, 1500, 0
-2820, dt_carpsaces13, knackers, 1, 70, 4
-2821, dt_carpsaces14, knackers, 1, 70, 4
-2822, veg_gaz, knackers, 1, 160, 4
-2823, LODntoon55, knackers, 1, 3500, 0
-2824, dt_nbeach02, knackers, 1, 250, 0
-2825, LODd_downtown12, knackers, 1, 1500, 0
-2826, LODd_downtown14, knackers, 1, 1500, 0
-2827, LODd_downtown13, knackers, 1, 1500, 0
-2828, LODd_downtown04, knackers, 1, 1500, 0
-2829, LODd_downtown03, knackers, 1, 1500, 0
-2830, LODd_downtown16, knackers, 1, 2000, 0
-2831, LODd_downtown02, knackers, 1, 1500, 0
-2832, LODntoon22, knackers, 1, 3500, 0
-2833, LODntoon53, knackers, 1, 1500, 0
-2834, LODntoon54, knackers, 1, 1500, 0
-2835, LODntoon50, knackers, 1, 1500, 0
-2836, LODntoon49, knackers, 1, 1500, 0
-2837, LODntoon21, knackers, 1, 1500, 0
-2838, LODntoon51, knackers, 1, 1500, 0
-2839, LODntoon03, knackers, 1, 2000, 0
-2840, LODntoon47, knackers, 1, 1500, 0
-2841, LODntoon35, knackers, 1, 1500, 0
-2842, LODntoon_top09, knackers, 1, 2000, 0
-2843, LODntoon_top10, knackers, 1, 2000, 0
-2844, LODbuild01, knackers, 1, 2000, 0
-2845, LODbuild02, knackers, 1, 1500, 0
-2846, LODntoon18, knackers, 1, 1500, 0
-2847, LODpound_bits, knackers, 1, 1500, 0
-2848, LODntoon38, knackers, 1, 1500, 0
-2849, LODntoon37, knackers, 1, 1500, 0
-2850, LODntoon36, knackers, 1, 1500, 0
-2851, LODntoon19, knackers, 1, 1500, 0
-2852, LODntoon30, knackers, 1, 1500, 0
-2853, LODntoon29, knackers, 1, 1500, 0
-2854, LODntoon32, knackers, 1, 1500, 0
-2855, LODntoon27, knackers, 1, 1500, 0
-2856, LODntoon28, knackers, 1, 1500, 0
-2857, LODntoon31, knackers, 1, 1500, 0
-2858, LODntoon24, knackers, 1, 1500, 0
-2859, LODntoon25, knackers, 1, 1500, 0
-2860, LODntoon_top06, knackers, 1, 1500, 0
-2861, LODcompound_esc, knackers, 1, 1500, 0
-2862, dt_nbeach01, knackers, 1, 250, 0
-2863, dt_nbeach06, knackers, 1, 250, 0
-2864, LODhotel_waldt, knackers, 1, 1500, 0
-2865, LODntoon11, knackers, 1, 1500, 0
-2866, LODntoon09, knackers, 1, 1500, 0
-2867, LODnbeach05, knackers, 1, 2000, 0
-2868, LODnbeach06, knackers, 1, 2000, 0
-2869, LODntoon67, knackers, 1, 1500, 0
-2870, LODntoon04, knackers, 1, 2000, 0
-2871, hash_4E7B8F0C, knackers, 1, 1500, 0
-2872, dt_20_holewall, knackers, 1, 60, 4
-2873, LODntoon76, knackers, 1, 5001, 0
-2874, dt_carpsaces15, knackers, 1, 25, 4
-2875, LODntoon70, knackers, 1, 1500, 0
-2876, LODntoon63, knackers, 1, 2000, 0
-2877, LODntoon59, knackers, 1, 1500, 0
-2878, LODntoon62, knackers, 1, 1500, 0
-2879, xpolytrees1_dt, knackers, 1, 120, 4
-2880, xpolytrees2_dt, knackers, 1, 60, 4
-2881, xpolytrees4_dt, knackers, 1, 150, 4
-2889, LODntoon61, knackers, 1, 1500, 0
-2890, LODntoon58, knackers, 1, 1500, 0
-2891, dt_stadium_entrance, knackers, 1, 230, 0
-2892, LODstadium_entrance, knackers, 1, 1200, 0
-2893, LODstadiumland_c, knackers, 1, 2999, 0
-2894, dt_stadiumland_c, knackers, 1, 299, 0
-2895, dt_stadium_start, knackers, 1, 190, 0
-2896, dt_stadiumland_a, knackers, 1, 299, 0
-2897, dt_nbeach03, knackers, 1, 250, 0
-2898, dt_stadiumland_b, knackers, 1, 299, 0
-2899, doontoon_top06, knackers, 1, 200, 0
-2900, dt_nbeach05, knackers, 1, 200, 0
-2901, LODd_downtown17, knackers, 1, 1500, 0
-2902, dt_gspot_stairs, dt_gspot_stairs, 1, 100, 4
-2903, dt_stadiumland_d, knackers, 1, 299, 0
-2904, LODstadium_start, knackers, 1, 1500, 0
-2905, dtn_stadspacesA, knackers, 1, 299, 4
-2906, LODd_downtown15, knackers, 1, 1500, 0
-2907, LODstadiumland_b, knackers, 1, 2999, 0
-2908, LODstadiumland_a, knackers, 1, 2999, 0
-2909, LODstadiumland_d, knackers, 1, 2999, 0
-2910, LODd_downtown_new2, knackers, 1, 1500, 0
-2911, LODd_downtown11, knackers, 1, 1500, 0
-2912, LODntoon26, knackers, 1, 1500, 0
-2913, LODd_stadiuma, knackers, 1, 2000, 0
-2914, dtoon62_spaces, knackers, 1, 120, 4
-2915, LODntoon_top_bb, knackers, 1, 2000, 0
-2916, dtn_stadspacesB, knackers, 1, 299, 4
-2917, road_downtown13, knackers, 1, 250, 1
-2918, road_downtown04, knackers, 1, 250, 1
-2919, road_downtown02, knackers, 1, 150, 1
-2920, road_downtown16, knackers, 1, 250, 1
-2921, road_downtown03, knackers, 1, 250, 1
-2922, road_downtown12, knackers, 1, 250, 1
-2923, road_downtown15, knackers, 1, 250, 1
-2924, road_downtown17, knackers, 1, 250, 1
-2925, road_downtown_new2, knackers, 1, 200, 1
-2926, road_stadiuma, knackers, 1, 250, 1
-2927, road_downtown11, knackers, 1, 210, 1
-2928, dtn_cablesa, knackers, 1, 250, 4
-2929, dtn_cablesc, knackers, 1, 250, 4
-2930, road_downtown14, knackers, 1, 250, 1
-2931, stad_roadb, knackers, 1, 299, 1
-2932, stad_roadc, knackers, 1, 299, 1
-2933, stad_roadd, knackers, 1, 299, 1
-2934, stad_roada, knackers, 1, 299, 1
-2935, dtn_veg3, knackers, 1, 150, 4
-2936, dtn_veg4, knackers, 1, 150, 4
-2937, dt_stadium__alfa1, knackers, 1, 100, 4
-2938, dt_stadiumalfa2, knackers, 1, 250, 4
-2939, doontoon25_alfas, knackers, 1, 100, 132
-2940, doontoon32_alfa, knackers, 1, 110, 4
-2941, dt_compound_alfas, knackers, 1, 120, 4
-2942, doontoon03, knackers, 1, 140, 0
-2943, doontoon63, knackers, 1, 230, 1
-2944, doontoon_04_bit2, knackers, 1, 200, 0
-2945, doontoon_22_b, knackers, 1, 110, 0
-2946, doontoon_newbit, knackers, 1, 200, 1
-2947, doontoon04, knackers, 1, 250, 0
-2948, doontoon18, knackers, 1, 150, 0
-2949, doontoon21, knackers, 1, 130, 0
-2950, doontoon24, knackers, 1, 220, 0
-2951, doontoon25, knackers, 1, 200, 128
-2952, doontoon26, knackers, 1, 200, 4
-2953, doontoon27, knackers, 1, 200, 0
-2954, doontoon28, knackers, 1, 120, 0
-2955, doontoon29, knackers, 1, 150, 0
-2956, doontoon31, knackers, 1, 100, 1
-2957, doontoon32, knackers, 1, 200, 0
-2958, doontoon35, knackers, 1, 200, 0
-2959, doontoon36, knackers, 1, 120, 0
-2960, doontoon37, knackers, 1, 150, 0
-2961, doontoon38, knackers, 1, 150, 0
-2962, doontoon39, knackers, 1, 250, 0
-2963, doontoon49, knackers, 1, 100, 0
-2964, doontoon50, knackers, 1, 200, 0
-2965, doontoon51, knackers, 1, 200, 0
-2966, doontoon53, knackers, 1, 200, 128
-2967, doontoon54, knackers, 1, 150, 0
-2968, doontoon76, knackers, 1, 299, 128
-2969, dt_compound_esc, knackers, 1, 100, 0
-2970, doontoon56, knackers, 1, 299, 0
-2971, doontoon58, knackers, 1, 150, 0
-2972, doontoon_top10, knackers, 1, 200, 0
-2973, newbuild02, knackers, 1, 90, 0
-2974, doontoon_top_bb, knackers, 1, 190, 1
-2975, doontoon_top09, knackers, 1, 200, 1
-2976, hash_EFBC2A0A, knackers, 1, 80, 4
-2977, hash_98BB1A9C, knackers, 1, 50, 4
-2978, hash_CDE6F280, knackers, 1, 120, 4
-2979, dtn_cablesb_2, knackers, 1, 120, 4
-2980, dtn_cablesb_3, knackers, 1, 120, 4
-2981, eb_dtn_14, knackers, 1, 100, 0
-2982, dt_hotel_waldt, knackers, 1, 250, 0
-2983, eb_dtn_12, knackers, 1, 100, 0
-2984, eb_dtn_11, knackers, 1, 100, 0
-2985, me_bombdoor, me_bombdoor, 1, 40, 128
-2986, me_billboard03, knackers, 1, 100, 0
-2987, me_billboard04, knackers, 1, 100, 0
-2988, hash_F58A9405, knackers, 1, 150, 0
-2989, eb_dtn_13, knackers, 1, 100, 0
-2990, hash_FF5DDA3F, knackers, 1, 100, 0
-2991, hash_61394F9C, knackers, 1, 100, 0
-2992, hash_163E7F0A, knackers, 1, 100, 0
-2993, hash_8F372EB0, knackers, 1, 100, 0
-2994, hash_1153BB13, knackers, 1, 100, 0
-2995, hash_198A9395, knackers, 1, 100, 0
-2996, hash_EBA893E2, knackers, 1, 100, 0
-2997, hash_72A1C258, knackers, 1, 100, 0
-2998, hash_05A6F2CE, knackers, 1, 100, 0
-2999, hash_9BC2676D, knackers, 1, 100, 0
-3000, hash_ECC557FB, knackers, 1, 100, 0
-3001, hash_376BBEE4, knackers, 1, 100, 0
-3002, hash_AE62EF5E, knackers, 1, 100, 0
-3003, hash_D965DFC8, knackers, 1, 100, 0
-3004, hash_24215641, knackers, 1, 100, 0
-3005, hash_BA45C3E2, knackers, 1, 100, 0
-3006, hash_CD42F374, knackers, 1, 100, 0
-3007, hash_3DA8515A, knackers, 1, 250, 0
-3008, hash_4AAF61CC, knackers, 1, 100, 0
-3009, hash_A3CCC4F9, knackers, 1, 200, 0
-3010, hash_32D91AB0, knackers, 1, 100, 0
-3011, dr_dtn_fence, knackers, 1, 100, 0
-3012, hash_7F68E67B, knackers, 1, 1500, 0
-3027, hash_B6487E50, knackers, 1, 160, 0
-3028, hash_8FDA0BE1, knackers, 1, 260, 0
-3029, hash_9ECFE081, knackers, 1, 299, 0
-3030, hash_89277B3A, knackers, 1, 100, 0
-3031, hash_E485FFD1, knackers, 1, 120, 0
-3032, hash_9382CF47, knackers, 1, 120, 0
-3033, hash_63F57888, knackers, 1, 299, 0
-3036, hash_102E2A80, knackers, 1, 100, 0
-3037, hash_8E322DB5, knackers, 1, 100, 0
-3038, doontoon19, knackers, 1, 180, 0
-3039, hash_489F9F44, knackers, 1, 100, 0
-3040, hash_3F98AFD2, knackers, 1, 100, 0
-3041, hash_D6FB0AE7, knackers, 1, 100, 0
-3042, hash_38F56BCB, knackers, 1, 100, 0
-3043, hash_62CC2DF0, knackers, 1, 100, 0
-3044, hash_30879787, knackers, 1, 150, 0
-3045, hash_987DBB39, knackers, 1, 100, 0
-3046, hash_A98EC63D, knackers, 1, 170, 0
-3047, hash_DE89F6AB, knackers, 1, 170, 0
-3048, hash_40ED6308, knackers, 1, 170, 0
-3049, hash_1B82DAF0, knackers, 1, 1500, 0
-3050, hash_828B8B4A, knackers, 1, 1500, 0
-3051, hash_F58CBBDC, knackers, 1, 1500, 0
-3052, hash_6BE82E7F, knackers, 1, 1500, 0
-3053, dr_egg06, knackers, 1, 100, 0
-3054, dr_egg07, knackers, 1, 15, 0
-3055, hash_0ADB02BA, knackers, 1, 1200, 0
-3056, hash_4817BC73, knackers, 1, 100, 0
-3057, dr_dtn_bodge, knackers, 1, 200, 0
-3058, LODdtn_bodge, knackers, 1, 1200, 0
-3059, hash_92CAD2AE, knackers, 1, 40, 0
-3060, LODnbeach01, knackers, 1, 2000, 0
-3061, LODnbeach02, knackers, 1, 2000, 0
-3062, LODnbeach03, knackers, 1, 2000, 0
-3063, hash_CFE223ED, knackers, 1, 2000, 0
-3064, newbuild01, knackers, 1, 200, 0
-3065, hash_26BE287E, knackers, 1, 1500, 0
-3066, LODdt22_neon01, knackers, 1, 2999, 8
-3070, dtn_stadspacesc, knackers, 1, 280, 0
-3071, dtn_stadspacesd, knackers, 1, 280, 0
-3072, LODd_roada, knackers, 1, 900, 1
-3073, LODd_roadb, knackers, 1, 900, 1
-3074, hash_F2AF3232, knackers, 1, 250, 1
-3075, LODd_roadd, knackers, 1, 900, 1
-3078, dr_eggstar, knackers, 1, 40, 0
-3079, LODntoon56, knackers, 1, 100, 0
+2800, DOONTOON09, knackers, 1, 250, 1
+2801, DOONTOON11, knackers, 1, 250, 0
+2802, HASH_3D968B1D, knackers, 1, 130, 0
+2803, DOONTOON22, knackers, 1, 299, 0
+2804, DOONTOON30, knackers, 1, 150, 1
+2805, HASH_3E26104B, knackers, 1, 250, 0
+2806, DOONTOON47, knackers, 1, 120, 0
+2807, DOONTOON55, knackers, 1, 299, 0
+2808, DOONTOON59, knackers, 1, 250, 1
+2809, DOONTOON61, knackers, 1, 250, 1
+2810, DOONTOON62, knackers, 1, 250, 1
+2811, DOONTOON67, knackers, 1, 250, 1
+2812, DOONTOON70, knackers, 1, 250, 1
+2813, LODNTOON_NEWBIT, knackers, 1, 2000, 0
+2814, LODNTOON39, knackers, 1, 3500, 0
+2815, COMPOUND_BITS, knackers, 1, 100, 0
+2816, DT_COMPOUND_ROOF, knackers, 1, 180, 0
+2817, LODCOMPOUND_ROOF, knackers, 1, 1500, 0
+2818, GLUETEST03, knackers, 1, 50, 4
+2819, LODNTOON_04_BIT2, knackers, 1, 1500, 0
+2820, DT_CARPSACES13, knackers, 1, 70, 4
+2821, DT_CARPSACES14, knackers, 1, 70, 4
+2822, VEG_GAZ, knackers, 1, 160, 4
+2823, LODNTOON55, knackers, 1, 3500, 0
+2824, DT_NBEACH02, knackers, 1, 250, 0
+2825, LODD_DOWNTOWN12, knackers, 1, 1500, 0
+2826, LODD_DOWNTOWN14, knackers, 1, 1500, 0
+2827, LODD_DOWNTOWN13, knackers, 1, 1500, 0
+2828, LODD_DOWNTOWN04, knackers, 1, 1500, 0
+2829, LODD_DOWNTOWN03, knackers, 1, 1500, 0
+2830, LODD_DOWNTOWN16, knackers, 1, 2000, 0
+2831, LODD_DOWNTOWN02, knackers, 1, 1500, 0
+2832, LODNTOON22, knackers, 1, 3500, 0
+2833, LODNTOON53, knackers, 1, 1500, 0
+2834, LODNTOON54, knackers, 1, 1500, 0
+2835, LODNTOON50, knackers, 1, 1500, 0
+2836, LODNTOON49, knackers, 1, 1500, 0
+2837, LODNTOON21, knackers, 1, 1500, 0
+2838, LODNTOON51, knackers, 1, 1500, 0
+2839, LODNTOON03, knackers, 1, 2000, 0
+2840, LODNTOON47, knackers, 1, 1500, 0
+2841, LODNTOON35, knackers, 1, 1500, 0
+2842, LODNTOON_TOP09, knackers, 1, 2000, 0
+2843, LODNTOON_TOP10, knackers, 1, 2000, 0
+2844, LODBUILD01, knackers, 1, 2000, 0
+2845, LODBUILD02, knackers, 1, 1500, 0
+2846, LODNTOON18, knackers, 1, 1500, 0
+2847, LODPOUND_BITS, knackers, 1, 1500, 0
+2848, LODNTOON38, knackers, 1, 1500, 0
+2849, LODNTOON37, knackers, 1, 1500, 0
+2850, LODNTOON36, knackers, 1, 1500, 0
+2851, LODNTOON19, knackers, 1, 1500, 0
+2852, LODNTOON30, knackers, 1, 1500, 0
+2853, LODNTOON29, knackers, 1, 1500, 0
+2854, LODNTOON32, knackers, 1, 1500, 0
+2855, LODNTOON27, knackers, 1, 1500, 0
+2856, LODNTOON28, knackers, 1, 1500, 0
+2857, LODNTOON31, knackers, 1, 1500, 0
+2858, LODNTOON24, knackers, 1, 1500, 0
+2859, LODNTOON25, knackers, 1, 1500, 0
+2860, LODNTOON_TOP06, knackers, 1, 1500, 0
+2861, LODCOMPOUND_ESC, knackers, 1, 1500, 0
+2862, DT_NBEACH01, knackers, 1, 250, 0
+2863, DT_NBEACH06, knackers, 1, 250, 0
+2864, LODHOTEL_WALDT, knackers, 1, 1500, 0
+2865, LODNTOON11, knackers, 1, 1500, 0
+2866, LODNTOON09, knackers, 1, 1500, 0
+2867, LODNBEACH05, knackers, 1, 2000, 0
+2868, LODNBEACH06, knackers, 1, 2000, 0
+2869, LODNTOON67, knackers, 1, 1500, 0
+2870, LODNTOON04, knackers, 1, 2000, 0
+2871, HASH_4E7B8F0C, knackers, 1, 1500, 0
+2872, DT_20_HOLEWALL, knackers, 1, 60, 4
+2873, LODNTOON76, knackers, 1, 5001, 0
+2874, DT_CARPSACES15, knackers, 1, 25, 4
+2875, LODNTOON70, knackers, 1, 1500, 0
+2876, LODNTOON63, knackers, 1, 2000, 0
+2877, LODNTOON59, knackers, 1, 1500, 0
+2878, LODNTOON62, knackers, 1, 1500, 0
+2879, XPOLYTREES1_DT, knackers, 1, 120, 4
+2880, XPOLYTREES2_DT, knackers, 1, 60, 4
+2881, XPOLYTREES4_DT, knackers, 1, 150, 4
+2889, LODNTOON61, knackers, 1, 1500, 0
+2890, LODNTOON58, knackers, 1, 1500, 0
+2891, DT_STADIUM_ENTRANCE, knackers, 1, 230, 0
+2892, LODSTADIUM_ENTRANCE, knackers, 1, 1200, 0
+2893, LODSTADIUMLAND_C, knackers, 1, 2999, 0
+2894, DT_STADIUMLAND_C, knackers, 1, 299, 0
+2895, DT_STADIUM_START, knackers, 1, 190, 0
+2896, DT_STADIUMLAND_A, knackers, 1, 299, 0
+2897, DT_NBEACH03, knackers, 1, 250, 0
+2898, DT_STADIUMLAND_B, knackers, 1, 299, 0
+2899, DOONTOON_TOP06, knackers, 1, 200, 0
+2900, DT_NBEACH05, knackers, 1, 200, 0
+2901, LODD_DOWNTOWN17, knackers, 1, 1500, 0
+2902, DT_GSPOT_STAIRS, dt_gspot_stairs, 1, 100, 4
+2903, DT_STADIUMLAND_D, knackers, 1, 299, 0
+2904, LODSTADIUM_START, knackers, 1, 1500, 0
+2905, DTN_STADSPACESA, knackers, 1, 299, 4
+2906, LODD_DOWNTOWN15, knackers, 1, 1500, 0
+2907, LODSTADIUMLAND_B, knackers, 1, 2999, 0
+2908, LODSTADIUMLAND_A, knackers, 1, 2999, 0
+2909, LODSTADIUMLAND_D, knackers, 1, 2999, 0
+2910, LODD_DOWNTOWN_NEW2, knackers, 1, 1500, 0
+2911, LODD_DOWNTOWN11, knackers, 1, 1500, 0
+2912, LODNTOON26, knackers, 1, 1500, 0
+2913, LODD_STADIUMA, knackers, 1, 2000, 0
+2914, DTOON62_SPACES, knackers, 1, 120, 4
+2915, LODNTOON_TOP_BB, knackers, 1, 2000, 0
+2916, DTN_STADSPACESB, knackers, 1, 299, 4
+2917, ROAD_DOWNTOWN13, knackers, 1, 250, 1
+2918, ROAD_DOWNTOWN04, knackers, 1, 250, 1
+2919, ROAD_DOWNTOWN02, knackers, 1, 150, 1
+2920, ROAD_DOWNTOWN16, knackers, 1, 250, 1
+2921, ROAD_DOWNTOWN03, knackers, 1, 250, 1
+2922, ROAD_DOWNTOWN12, knackers, 1, 250, 1
+2923, ROAD_DOWNTOWN15, knackers, 1, 250, 1
+2924, ROAD_DOWNTOWN17, knackers, 1, 250, 1
+2925, ROAD_DOWNTOWN_NEW2, knackers, 1, 200, 1
+2926, ROAD_STADIUMA, knackers, 1, 250, 1
+2927, ROAD_DOWNTOWN11, knackers, 1, 210, 1
+2928, DTN_CABLESA, knackers, 1, 250, 4
+2929, DTN_CABLESC, knackers, 1, 250, 4
+2930, ROAD_DOWNTOWN14, knackers, 1, 250, 1
+2931, STAD_ROADB, knackers, 1, 299, 1
+2932, STAD_ROADC, knackers, 1, 299, 1
+2933, STAD_ROADD, knackers, 1, 299, 1
+2934, STAD_ROADA, knackers, 1, 299, 1
+2935, DTN_VEG3, knackers, 1, 150, 4
+2936, DTN_VEG4, knackers, 1, 150, 4
+2937, DT_STADIUM__ALFA1, knackers, 1, 100, 4
+2938, DT_STADIUMALFA2, knackers, 1, 250, 4
+2939, DOONTOON25_ALFAS, knackers, 1, 100, 132
+2940, DOONTOON32_ALFA, knackers, 1, 110, 4
+2941, DT_COMPOUND_ALFAS, knackers, 1, 120, 4
+2942, DOONTOON03, knackers, 1, 140, 0
+2943, DOONTOON63, knackers, 1, 230, 1
+2944, DOONTOON_04_BIT2, knackers, 1, 200, 0
+2945, DOONTOON_22_B, knackers, 1, 110, 0
+2946, DOONTOON_NEWBIT, knackers, 1, 200, 1
+2947, DOONTOON04, knackers, 1, 250, 0
+2948, DOONTOON18, knackers, 1, 150, 0
+2949, DOONTOON21, knackers, 1, 130, 0
+2950, DOONTOON24, knackers, 1, 220, 0
+2951, DOONTOON25, knackers, 1, 200, 128
+2952, DOONTOON26, knackers, 1, 200, 4
+2953, DOONTOON27, knackers, 1, 200, 0
+2954, DOONTOON28, knackers, 1, 120, 0
+2955, DOONTOON29, knackers, 1, 150, 0
+2956, DOONTOON31, knackers, 1, 100, 1
+2957, DOONTOON32, knackers, 1, 200, 0
+2958, DOONTOON35, knackers, 1, 200, 0
+2959, DOONTOON36, knackers, 1, 120, 0
+2960, DOONTOON37, knackers, 1, 150, 0
+2961, DOONTOON38, knackers, 1, 150, 0
+2962, DOONTOON39, knackers, 1, 250, 0
+2963, DOONTOON49, knackers, 1, 100, 0
+2964, DOONTOON50, knackers, 1, 200, 0
+2965, DOONTOON51, knackers, 1, 200, 0
+2966, DOONTOON53, knackers, 1, 200, 128
+2967, DOONTOON54, knackers, 1, 150, 0
+2968, DOONTOON76, knackers, 1, 299, 128
+2969, DT_COMPOUND_ESC, knackers, 1, 100, 0
+2970, DOONTOON56, knackers, 1, 299, 0
+2971, DOONTOON58, knackers, 1, 150, 0
+2972, DOONTOON_TOP10, knackers, 1, 200, 0
+2973, NEWBUILD02, knackers, 1, 90, 0
+2974, DOONTOON_TOP_BB, knackers, 1, 190, 1
+2975, DOONTOON_TOP09, knackers, 1, 200, 1
+2976, HASH_EFBC2A0A, knackers, 1, 80, 4
+2977, HASH_98BB1A9C, knackers, 1, 50, 4
+2978, HASH_CDE6F280, knackers, 1, 120, 4
+2979, DTN_CABLESB_2, knackers, 1, 120, 4
+2980, DTN_CABLESB_3, knackers, 1, 120, 4
+2981, EB_DTN_14, knackers, 1, 100, 0
+2982, DT_HOTEL_WALDT, knackers, 1, 250, 0
+2983, EB_DTN_12, knackers, 1, 100, 0
+2984, EB_DTN_11, knackers, 1, 100, 0
+2985, ME_BOMBDOOR, me_bombdoor, 1, 40, 128
+2986, ME_BILLBOARD03, knackers, 1, 100, 0
+2987, ME_BILLBOARD04, knackers, 1, 100, 0
+2988, HASH_F58A9405, knackers, 1, 150, 0
+2989, EB_DTN_13, knackers, 1, 100, 0
+2990, HASH_FF5DDA3F, knackers, 1, 100, 0
+2991, HASH_61394F9C, knackers, 1, 100, 0
+2992, HASH_163E7F0A, knackers, 1, 100, 0
+2993, HASH_8F372EB0, knackers, 1, 100, 0
+2994, HASH_1153BB13, knackers, 1, 100, 0
+2995, HASH_198A9395, knackers, 1, 100, 0
+2996, HASH_EBA893E2, knackers, 1, 100, 0
+2997, HASH_72A1C258, knackers, 1, 100, 0
+2998, HASH_05A6F2CE, knackers, 1, 100, 0
+2999, HASH_9BC2676D, knackers, 1, 100, 0
+3000, HASH_ECC557FB, knackers, 1, 100, 0
+3001, HASH_376BBEE4, knackers, 1, 100, 0
+3002, HASH_AE62EF5E, knackers, 1, 100, 0
+3003, HASH_D965DFC8, knackers, 1, 100, 0
+3004, HASH_24215641, knackers, 1, 100, 0
+3005, HASH_BA45C3E2, knackers, 1, 100, 0
+3006, HASH_CD42F374, knackers, 1, 100, 0
+3007, HASH_3DA8515A, knackers, 1, 250, 0
+3008, HASH_4AAF61CC, knackers, 1, 100, 0
+3009, HASH_A3CCC4F9, knackers, 1, 200, 0
+3010, HASH_32D91AB0, knackers, 1, 100, 0
+3011, DR_DTN_FENCE, knackers, 1, 100, 0
+3012, HASH_7F68E67B, knackers, 1, 1500, 0
+3027, HASH_B6487E50, knackers, 1, 160, 0
+3028, HASH_8FDA0BE1, knackers, 1, 260, 0
+3029, HASH_9ECFE081, knackers, 1, 299, 0
+3030, HASH_89277B3A, knackers, 1, 100, 0
+3031, HASH_E485FFD1, knackers, 1, 120, 0
+3032, HASH_9382CF47, knackers, 1, 120, 0
+3033, HASH_63F57888, knackers, 1, 299, 0
+3036, HASH_102E2A80, knackers, 1, 100, 0
+3037, HASH_8E322DB5, knackers, 1, 100, 0
+3038, DOONTOON19, knackers, 1, 180, 0
+3039, HASH_489F9F44, knackers, 1, 100, 0
+3040, HASH_3F98AFD2, knackers, 1, 100, 0
+3041, HASH_D6FB0AE7, knackers, 1, 100, 0
+3042, HASH_38F56BCB, knackers, 1, 100, 0
+3043, HASH_62CC2DF0, knackers, 1, 100, 0
+3044, HASH_30879787, knackers, 1, 150, 0
+3045, HASH_987DBB39, knackers, 1, 100, 0
+3046, HASH_A98EC63D, knackers, 1, 170, 0
+3047, HASH_DE89F6AB, knackers, 1, 170, 0
+3048, HASH_40ED6308, knackers, 1, 170, 0
+3049, HASH_1B82DAF0, knackers, 1, 1500, 0
+3050, HASH_828B8B4A, knackers, 1, 1500, 0
+3051, HASH_F58CBBDC, knackers, 1, 1500, 0
+3052, HASH_6BE82E7F, knackers, 1, 1500, 0
+3053, DR_EGG06, knackers, 1, 100, 0
+3054, DR_EGG07, knackers, 1, 15, 0
+3055, HASH_0ADB02BA, knackers, 1, 1200, 0
+3056, HASH_4817BC73, knackers, 1, 100, 0
+3057, DR_DTN_BODGE, knackers, 1, 200, 0
+3058, LODDTN_BODGE, knackers, 1, 1200, 0
+3059, HASH_92CAD2AE, knackers, 1, 40, 0
+3060, LODNBEACH01, knackers, 1, 2000, 0
+3061, LODNBEACH02, knackers, 1, 2000, 0
+3062, LODNBEACH03, knackers, 1, 2000, 0
+3063, HASH_CFE223ED, knackers, 1, 2000, 0
+3064, NEWBUILD01, knackers, 1, 200, 0
+3065, HASH_26BE287E, knackers, 1, 1500, 0
+3066, LODDT22_NEON01, knackers, 1, 2999, 8
+3070, DTN_STADSPACESC, knackers, 1, 280, 0
+3071, DTN_STADSPACESD, knackers, 1, 280, 0
+3072, LODD_ROADA, knackers, 1, 900, 1
+3073, LODD_ROADB, knackers, 1, 900, 1
+3074, HASH_F2AF3232, knackers, 1, 250, 1
+3075, LODD_ROADD, knackers, 1, 900, 1
+3078, DR_EGGSTAR, knackers, 1, 40, 0
+3079, LODNTOON56, knackers, 1, 100, 0
 end
 tobj
-2882, dt_nitelites1, knackers, 1, 299, 12, 19, 6
-2883, dt_nitelites3, knackers, 1, 299, 12, 19, 7
-2884, dt_nitelites4, knackers, 1, 299, 12, 19, 7
-2885, dt_nitelites5, knackers, 1, 299, 12, 20, 7
-2886, dt_nitelites6, knackers, 1, 299, 12, 19, 7
-2887, dt_nitelites7, knackers, 1, 299, 12, 18, 7
-2888, dt_nitelites8, knackers, 1, 290, 12, 19, 6
-3013, jm_dt22_neon, knackers, 1, 299, 12, 20, 9
-3014, jm_dt55_neon, knackers, 1, 299, 12, 19, 8
-3015, LODdt22_neon, knackers, 1, 5001, 8, 19, 5
-3016, hash_FFB1A581, knackers, 1, 100, 12, 19, 5
-3017, dr_ammu_neon, knackers, 1, 150, 12, 19, 5
-3018, hash_4DD915E9, knackers, 1, 299, 14, 19, 5
-3019, LODnitelites1, knackers, 1, 2999, 8, 19, 6
-3020, LODnitelites2, knackers, 1, 2999, 8, 19, 7
-3021, LODnitelites3, knackers, 1, 2999, 8, 19, 7
-3022, LODnitelites6, knackers, 1, 2000, 8, 19, 6
-3023, LODnitelites8, knackers, 1, 2000, 8, 19, 7
-3024, LODnitelites7, knackers, 1, 2000, 8, 18, 7
-3025, LODnitelites5, knackers, 1, 2000, 8, 20, 7
-3026, LODdt55_neon, knackers, 1, 5001, 8, 19, 5
-3034, pm_scraplights, knackers, 1, 299, 172, 19, 5
-3035, pm_scraplights2, knackers, 1, 299, 172, 19, 5
-3067, LODnitelites101, knackers, 1, 5001, 8, 19, 6
-3068, LODnitelites04, knackers, 1, 5001, 8, 19, 7
-3069, LODnitelites201, knackers, 1, 5001, 8, 19, 7
-3076, dt_nitelites2, knackers, 1, 299, 12, 19, 7
-3077, dt_nitelites201, knackers, 1, 299, 12, 19, 7
+2882, DT_NITELITES1, knackers, 1, 299, 12, 19, 6
+2883, DT_NITELITES3, knackers, 1, 299, 12, 19, 7
+2884, DT_NITELITES4, knackers, 1, 299, 12, 19, 7
+2885, DT_NITELITES5, knackers, 1, 299, 12, 20, 7
+2886, DT_NITELITES6, knackers, 1, 299, 12, 19, 7
+2887, DT_NITELITES7, knackers, 1, 299, 12, 18, 7
+2888, DT_NITELITES8, knackers, 1, 290, 12, 19, 6
+3013, JM_DT22_NEON, knackers, 1, 299, 12, 20, 9
+3014, JM_DT55_NEON, knackers, 1, 299, 12, 19, 8
+3015, LODDT22_NEON, knackers, 1, 5001, 8, 19, 5
+3016, HASH_FFB1A581, knackers, 1, 100, 12, 19, 5
+3017, DR_AMMU_NEON, knackers, 1, 150, 12, 19, 5
+3018, HASH_4DD915E9, knackers, 1, 299, 14, 19, 5
+3019, LODNITELITES1, knackers, 1, 2999, 8, 19, 6
+3020, LODNITELITES2, knackers, 1, 2999, 8, 19, 7
+3021, LODNITELITES3, knackers, 1, 2999, 8, 19, 7
+3022, LODNITELITES6, knackers, 1, 2000, 8, 19, 6
+3023, LODNITELITES8, knackers, 1, 2000, 8, 19, 7
+3024, LODNITELITES7, knackers, 1, 2000, 8, 18, 7
+3025, LODNITELITES5, knackers, 1, 2000, 8, 20, 7
+3026, LODDT55_NEON, knackers, 1, 5001, 8, 19, 5
+3034, PM_SCRAPLIGHTS, knackers, 1, 299, 172, 19, 5
+3035, PM_SCRAPLIGHTS2, knackers, 1, 299, 172, 19, 5
+3067, LODNITELITES101, knackers, 1, 5001, 8, 19, 6
+3068, LODNITELITES04, knackers, 1, 5001, 8, 19, 7
+3069, LODNITELITES201, knackers, 1, 5001, 8, 19, 7
+3076, DT_NITELITES2, knackers, 1, 299, 12, 19, 7
+3077, DT_NITELITES201, knackers, 1, 299, 12, 19, 7
 end
 2dfx
 2812, 93.1669, 11.3191, -1.4125, 152, 92, 59, 21, 3, 1, -0.137063, -0.989671, -0.0420149, -0.137063, -0.989671, -0.0420149

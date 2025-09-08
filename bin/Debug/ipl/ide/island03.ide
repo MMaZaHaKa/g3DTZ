@@ -1,611 +1,611 @@
 # 
 objs
-6912, ml_escal, knackers, 1, 100, 0
-6913, hash_A0945537, knackers, 1, 100, 0
-6914, ml_planterbed, knackers, 1, 90, 160
-6915, hash_2EDC07F5, knackers, 1, 100, 0
-6916, hash_1C81C376, knackers, 1, 100, 0
-6917, hash_D30BEA7A, knackers, 1, 100, 0
-6918, hash_168A0BBB, knackers, 1, 100, 0
-6919, hash_CB262A85, knackers, 1, 100, 0
-6920, hash_F5512866, knackers, 1, 100, 0
-6921, hash_6A22EE35, knackers, 1, 100, 0
-6922, hash_D5AFCCE5, knackers, 1, 100, 0
-6923, pm_portaloo, knackers, 1, 100, 0
-6924, LODfairbwseat, knackers, 1, 600, 0
-6925, hash_604B3478, knackers, 1, 800, 0
-6926, hash_D5D1E7AC, knackers, 1, 30, 128
-6927, hash_F5E2484E, knackers, 1, 30, 128
-6928, pm_lojetty, knackers, 1, 150, 0
-6929, hash_4DF43BCA, knackers, 1, 220, 0
-6930, hash_C684F3CA, knackers, 1, 299, 0
-6931, hash_89D531FB, knackers, 1, 2000, 0
-6932, hash_759864A0, knackers, 1, 2000, 0
-6933, hash_E8A9A29F, knackers, 1, 120, 0
-6934, pm_jetty_bar, knackers, 1, 100, 0
-6935, pm_beachaira, knackers, 1, 100, 0
-6936, hash_A0C4EF3B, knackers, 1, 65, 0
-6937, pm_concpost, knackers, 1, 250, 0
-6938, pm_brikwall, knackers, 1, 200, 0
-6939, hash_0E9A38A4, knackers, 1, 50, 0
-6940, hash_AC6997FB, knackers, 1, 100, 0
-6941, pm_offchair, knackers, 1, 100, 0
-6942, pm_offpalm, knackers, 1, 100, 0
-6943, pm_offphone, knackers, 1, 100, 0
-6944, hash_21443072, knackers, 1, 100, 0
-6945, hash_E183BA80, knackers, 1, 100, 0
-6946, hash_788AEB3A, knackers, 1, 100, 0
-6947, hash_EB7BE0C8, knackers, 1, 100, 0
-6948, pm_offdesk, knackers, 1, 100, 0
-6949, pm_far4, knackers, 1, 100, 0
-6950, pm_far2, knackers, 1, 100, 128
-6967, hash_697D70A6, knackers, 1, 100, 0
-6968, hash_DA9F832C, knackers, 1, 100, 0
-6969, pm_pinballA, knackers, 1, 55, 0
-6970, pm_pinballB, knackers, 1, 55, 0
-6971, pm_slotmachC, knackers, 1, 55, 0
-6972, pm_slotmachB, knackers, 1, 55, 0
-6973, hash_75AC75DA, knackers, 1, 100, 0
-6974, hash_2384A0F4, knackers, 1, 55, 0
-6975, pm_pinballbroke, knackers, 1, 55, 0
-6976, hash_2ACE2216, knackers, 1, 55, 0
-6977, hash_2D2BF52A, knackers, 1, 55, 0
-6978, pm_childsign, knackers, 1, 55, 0
-6979, pm_exitsign, knackers, 1, 100, 0
-6980, pm_slotmachA, knackers, 1, 55, 0
-6981, hash_02EC933A, knackers, 1, 55, 0
-6982, hash_99A6F190, knackers, 1, 100, 0
-6983, pm_forthipost, knackers, 1, 100, 0
-6984, pm_fortshortpost, knackers, 1, 100, 0
-6985, pm_fair_till, knackers, 1, 100, 0
-6986, hash_B86658DA, knackers, 1, 100, 0
-6987, hash_D689A50A, knackers, 1, 100, 0
-6988, hash_28D4313B, knackers, 1, 100, 0
-6989, hash_E26F748E, knackers, 1, 100, 0
-6990, pm_fortshoppost, knackers, 1, 100, 0
-6991, hash_8E3B5903, knackers, 1, 100, 0
-6992, hash_73E9F9BE, knackers, 1, 100, 0
-6993, hash_2B3D2FC8, knackers, 1, 100, 128
-6994, hash_FF34D986, knackers, 1, 250, 0
-6995, pm_stallbase, knackers, 1, 100, 0
-6996, hash_102C166E, knackers, 1, 100, 0
-6997, hash_7BD60088, knackers, 1, 100, 0
-6998, hash_0CD1301E, knackers, 1, 100, 0
-6999, pm_far1, knackers, 1, 200, 0
-7000, pm_far3, knackers, 1, 42, 128
-7001, hash_028ED75C, knackers, 1, 100, 0
-7002, hash_35D4C8D7, knackers, 1, 60, 0
-7003, hash_4E0C7ED3, knackers, 1, 100, 0
-7004, hash_710E0350, knackers, 1, 100, 0
-7005, hash_7A16E21D, knackers, 1, 60, 0
-7006, pm_sofa, knackers, 1, 40, 0
-7007, pm_hottable, knackers, 1, 40, 0
-7008, pm_chest, knackers, 1, 40, 0
-7009, pm_hotlight, knackers, 1, 40, 0
-7010, pm_tv, knackers, 1, 40, 0
-7011, pm_hotchair, knackers, 1, 40, 0
-7012, pm_far5, knackers, 1, 100, 0
-7013, LODnbch_hsea, knackers, 1, 800, 0
-7014, LODnbch_hseb, knackers, 1, 800, 0
-7015, dr_nbch_hsea, knackers, 1, 100, 0
-7016, dr_nbch_hseb, knackers, 1, 100, 0
-7017, LODdstageext, knackers, 1, 1000, 0
-7018, hash_21BAD1E6, knackers, 1, 100, 0
-7019, hash_4FC7FD01, knackers, 1, 100, 0
-7020, pm_colony_hot, knackers, 1, 160, 0
-7021, LODcolony_hot, knackers, 1, 1500, 0
-7022, pm_colonyfr01, knackers, 1, 160, 0
-7023, pm_colonyfr02, knackers, 1, 160, 0
-7024, pm_colonyfr03, knackers, 1, 160, 0
-7025, pm_beacon_hot, knackers, 1, 160, 0
-7026, LODbeacon_hot, knackers, 1, 800, 0
-7027, pm_beaconfrnt01, knackers, 1, 160, 0
-7028, pm_beaconfrnt02, knackers, 1, 160, 0
-7029, pm_tides_hot, knackers, 1, 160, 0
-7030, LODtides_hot, knackers, 1, 2000, 128
-7031, hash_F4AA1BE3, knackers, 1, 160, 0
-7032, hash_6DA34A59, knackers, 1, 160, 0
-7033, pm_majestic_hot, knackers, 1, 180, 0
-7034, LODmajestic_hot, knackers, 1, 1500, 0
-7035, LOD_pelicanhot, knackers, 1, 1500, 128
-7036, pjm_pelicanfrt1, knackers, 1, 160, 0
-7037, pjm_pelicanfrt02, knackers, 1, 160, 0
-7038, pjmc_starlite_dy, knackers, 1, 160, 0
-7039, pjmc_leslie_dy, knackers, 1, 180, 0
-7040, pjmc_macalpin_dy, knackers, 1, 160, 0
-7041, LODc_macalpin_dy, knackers, 1, 1500, 0
-7042, LODc_starlite_dy, knackers, 1, 1500, 0
-7043, LODc_leslie_dy, knackers, 1, 1500, 0
-7044, hash_E37F9345, knackers, 1, 100, 0
-7045, hash_570857B8, knackers, 1, 100, 0
-7046, hash_05307FFA, knackers, 1, 100, 0
-7047, hash_9C392E40, knackers, 1, 100, 0
-7048, hash_D01B2C79, knackers, 1, 100, 0
-7049, hash_49127DC3, knackers, 1, 100, 0
-7050, hash_3E154D55, knackers, 1, 100, 0
-7051, hash_2535D690, knackers, 1, 100, 0
-7052, hash_EB3E1ED6, knackers, 1, 100, 0
-7053, hash_B4615815, knackers, 1, 100, 0
-7054, hash_E0DCE790, knackers, 1, 100, 0
-7055, hash_362395BA, knackers, 1, 100, 0
-7056, hash_9ED5C4BB, knackers, 1, 100, 0
-7057, hash_EEBF3034, knackers, 1, 100, 0
-7058, hash_77B6618E, knackers, 1, 100, 0
-7059, hash_00B15118, knackers, 1, 100, 0
-7060, hash_D776E860, knackers, 1, 100, 0
-7061, hash_BC3C872A, knackers, 1, 100, 0
-7062, hash_A071D8F6, knackers, 1, 100, 0
-7063, hash_CB3BB7BC, knackers, 1, 100, 0
-7064, hash_ED5F3D72, knackers, 1, 100, 0
-7065, hash_89A11CC7, knackers, 1, 100, 0
-7066, hash_2F430555, knackers, 1, 100, 0
-7067, hash_D1A2C0C1, knackers, 1, 100, 0
-7068, hash_53664C81, knackers, 1, 100, 0
-7069, pm_fairbwseat, pm_fairbwseat, 1, 200, 0
-7070, hash_E43B6775, knackers, 1, 50, 0
-7071, hash_D3ACA975, knackers, 1, 50, 0
-7072, hash_A3087F5E, knackers, 1, 50, 0
-7073, hash_0F5715FF, knackers, 1, 50, 0
-7074, hash_F8EA21F4, knackers, 1, 50, 0
-7075, LODetty01, knackers, 1, 1500, 0
-7076, LODlojetty, knackers, 1, 1000, 0
-7077, hash_FEC3D0B5, knackers, 1, 100, 0
-7078, hash_7383FB4C, knackers, 1, 100, 0
-7079, pjm_pelicanhot, knackers, 1, 160, 0
-7080, pm_fortxfence, knackers, 1, 100, 0
-7081, dr_bighotela, knackers, 1, 64, 1
-7082, hash_FA0F18A9, knackers, 1, 100, 0
-7083, hash_ED2B1319, knackers, 1, 100, 0
-7084, hash_47E43682, knackers, 1, 250, 0
-7085, nbw_sh_int, knackers, 1, 250, 0
-7086, hash_D5D60C4F, knackers, 1, 250, 0
-7087, hash_F2E0FDB9, knackers, 1, 250, 0
-7088, hash_DE650AB9, knackers, 1, 250, 0
-7089, hash_9BA6367D, knackers, 1, 250, 0
-7090, hash_1229603D, knackers, 1, 250, 0
-7091, hash_0AA2151F, knackers, 1, 100, 0
-7092, hash_60BD5DF8, knackers, 1, 250, 0
-7300, ndc_golfball, ndc_golfball, 1, 100, 0
-7301, ndc_boatrampNarrow, ndc_boatrampNarrow, 1, 200, 128
-7302, ndc_buoyRightArrow, ndc_buoyRightArrow, 1, 200, 128
-7303, ndc_buoyLeftArrow, ndc_buoyLeftArrow, 1, 200, 128
-7304, ndc_boatrampHump, ndc_boatrampHump, 1, 200, 128
-7305, ndc_navalmine, ndc_navalmine, 1, 200, 128
-7306, ndc_ammobox, ndc_ammobox, 1, 100, 0
-7307, jm_umb4_exit02, jm_umb4_exit02, 1, 100, 0
-7308, jm_umb4_exit01, jm_umb4_exit01, 1, 100, 0
-7309, jm_umb4_exit03, jm_umb4_exit03, 1, 100, 0
-7310, jm_umb4_shut, jm_umb4_shut, 1, 100, 0
-7311, gd_dildo, gd_dildo, 1, 100, 0
-7312, ndc_buoyTarget, ndc_buoyTarget, 1, 250, 128
-7313, pinata_man, pinata_man, 1, 100, 0
-7314, pm_hotgateleft, pm_hotgateleft, 1, 100, 0
-7315, sjl_crate, sjl_crate, 1, 150, 0
-7316, sjl_bobohand_04, sjl_bobohand_04, 1, 100, 0
-7317, sjl_bobohand_02, sjl_bobohand_02, 1, 100, 0
-7318, sjl_bobohand_03, sjl_bobohand_03, 1, 100, 0
-7319, sjl_bobohand_01, sjl_bobohand_01, 1, 100, 0
-7320, ca_sp_sportsbag, ca_sp_sportsbag, 1, 100, 0
-7321, me_boomshine_dr, me_boomshine_dr, 1, 100, 0
-7322, ndc_drugspillbig, ndc_drugspillbig, 1, 100, 0
-7323, ndc_drugspill, ndc_drugspill, 1, 100, 0
-7324, ndc_drugstack, ndc_drugstack, 1, 100, 0
-7325, ndc_drugpile, ndc_drugpile, 1, 100, 0
-7326, ndc_drugsopen, ndc_drugsopen, 1, 100, 0
-7327, gd_rocket, gd_rocket, 1, 100, 0
-7328, gd_camhelicopter, gd_camhelicopter, 1, 100, 0
-7329, gd_camtruckbase, gd_camtruckbase, 1, 100, 0
-7330, gd_camtrucktop, gd_camtrucktop, 1, 100, 0
-7331, pm_wallholed, pm_wallholed, 1, 150, 0
-7332, pm_wallwhole, pm_wallwhole, 1, 150, 0
-7333, pm_wallplastpile, pm_wallplastpile, 1, 100, 0
-7334, pm_gardoorwslux, pm_gardoorwslux, 1, 200, 0
-7335, gd_cratePile, gd_cratePile, 1, 100, 0
-7336, jm_heligate, jm_heligate, 1, 150, 0
-7337, jm_carpoundgate, jm_carpoundgate, 1, 100, 0
-7338, ndc_boatrampWide, ndc_boatrampWide, 1, 200, 128
-7339, TestRamp2, TestRamp2, 1, 100, 0
-7340, TestRamp1, TestRamp1, 1, 100, 0
-7341, TestRamp3, TestRamp3, 1, 100, 0
-7342, TestRamp4, TestRamp4, 1, 100, 0
-7343, TestRamp5, TestRamp5, 1, 100, 0
-7344, ndc_drugpacket, ndc_drugpacket, 1, 100, 0
-7345, pm_node_walls, pm_node_walls, 1, 50, 128
-7346, jm_dks_bhdoor, jm_dks_bhdoor, 1, 150, 0
-7347, ndc_boomstack, ndc_boomstack, 1, 100, 0
-7348, me_policeantennee, me_policeantennee, 1, 100, 0
-7349, me_mainrigrope, me_mainrigrope, 1, 200, 0
-7350, ndc_helibucket, ndc_helibucket, 1, 100, 0
-7351, pmdivide_door, pmdivide_door, 1, 299, 0
-7352, pm_elevdoor, pm_elevdoor, 1, 100, 0
-7353, ndc_helirescuerig, ndc_helirescuerig, 1, 100, 0
-7354, eb_pros_2_A_n, eb_pros_2_A_n, 1, 150, 12
-7355, eb_prot_1_A_n, eb_prot_1_A_n, 1, 150, 0
-7356, eb_prot_2_A_n, eb_prot_2_A_n, 1, 150, 12
-7357, eb_prot_3_A_n, eb_prot_3_A_n, 1, 100, 0
-7358, eb_smug_3_A_n, eb_smug_3_A_n, 1, 150, 12
-7359, eb_smug_2_A_n, eb_smug_2_A_n, 1, 150, 12
-7360, eb_loan_1_A_n, eb_loan_1_A_n, 1, 150, 12
-7361, eb_loan_2_A_n, eb_loan_2_A_n, 1, 150, 12
-7362, eb_loan_3_A_n, eb_loan_3_A_n, 1, 150, 12
-7363, eb_drug_1_A_n, eb_drug_1_A_n, 1, 150, 12
-7364, eb_drug_2_A_n, eb_drug_2_A_n, 1, 150, 12
-7365, eb_rob_2_A_n, eb_rob_2_A_n, 1, 150, 12
-7366, eb_rob_3_A_n, eb_rob_3_A_n, 1, 150, 12
-7367, eb_rob_1_A_n, eb_rob_1_A_n, 1, 150, 12
-7368, eb_drug_3_A_n, eb_drug_3_A_n, 1, 150, 12
-7369, sjl_bobohand_05, sjl_bobohand_05, 1, 100, 0
-7370, ndc_redballoon, ndc_redballoon, 1, 200, 0
-7371, gd_briefcase_red, gd_briefcase_red, 1, 100, 0
-7372, gd_briefcase_blue, gd_briefcase_blue, 1, 100, 0
-7373, gd_briefcase_brown, gd_briefcase_brown, 1, 100, 0
-7374, pmoffidoor, pmoffidoor, 1, 100, 0
-7375, dr_lifesaver, dr_lifesaver, 1, 100, 0
-7376, eb_pros_1_A_n, eb_pros_1_A_n, 1, 100, 0
-7377, eb_pros_3_A_n, eb_pros_3_A_n, 1, 150, 12
-7378, gd_safedoor, gd_safedoor, 1, 100, 0
-7379, ndc_kockwheel, ndc_kockwheel, 1, 100, 0
-7380, me_liftdoor, me_liftdoor, 1, 100, 0
-7381, mplaycrate, mplaycrate, 1, 100, 0
-7382, mplaycrate_doorB, mplaycrate_doorB, 1, 100, 0
-7383, mplaycrate_doorA, mplaycrate_doorA, 1, 100, 0
-7384, megaDamage, megaDamage, 1, 100, 0
-7385, regenerator, regenerator, 1, 100, 0
-7386, invisible, invisible, 1, 100, 0
-7387, bad_car, bad_car, 1, 100, 0
-7388, good_car, good_car, 1, 100, 0
-7389, ed_blockdocks, ed_blockdocks, 1, 150, 0
-7390, ed_blockgolf, ed_blockgolf, 1, 150, 0
-7391, ed_blockprawn, ed_blockprawn, 1, 150, 0
-7392, gd_helimagnet, gd_helimagnet, 1, 100, 0
-7393, ndc_impoundSignA, ndc_impoundSignA, 1, 100, 0
-7394, ndc_impoundSignB, ndc_impoundSignB, 1, 100, 0
-7395, ndc_impoundSignD, ndc_impoundSignD, 1, 100, 0
-7396, ndc_impoundSignC, ndc_impoundSignC, 1, 100, 0
-7397, ndc_impoundStrike, ndc_impoundStrike, 1, 100, 0
-7398, IZ_fbsDrs_blnk, IZ_fbsDrs_blnk, 1, 100, 0
-7399, jm_dts_csdoor, jm_dts_csdoor, 1, 100, 0
-7400, ndc_shopbag, ndc_shopbag, 1, 100, 0
-7401, rampageCompleted, rampageCompleted, 1, 100, 128
-7402, mar_a2_stereo, mar_a2_stereo, 2, 100, 100, 0
-7403, mar_a2tv, mar_a2tv, 2, 100, 100, 0
-7404, gd_beertray, gd_beertray, 1, 100, 0
-7405, gd_cigar, gd_cigar, 1, 100, 0
-7406, gd_cigarbox, gd_cigarbox, 1, 100, 0
-7407, gd_rubbish3, gd_rubbish3, 1, 100, 0
-7408, gd_rubbish2, gd_rubbish2, 1, 100, 0
-7409, gd_rubbish1, gd_rubbish1, 1, 100, 0
-7410, gd_snackTray, gd_snackTray, 1, 100, 0
-7411, dr_valve, dr_valve, 2, 100, 100, 0
-7412, ebprop_barstool, ebprop_barstool, 2, 100, 100, 0
-7413, ebprop_bed, ebprop_bed, 2, 100, 100, 0
-7414, ebprop_bigbed, ebprop_bigbed, 2, 100, 100, 0
-7415, ebprop_chair, ebprop_chair, 2, 100, 100, 0
-7416, ebprop_clothesrail, ebprop_clothesrail, 2, 100, 100, 0
-7417, ebprop_comfychair, ebprop_comfychair, 2, 100, 100, 0
-7418, ebprop_copier, ebprop_copier, 2, 100, 100, 0
-7419, ebprop_crate, ebprop_crate, 2, 100, 100, 0
-7420, ebprop_drugtableA, ebprop_drugtableA, 2, 100, 100, 0
-7421, ebprop_drugtableB, ebprop_drugtableB, 2, 100, 100, 0
-7422, ebprop_floorlamp, ebprop_floorlamp, 2, 100, 100, 0
-7423, ebprop_gblaster, ebprop_gblaster, 2, 100, 100, 0
-7424, ebprop_officedeskA, ebprop_officedeskA, 2, 100, 100, 0
-7425, ebprop_plantpot, ebprop_plantpot, 2, 100, 100, 0
-7426, ebprop_sack, ebprop_sack, 2, 100, 100, 0
-7427, ebprop_speaker, ebprop_speaker, 2, 100, 100, 0
-7428, ebprop_tableround, ebprop_tableround, 2, 100, 100, 0
-7429, ebprop_tablesquare, ebprop_tablesquare, 2, 100, 100, 0
-7430, ebprop_tablewide, ebprop_tablewide, 2, 100, 100, 0
-7431, eb_forsale, eb_forsale, 1, 150, 0
-7432, eb_cons_A, eb_cons_A, 1, 150, 0
-7433, eb_pros_1_A, eb_pros_1_A, 1, 150, 0
-7434, eb_rob_1_A, eb_rob_1_A, 1, 150, 0
-7435, eb_rob_2_A, eb_rob_2_A, 1, 150, 0
-7436, eb_loan_1_A, eb_loan_1_A, 1, 150, 0
-7437, eb_rob_3_A, eb_rob_3_A, 1, 100, 0
-7438, jm_bks_pedgte, jm_bks_pedgte, 1, 100, 0
-7439, ndc_bikerampNarrow, ndc_bikerampNarrow, 1, 200, 128
-7440, ebprop_delicounter, ebprop_delicounter, 2, 100, 100, 0
-7441, ebprop_freezerfloor, ebprop_freezerfloor, 2, 100, 100, 0
-7442, ebprop_freezer, ebprop_freezer, 2, 100, 100, 0
-7443, eb_prot_1_A, eb_prot_1_A, 1, 150, 0
-7444, ndc_moneypile, generic, 1, 40, 128
-7445, ndc_nodamagedesk, ndc_nodamagedesk, 1, 100, 0
-7446, ndc_debrisa, ndc_debrisa, 1, 100, 0
-7447, ndc_debrisb, ndc_debrisb, 1, 100, 0
-7448, ndc_debrisc, ndc_debrisc, 1, 100, 0
-7449, hash_8795AEA8, knackers, 1, 150, 0
-7450, pm_piergate, pm_piergate, 1, 70, 132
-7451, pm_gardoorwslut, pm_gardoorwslut, 1, 200, 0
-7452, jm_brks_gate, jm_brks_gate, 1, 150, 0
-7453, sjl_learjet, sjl_learjet, 1, 200, 0
-7454, sjl_learjet_near, sjl_learjet_near, 1, 100, 0
-7455, eb_drug_3_C, eb_drug_3_C, 1, 150, 0
-7456, eb_drug_2_C, eb_drug_2_C, 1, 150, 0
-7457, eb_drug_1_C, eb_drug_1_C, 1, 150, 0
-7458, eb_prot_3_C, eb_prot_3_C, 1, 150, 0
-7459, eb_prot_2_C, eb_prot_2_C, 1, 150, 0
-7460, eb_prot_1_C, eb_prot_1_C, 1, 150, 0
-7461, eb_pros_3_C, eb_pros_3_C, 1, 150, 0
-7462, eb_pros_2_C, eb_pros_2_C, 1, 150, 0
-7463, eb_pros_1_C, eb_pros_1_C, 1, 150, 0
-7464, eb_loan_3_C, eb_loan_3_C, 1, 150, 0
-7465, eb_loan_2_C, eb_loan_2_C, 1, 150, 0
-7466, eb_loan_1_C, eb_loan_1_C, 1, 150, 0
-7467, eb_smug_3_C, eb_smug_3_C, 1, 150, 0
-7468, eb_smug_2_C, eb_smug_2_C, 1, 150, 0
-7469, eb_smug_1_C, eb_smug_1_C, 1, 150, 0
-7470, eb_rob_3_C, eb_rob_3_C, 1, 150, 0
-7471, eb_rob_2_C, eb_rob_2_C, 1, 150, 0
-7472, eb_rob_1_C, eb_rob_1_C, 1, 150, 0
-7473, isd1_bike01, isd1_bike01, 1, 100, 0
-7474, isd1_bike02, isd1_bike02, 1, 100, 0
-7475, isd1_bike03, isd1_bike03, 1, 100, 0
-7476, isd1_car01, isd1_car01, 1, 100, 0
-7477, isd1_car02, isd1_car02, 1, 100, 0
-7478, isd1_car03, isd1_car03, 1, 100, 0
-7479, jm_skydoor, jm_skydoor, 1, 150, 0
-7480, Marty_cut_door, Marty_cut_door, 1, 100, 0
-7481, gd_hotelsofa, gd_hotelsofa, 2, 100, 100, 0
-7482, gd_hotelsofabit, gd_hotelsofabit, 1, 100, 0
-7483, ndc_philstick, ndc_philstick, 1, 100, 0
-7484, isd2_bike01, isd2_bike01, 1, 100, 0
-7485, isd2_bike02, isd2_bike02, 1, 100, 0
-7486, isd2_bike03, isd2_bike03, 1, 100, 0
-7487, isd2_car02, isd2_car02, 1, 100, 0
-7488, isd2_car01, isd2_car01, 1, 100, 0
-7489, isd2_car03, isd2_car03, 1, 100, 0
-7490, unlockableIcon, unlockableIcon, 1, 100, 0
-7491, ebprop_cashreg, ebprop_cashreg, 2, 100, 100, 0
-7492, gd_phoneHandle, gd_phoneHandle, 1, 100, 0
-7493, me_mainlightrig, me_mainlightrig, 1, 200, 0
-7494, stagelite_light1, stagelite_light1, 1, 299, 0
-7495, stagelite_light2, stagelite_light2, 1, 299, 0
-7496, stagelite_light3, stagelite_light3, 1, 299, 0
-7497, stagelite_light4, stagelite_light4, 1, 299, 0
-7498, stagelite_light5, stagelite_light5, 1, 299, 0
-7499, jm_bks_barrier, jm_bks_barrier, 1, 62, 128
-7500, ps_philheadmic, ps_philheadmic, 1, 100, 0
-7501, gd_spraycans, gd_spraycans, 1, 100, 0
-7502, ebprop_filecab, ebprop_filecab, 2, 100, 100, 0
-7503, ndc_radioPhone, ndc_radioPhone, 1, 100, 0
-7504, eb_drug_1_A, eb_drug_1_A, 2, 150, 100, 0
-7505, eb_drug_1_B, eb_drug_1_B, 2, 150, 100, 0
-7506, eb_drug_2_A, eb_drug_2_A, 2, 150, 100, 0
-7507, eb_drug_2_B, eb_drug_2_B, 2, 150, 100, 0
-7508, eb_drug_3_A, eb_drug_3_A, 2, 150, 100, 0
-7509, eb_drug_3_B, eb_drug_3_B, 2, 150, 100, 0
-7510, eb_loan_1_B, eb_loan_1_B, 2, 150, 100, 0
-7511, eb_loan_2_A, eb_loan_2_A, 2, 150, 100, 0
-7512, eb_loan_2_B, eb_loan_2_B, 2, 150, 100, 0
-7513, eb_loan_3_A, eb_loan_3_A, 2, 150, 100, 0
-7514, eb_loan_3_B, eb_loan_3_B, 2, 150, 100, 0
-7515, eb_pros_1_B, eb_pros_1_B, 2, 150, 100, 0
-7516, eb_pros_2_A, eb_pros_2_A, 2, 150, 100, 0
-7517, eb_pros_2_B, eb_pros_2_B, 2, 150, 100, 0
-7518, eb_pros_3_A, eb_pros_3_A, 2, 150, 100, 0
-7519, eb_pros_3_B, eb_pros_3_B, 2, 150, 100, 0
-7520, eb_prot_1_B, eb_prot_1_B, 2, 150, 100, 0
-7521, eb_prot_2_A, eb_prot_2_A, 2, 150, 100, 0
-7522, eb_prot_2_B, eb_prot_2_B, 2, 150, 100, 0
-7523, eb_prot_3_A, eb_prot_3_A, 2, 100, 100, 0
-7524, eb_prot_3_B, eb_prot_3_B, 2, 150, 100, 0
-7525, eb_rob_1_B, eb_rob_1_B, 2, 150, 100, 0
-7526, eb_rob_2_B, eb_rob_2_B, 2, 150, 100, 0
-7527, eb_rob_3_B, eb_rob_3_B, 2, 150, 100, 0
-7528, eb_smug_1_A, eb_smug_1_A, 2, 150, 100, 0
-7529, eb_smug_1_B, eb_smug_1_B, 2, 150, 100, 0
-7530, eb_smug_2_A, eb_smug_2_A, 2, 150, 100, 0
-7531, eb_smug_2_B, eb_smug_2_B, 2, 150, 100, 0
-7532, eb_smug_3_A, eb_smug_3_A, 2, 150, 100, 0
-7533, eb_smug_3_B, eb_smug_3_B, 2, 150, 100, 0
-7700, hash_09E381CF, knackers, 1, 250, 0
-7701, hash_EF472252, knackers, 1, 250, 0
-7702, hash_95877132, knackers, 1, 250, 0
-7703, hash_A8E75882, knackers, 1, 250, 0
-7704, hash_4E43FB1F, knackers, 1, 250, 0
-7705, hash_7323D2AF, knackers, 1, 250, 0
-7706, hash_5DBC5663, knackers, 1, 250, 0
-7707, hash_60DC7FD3, knackers, 1, 250, 0
-7708, hash_1A1C2CB3, knackers, 1, 250, 0
-7709, hash_2AE01CDC, knackers, 1, 250, 0
-7710, hash_DB7973FE, knackers, 1, 250, 0
-7711, hash_9CD9092E, knackers, 1, 250, 0
-7712, hash_E6195A4E, knackers, 1, 250, 0
-7713, hash_BFE896FE, knackers, 1, 250, 0
-7714, hash_C528C59E, knackers, 1, 250, 0
-7715, hash_F848EC2E, knackers, 1, 250, 0
-7716, hash_6D40660C, knackers, 1, 250, 0
-7717, hash_D81E7FD9, knackers, 1, 100, 0
-7718, hash_5403FAC9, knackers, 1, 100, 0
-7719, hash_F430BC74, knackers, 1, 100, 0
-7720, hash_94172B60, knackers, 1, 100, 0
-7721, hash_7D748E55, knackers, 1, 100, 0
-7722, hash_E47DDFEF, knackers, 1, 100, 0
-7723, hash_89A03B04, knackers, 1, 100, 0
-7724, hash_AFBE719D, knackers, 1, 100, 0
-7725, hash_1544A8A1, knackers, 1, 100, 0
-7726, hash_36B72027, knackers, 1, 100, 0
-7727, hash_2B003043, knackers, 1, 100, 0
-7728, hash_0F9E7CDC, knackers, 1, 100, 0
-7729, hash_96972D66, knackers, 1, 100, 0
-7730, hash_17C4AEA7, knackers, 1, 100, 0
-7731, hash_EF4B95C2, knackers, 1, 100, 0
-7732, hash_B564A5E0, knackers, 1, 250, 0
-7733, hash_0A73BEC3, knackers, 1, 250, 0
-7734, hash_937AEF79, knackers, 1, 250, 0
-7735, hash_2C6DF45A, knackers, 1, 250, 0
-7736, hash_10A96ABE, knackers, 1, 250, 0
-7737, hash_A8D3B584, knackers, 1, 100, 0
-7738, hash_8C4DF91B, knackers, 1, 100, 0
-7739, hash_C2639576, knackers, 1, 100, 0
-7740, hash_78994C4A, knackers, 1, 100, 0
-7741, hash_12296CB8, knackers, 1, 100, 0
-7742, hash_5B6AC4CC, knackers, 1, 100, 0
-7743, hash_E1901DF0, knackers, 1, 100, 0
-7744, hash_91FAE97F, knackers, 1, 100, 0
-7745, hash_EAA657DD, knackers, 1, 100, 0
-7746, hash_55B14CFE, knackers, 1, 100, 0
-7747, hash_50204FBC, knackers, 1, 250, 0
-7800, hash_473784FF, knackers, 1, 10, 0
-7801, pc_rightrig, knackers, 1, 50, 0
-7802, hash_C604E418, knackers, 1, 299, 0
-7803, pc_frontlights, knackers, 1, 299, 0
-7804, pc_backscaf, knackers, 1, 299, 0
-7805, pc_leftrig, knackers, 1, 50, 0
-7806, pc_backlights, knackers, 1, 50, 0
-7807, hash_47310389, knackers, 1, 299, 0
-7808, pc_frontfence, knackers, 1, 299, 0
-7809, hash_5F0DB5A2, knackers, 1, 299, 0
-7810, hash_A0445DBC, knackers, 1, 150, 0
-7811, pc_leftroom, knackers, 1, 299, 0
-7812, pc_rightroom, knackers, 1, 299, 0
-7813, hash_A9F21197, knackers, 1, 150, 0
-7814, hash_0D6E900A, knackers, 1, 299, 0
-7815, hash_E360F126, knackers, 1, 299, 0
-7816, hash_7D046485, knackers, 1, 299, 0
-7817, hash_3D98FC48, knackers, 1, 299, 0
-7818, pc_leftstage, knackers, 1, 299, 0
-7819, pc_rightstage, knackers, 1, 299, 0
-7820, pc_leftfence, knackers, 1, 150, 0
-7821, pc_rightfence, knackers, 1, 150, 0
-7822, hash_7D0D3D97, knackers, 1, 100, 0
-7823, hash_0476AE80, knackers, 1, 299, 12
-7824, hash_05401453, knackers, 1, 299, 0
-7825, hash_3168E538, knackers, 1, 299, 12
-7826, hash_8475241B, knackers, 1, 299, 12
-7827, hash_9467C1B0, knackers, 1, 299, 0
-7828, pc_stad04, knackers, 1, 299, 0
-7829, mans_corridors, knackers, 1, 100, 0
-7830, goon_misc, knackers, 1, 100, 0
-7831, smallbdroom_misc, knackers, 1, 100, 0
-7832, mainbdroom_misc, knackers, 1, 100, 0
-7833, hash_0F9E098A, knackers, 1, 100, 0
-7834, hash_3C5E3D54, knackers, 1, 100, 0
-7835, upptoilet_misc, knackers, 1, 100, 0
-7836, diningroom_misc, knackers, 1, 100, 0
-7837, lounge_misc, knackers, 1, 100, 0
-7838, goontv, knackers, 1, 100, 0
-7839, goon_tvtable, knackers, 1, 100, 0
-7840, kitchen_misc, knackers, 1, 100, 0
-7841, hash_2F41A580, knackers, 1, 100, 0
-7842, upptoilet, knackers, 1, 100, 0
-7843, mans_left, knackers, 1, 100, 0
-7844, hash_0338422C, knackers, 1, 100, 0
-7845, mans_right, knackers, 1, 100, 0
-7846, hash_2A00A0CA, knackers, 1, 100, 0
-7847, hash_C7DC9865, knackers, 1, 100, 0
-7848, mans_cellar, knackers, 1, 100, 0
-7849, mans_misc, knackers, 1, 100, 0
-7850, hash_507FDF1D, knackers, 1, 100, 0
-7851, pc_stad03, knackers, 1, 299, 0
-7852, pc_stad01, knackers, 1, 299, 0
-7853, pc_stad02, knackers, 1, 299, 0
-7854, hash_780AA732, knackers, 1, 299, 0
-7855, hash_057D5377, knackers, 1, 299, 0
-7856, hash_5327F4F1, knackers, 1, 299, 0
-7857, hash_4A3CC5B0, knackers, 1, 299, 0
-7858, pc_stad01b, knackers, 1, 299, 0
-7859, pc_stad02b, knackers, 1, 299, 0
-7860, pc_stad04b, knackers, 1, 299, 0
-7861, pc_stad03b, knackers, 1, 299, 0
-7862, LODpc_stad03b01, knackers, 1, 2000, 0
-7863, LODpc_stad02b01, knackers, 1, 2000, 0
-7864, LODpc_stad02, knackers, 1, 2000, 0
-7865, LODpc_stad03, knackers, 1, 2000, 0
-7866, LODpc_stad04, knackers, 1, 2000, 0
-7867, LODpc_stad01, knackers, 1, 2000, 0
-7868, hash_30E47499, knackers, 1, 1500, 0
-7869, hash_75C22EF5, knackers, 1, 1500, 0
-7870, hash_ECCB7F4F, knackers, 1, 1500, 0
-7871, hash_05A8DA7A, knackers, 1, 1500, 0
-7872, hash_073A84AB, knackers, 1, 1500, 0
-7873, hash_2251DB77, knackers, 1, 1500, 0
-7874, hash_72AFEAEC, knackers, 1, 1500, 0
-7875, hash_9AEDBC12, knackers, 1, 1500, 0
-7876, study_misc, knackers, 1, 100, 0
-7877, pc_stageback, knackers, 1, 299, 0
-7878, hash_03803FBF, knackers, 1, 299, 0
-7879, hash_9A896E05, knackers, 1, 299, 0
-7880, hash_EA9AC856, knackers, 1, 299, 0
-7881, hash_DD5E07FE, knackers, 1, 299, 0
-7882, hash_EA0C59C7, knackers, 1, 299, 0
-7883, hash_9D0B6951, knackers, 1, 299, 0
-7884, hash_036FFCF2, knackers, 1, 299, 0
-7885, hash_F96DF70D, knackers, 1, 150, 0
-7886, hash_A65FD63F, knackers, 1, 299, 0
-7887, shoeshop, knackers, 1, 150, 0
-7888, hash_C5A7CAD9, knackers, 1, 150, 0
-7889, hash_382C057C, knackers, 1, 150, 0
-7890, hash_221F4EF2, knackers, 1, 150, 0
-7891, hash_C18F321A, knackers, 1, 150, 0
-7892, hash_71A1F67E, knackers, 1, 150, 0
-7893, hash_BD1207F8, knackers, 1, 150, 0
-7894, hash_68D5C57F, knackers, 1, 299, 0
-7895, mlobjects_n13, knackers, 1, 299, 160
-7896, hash_5C50D011, knackers, 1, 299, 0
-7897, hash_AFE9A159, knackers, 1, 299, 0
-7898, misc09, knackers, 1, 299, 0
-7899, jm_mallneon01, knackers, 1, 299, 12
-7900, jm_mallneon02, knackers, 1, 299, 12
-7901, jm_mallneon03, knackers, 1, 299, 12
-7902, jm_mallneon04, knackers, 1, 299, 12
-7903, jm_mallneon063, knackers, 1, 299, 12
-7904, jm_mallneon64, knackers, 1, 299, 12
-7905, hash_235E2201, knackers, 1, 299, 0
-7906, hash_4399ABE4, knackers, 1, 299, 0
-7907, mlobjects_n14, knackers, 1, 299, 160
-7908, mlobjects_n15, knackers, 1, 299, 160
-7909, hash_33F35F6B, knackers, 1, 299, 0
-7910, hash_9E0AE63B, knackers, 1, 299, 0
-7911, jm_mallsec, knackers, 1, 299, 160
-7912, jm_mallinfo, knackers, 1, 299, 160
-7913, hash_DA90FA5E, knackers, 1, 299, 0
-7914, hash_AD97CAC8, knackers, 1, 299, 0
-7915, hash_349E9B72, knackers, 1, 299, 0
-7916, mlobjects_n10, knackers, 1, 299, 160
-7917, mlobjects_n02, knackers, 1, 299, 160
-7918, hash_AE2DBB34, knackers, 1, 100, 0
-7919, hash_DE474FBB, knackers, 1, 100, 0
-7920, hash_8223D9C5, knackers, 1, 299, 0
-7921, hash_1B2A887F, knackers, 1, 299, 0
-7922, hash_4023DA18, knackers, 1, 100, 0
-7923, hash_A9407F2D, knackers, 1, 100, 0
-7924, hash_474E1E01, knackers, 1, 100, 0
-7925, hash_30492E97, knackers, 1, 100, 0
-7926, hash_D7F10390, knackers, 1, 100, 0
-7927, hash_A0F63306, knackers, 1, 100, 0
-7928, hash_3724EA8E, knackers, 1, 100, 0
-7929, hash_C031BAE3, knackers, 1, 100, 0
-7930, hash_E54523A0, knackers, 1, 100, 0
-7931, hash_1B4C1D95, knackers, 1, 299, 0
-7932, hash_FFC17630, knackers, 1, 100, 12
-7933, hash_4BA1F13C, knackers, 1, 100, 0
-7934, hash_A33CBC0D, knackers, 1, 299, 0
-7935, pc_stagemisc, knackers, 1, 70, 0
-7936, pc_mainstage, knackers, 1, 299, 0
-7937, hash_31F4F84D, knackers, 1, 50, 0
-7938, hash_AB6B587D, knackers, 1, 100, 0
-7939, hash_6013FA48, knackers, 1, 100, 0
-7940, hash_E4A1C2BE, knackers, 1, 50, 0
+6912, ML_ESCAL, knackers, 1, 100, 0
+6913, HASH_A0945537, knackers, 1, 100, 0
+6914, ML_PLANTERBED, knackers, 1, 90, 160
+6915, HASH_2EDC07F5, knackers, 1, 100, 0
+6916, HASH_1C81C376, knackers, 1, 100, 0
+6917, HASH_D30BEA7A, knackers, 1, 100, 0
+6918, HASH_168A0BBB, knackers, 1, 100, 0
+6919, HASH_CB262A85, knackers, 1, 100, 0
+6920, HASH_F5512866, knackers, 1, 100, 0
+6921, HASH_6A22EE35, knackers, 1, 100, 0
+6922, HASH_D5AFCCE5, knackers, 1, 100, 0
+6923, PM_PORTALOO, knackers, 1, 100, 0
+6924, LODFAIRBWSEAT, knackers, 1, 600, 0
+6925, HASH_604B3478, knackers, 1, 800, 0
+6926, HASH_D5D1E7AC, knackers, 1, 30, 128
+6927, HASH_F5E2484E, knackers, 1, 30, 128
+6928, PM_LOJETTY, knackers, 1, 150, 0
+6929, HASH_4DF43BCA, knackers, 1, 220, 0
+6930, HASH_C684F3CA, knackers, 1, 299, 0
+6931, HASH_89D531FB, knackers, 1, 2000, 0
+6932, HASH_759864A0, knackers, 1, 2000, 0
+6933, HASH_E8A9A29F, knackers, 1, 120, 0
+6934, PM_JETTY_BAR, knackers, 1, 100, 0
+6935, PM_BEACHAIRA, knackers, 1, 100, 0
+6936, HASH_A0C4EF3B, knackers, 1, 65, 0
+6937, PM_CONCPOST, knackers, 1, 250, 0
+6938, PM_BRIKWALL, knackers, 1, 200, 0
+6939, HASH_0E9A38A4, knackers, 1, 50, 0
+6940, HASH_AC6997FB, knackers, 1, 100, 0
+6941, PM_OFFCHAIR, knackers, 1, 100, 0
+6942, PM_OFFPALM, knackers, 1, 100, 0
+6943, PM_OFFPHONE, knackers, 1, 100, 0
+6944, HASH_21443072, knackers, 1, 100, 0
+6945, HASH_E183BA80, knackers, 1, 100, 0
+6946, HASH_788AEB3A, knackers, 1, 100, 0
+6947, HASH_EB7BE0C8, knackers, 1, 100, 0
+6948, PM_OFFDESK, knackers, 1, 100, 0
+6949, PM_FAR4, knackers, 1, 100, 0
+6950, PM_FAR2, knackers, 1, 100, 128
+6967, HASH_697D70A6, knackers, 1, 100, 0
+6968, HASH_DA9F832C, knackers, 1, 100, 0
+6969, PM_PINBALLA, knackers, 1, 55, 0
+6970, PM_PINBALLB, knackers, 1, 55, 0
+6971, PM_SLOTMACHC, knackers, 1, 55, 0
+6972, PM_SLOTMACHB, knackers, 1, 55, 0
+6973, HASH_75AC75DA, knackers, 1, 100, 0
+6974, HASH_2384A0F4, knackers, 1, 55, 0
+6975, PM_PINBALLBROKE, knackers, 1, 55, 0
+6976, HASH_2ACE2216, knackers, 1, 55, 0
+6977, HASH_2D2BF52A, knackers, 1, 55, 0
+6978, PM_CHILDSIGN, knackers, 1, 55, 0
+6979, PM_EXITSIGN, knackers, 1, 100, 0
+6980, PM_SLOTMACHA, knackers, 1, 55, 0
+6981, HASH_02EC933A, knackers, 1, 55, 0
+6982, HASH_99A6F190, knackers, 1, 100, 0
+6983, PM_FORTHIPOST, knackers, 1, 100, 0
+6984, PM_FORTSHORTPOST, knackers, 1, 100, 0
+6985, PM_FAIR_TILL, knackers, 1, 100, 0
+6986, HASH_B86658DA, knackers, 1, 100, 0
+6987, HASH_D689A50A, knackers, 1, 100, 0
+6988, HASH_28D4313B, knackers, 1, 100, 0
+6989, HASH_E26F748E, knackers, 1, 100, 0
+6990, PM_FORTSHOPPOST, knackers, 1, 100, 0
+6991, HASH_8E3B5903, knackers, 1, 100, 0
+6992, HASH_73E9F9BE, knackers, 1, 100, 0
+6993, HASH_2B3D2FC8, knackers, 1, 100, 128
+6994, HASH_FF34D986, knackers, 1, 250, 0
+6995, PM_STALLBASE, knackers, 1, 100, 0
+6996, HASH_102C166E, knackers, 1, 100, 0
+6997, HASH_7BD60088, knackers, 1, 100, 0
+6998, HASH_0CD1301E, knackers, 1, 100, 0
+6999, PM_FAR1, knackers, 1, 200, 0
+7000, PM_FAR3, knackers, 1, 42, 128
+7001, HASH_028ED75C, knackers, 1, 100, 0
+7002, HASH_35D4C8D7, knackers, 1, 60, 0
+7003, HASH_4E0C7ED3, knackers, 1, 100, 0
+7004, HASH_710E0350, knackers, 1, 100, 0
+7005, HASH_7A16E21D, knackers, 1, 60, 0
+7006, PM_SOFA, knackers, 1, 40, 0
+7007, PM_HOTTABLE, knackers, 1, 40, 0
+7008, PM_CHEST, knackers, 1, 40, 0
+7009, PM_HOTLIGHT, knackers, 1, 40, 0
+7010, PM_TV, knackers, 1, 40, 0
+7011, PM_HOTCHAIR, knackers, 1, 40, 0
+7012, PM_FAR5, knackers, 1, 100, 0
+7013, LODNBCH_HSEA, knackers, 1, 800, 0
+7014, LODNBCH_HSEB, knackers, 1, 800, 0
+7015, DR_NBCH_HSEA, knackers, 1, 100, 0
+7016, DR_NBCH_HSEB, knackers, 1, 100, 0
+7017, LODDSTAGEEXT, knackers, 1, 1000, 0
+7018, HASH_21BAD1E6, knackers, 1, 100, 0
+7019, HASH_4FC7FD01, knackers, 1, 100, 0
+7020, PM_COLONY_HOT, knackers, 1, 160, 0
+7021, LODCOLONY_HOT, knackers, 1, 1500, 0
+7022, PM_COLONYFR01, knackers, 1, 160, 0
+7023, PM_COLONYFR02, knackers, 1, 160, 0
+7024, PM_COLONYFR03, knackers, 1, 160, 0
+7025, PM_BEACON_HOT, knackers, 1, 160, 0
+7026, LODBEACON_HOT, knackers, 1, 800, 0
+7027, PM_BEACONFRNT01, knackers, 1, 160, 0
+7028, PM_BEACONFRNT02, knackers, 1, 160, 0
+7029, PM_TIDES_HOT, knackers, 1, 160, 0
+7030, LODTIDES_HOT, knackers, 1, 2000, 128
+7031, HASH_F4AA1BE3, knackers, 1, 160, 0
+7032, HASH_6DA34A59, knackers, 1, 160, 0
+7033, PM_MAJESTIC_HOT, knackers, 1, 180, 0
+7034, LODMAJESTIC_HOT, knackers, 1, 1500, 0
+7035, LOD_PELICANHOT, knackers, 1, 1500, 128
+7036, PJM_PELICANFRT1, knackers, 1, 160, 0
+7037, PJM_PELICANFRT02, knackers, 1, 160, 0
+7038, PJMC_STARLITE_DY, knackers, 1, 160, 0
+7039, PJMC_LESLIE_DY, knackers, 1, 180, 0
+7040, PJMC_MACALPIN_DY, knackers, 1, 160, 0
+7041, LODC_MACALPIN_DY, knackers, 1, 1500, 0
+7042, LODC_STARLITE_DY, knackers, 1, 1500, 0
+7043, LODC_LESLIE_DY, knackers, 1, 1500, 0
+7044, HASH_E37F9345, knackers, 1, 100, 0
+7045, HASH_570857B8, knackers, 1, 100, 0
+7046, HASH_05307FFA, knackers, 1, 100, 0
+7047, HASH_9C392E40, knackers, 1, 100, 0
+7048, HASH_D01B2C79, knackers, 1, 100, 0
+7049, HASH_49127DC3, knackers, 1, 100, 0
+7050, HASH_3E154D55, knackers, 1, 100, 0
+7051, HASH_2535D690, knackers, 1, 100, 0
+7052, HASH_EB3E1ED6, knackers, 1, 100, 0
+7053, HASH_B4615815, knackers, 1, 100, 0
+7054, HASH_E0DCE790, knackers, 1, 100, 0
+7055, HASH_362395BA, knackers, 1, 100, 0
+7056, HASH_9ED5C4BB, knackers, 1, 100, 0
+7057, HASH_EEBF3034, knackers, 1, 100, 0
+7058, HASH_77B6618E, knackers, 1, 100, 0
+7059, HASH_00B15118, knackers, 1, 100, 0
+7060, HASH_D776E860, knackers, 1, 100, 0
+7061, HASH_BC3C872A, knackers, 1, 100, 0
+7062, HASH_A071D8F6, knackers, 1, 100, 0
+7063, HASH_CB3BB7BC, knackers, 1, 100, 0
+7064, HASH_ED5F3D72, knackers, 1, 100, 0
+7065, HASH_89A11CC7, knackers, 1, 100, 0
+7066, HASH_2F430555, knackers, 1, 100, 0
+7067, HASH_D1A2C0C1, knackers, 1, 100, 0
+7068, HASH_53664C81, knackers, 1, 100, 0
+7069, PM_FAIRBWSEAT, pm_fairbwseat, 1, 200, 0
+7070, HASH_E43B6775, knackers, 1, 50, 0
+7071, HASH_D3ACA975, knackers, 1, 50, 0
+7072, HASH_A3087F5E, knackers, 1, 50, 0
+7073, HASH_0F5715FF, knackers, 1, 50, 0
+7074, HASH_F8EA21F4, knackers, 1, 50, 0
+7075, LODETTY01, knackers, 1, 1500, 0
+7076, LODLOJETTY, knackers, 1, 1000, 0
+7077, HASH_FEC3D0B5, knackers, 1, 100, 0
+7078, HASH_7383FB4C, knackers, 1, 100, 0
+7079, PJM_PELICANHOT, knackers, 1, 160, 0
+7080, PM_FORTXFENCE, knackers, 1, 100, 0
+7081, DR_BIGHOTELA, knackers, 1, 64, 1
+7082, HASH_FA0F18A9, knackers, 1, 100, 0
+7083, HASH_ED2B1319, knackers, 1, 100, 0
+7084, HASH_47E43682, knackers, 1, 250, 0
+7085, NBW_SH_INT, knackers, 1, 250, 0
+7086, HASH_D5D60C4F, knackers, 1, 250, 0
+7087, HASH_F2E0FDB9, knackers, 1, 250, 0
+7088, HASH_DE650AB9, knackers, 1, 250, 0
+7089, HASH_9BA6367D, knackers, 1, 250, 0
+7090, HASH_1229603D, knackers, 1, 250, 0
+7091, HASH_0AA2151F, knackers, 1, 100, 0
+7092, HASH_60BD5DF8, knackers, 1, 250, 0
+7300, NDC_GOLFBALL, ndc_golfball, 1, 100, 0
+7301, NDC_BOATRAMPNARROW, ndc_boatrampNarrow, 1, 200, 128
+7302, NDC_BUOYRIGHTARROW, ndc_buoyRightArrow, 1, 200, 128
+7303, NDC_BUOYLEFTARROW, ndc_buoyLeftArrow, 1, 200, 128
+7304, NDC_BOATRAMPHUMP, ndc_boatrampHump, 1, 200, 128
+7305, NDC_NAVALMINE, ndc_navalmine, 1, 200, 128
+7306, NDC_AMMOBOX, ndc_ammobox, 1, 100, 0
+7307, JM_UMB4_EXIT02, jm_umb4_exit02, 1, 100, 0
+7308, JM_UMB4_EXIT01, jm_umb4_exit01, 1, 100, 0
+7309, JM_UMB4_EXIT03, jm_umb4_exit03, 1, 100, 0
+7310, JM_UMB4_SHUT, jm_umb4_shut, 1, 100, 0
+7311, GD_DILDO, gd_dildo, 1, 100, 0
+7312, NDC_BUOYTARGET, ndc_buoyTarget, 1, 250, 128
+7313, PINATA_MAN, pinata_man, 1, 100, 0
+7314, PM_HOTGATELEFT, pm_hotgateleft, 1, 100, 0
+7315, SJL_CRATE, sjl_crate, 1, 150, 0
+7316, SJL_BOBOHAND_04, sjl_bobohand_04, 1, 100, 0
+7317, SJL_BOBOHAND_02, sjl_bobohand_02, 1, 100, 0
+7318, SJL_BOBOHAND_03, sjl_bobohand_03, 1, 100, 0
+7319, SJL_BOBOHAND_01, sjl_bobohand_01, 1, 100, 0
+7320, CA_SP_SPORTSBAG, ca_sp_sportsbag, 1, 100, 0
+7321, ME_BOOMSHINE_DR, me_boomshine_dr, 1, 100, 0
+7322, NDC_DRUGSPILLBIG, ndc_drugspillbig, 1, 100, 0
+7323, NDC_DRUGSPILL, ndc_drugspill, 1, 100, 0
+7324, NDC_DRUGSTACK, ndc_drugstack, 1, 100, 0
+7325, NDC_DRUGPILE, ndc_drugpile, 1, 100, 0
+7326, NDC_DRUGSOPEN, ndc_drugsopen, 1, 100, 0
+7327, GD_ROCKET, gd_rocket, 1, 100, 0
+7328, GD_CAMHELICOPTER, gd_camhelicopter, 1, 100, 0
+7329, GD_CAMTRUCKBASE, gd_camtruckbase, 1, 100, 0
+7330, GD_CAMTRUCKTOP, gd_camtrucktop, 1, 100, 0
+7331, PM_WALLHOLED, pm_wallholed, 1, 150, 0
+7332, PM_WALLWHOLE, pm_wallwhole, 1, 150, 0
+7333, PM_WALLPLASTPILE, pm_wallplastpile, 1, 100, 0
+7334, PM_GARDOORWSLUX, pm_gardoorwslux, 1, 200, 0
+7335, GD_CRATEPILE, gd_cratePile, 1, 100, 0
+7336, JM_HELIGATE, jm_heligate, 1, 150, 0
+7337, JM_CARPOUNDGATE, jm_carpoundgate, 1, 100, 0
+7338, NDC_BOATRAMPWIDE, ndc_boatrampWide, 1, 200, 128
+7339, TESTRAMP2, TestRamp2, 1, 100, 0
+7340, TESTRAMP1, TestRamp1, 1, 100, 0
+7341, TESTRAMP3, TestRamp3, 1, 100, 0
+7342, TESTRAMP4, TestRamp4, 1, 100, 0
+7343, TESTRAMP5, TestRamp5, 1, 100, 0
+7344, NDC_DRUGPACKET, ndc_drugpacket, 1, 100, 0
+7345, PM_NODE_WALLS, pm_node_walls, 1, 50, 128
+7346, JM_DKS_BHDOOR, jm_dks_bhdoor, 1, 150, 0
+7347, NDC_BOOMSTACK, ndc_boomstack, 1, 100, 0
+7348, ME_POLICEANTENNEE, me_policeantennee, 1, 100, 0
+7349, ME_MAINRIGROPE, me_mainrigrope, 1, 200, 0
+7350, NDC_HELIBUCKET, ndc_helibucket, 1, 100, 0
+7351, PMDIVIDE_DOOR, pmdivide_door, 1, 299, 0
+7352, PM_ELEVDOOR, pm_elevdoor, 1, 100, 0
+7353, NDC_HELIRESCUERIG, ndc_helirescuerig, 1, 100, 0
+7354, EB_PROS_2_A_N, eb_pros_2_A_n, 1, 150, 12
+7355, EB_PROT_1_A_N, eb_prot_1_A_n, 1, 150, 0
+7356, EB_PROT_2_A_N, eb_prot_2_A_n, 1, 150, 12
+7357, EB_PROT_3_A_N, eb_prot_3_A_n, 1, 100, 0
+7358, EB_SMUG_3_A_N, eb_smug_3_A_n, 1, 150, 12
+7359, EB_SMUG_2_A_N, eb_smug_2_A_n, 1, 150, 12
+7360, EB_LOAN_1_A_N, eb_loan_1_A_n, 1, 150, 12
+7361, EB_LOAN_2_A_N, eb_loan_2_A_n, 1, 150, 12
+7362, EB_LOAN_3_A_N, eb_loan_3_A_n, 1, 150, 12
+7363, EB_DRUG_1_A_N, eb_drug_1_A_n, 1, 150, 12
+7364, EB_DRUG_2_A_N, eb_drug_2_A_n, 1, 150, 12
+7365, EB_ROB_2_A_N, eb_rob_2_A_n, 1, 150, 12
+7366, EB_ROB_3_A_N, eb_rob_3_A_n, 1, 150, 12
+7367, EB_ROB_1_A_N, eb_rob_1_A_n, 1, 150, 12
+7368, EB_DRUG_3_A_N, eb_drug_3_A_n, 1, 150, 12
+7369, SJL_BOBOHAND_05, sjl_bobohand_05, 1, 100, 0
+7370, NDC_REDBALLOON, ndc_redballoon, 1, 200, 0
+7371, GD_BRIEFCASE_RED, gd_briefcase_red, 1, 100, 0
+7372, GD_BRIEFCASE_BLUE, gd_briefcase_blue, 1, 100, 0
+7373, GD_BRIEFCASE_BROWN, gd_briefcase_brown, 1, 100, 0
+7374, PMOFFIDOOR, pmoffidoor, 1, 100, 0
+7375, DR_LIFESAVER, dr_lifesaver, 1, 100, 0
+7376, EB_PROS_1_A_N, eb_pros_1_A_n, 1, 100, 0
+7377, EB_PROS_3_A_N, eb_pros_3_A_n, 1, 150, 12
+7378, GD_SAFEDOOR, gd_safedoor, 1, 100, 0
+7379, NDC_KOCKWHEEL, ndc_kockwheel, 1, 100, 0
+7380, ME_LIFTDOOR, me_liftdoor, 1, 100, 0
+7381, MPLAYCRATE, mplaycrate, 1, 100, 0
+7382, MPLAYCRATE_DOORB, mplaycrate_doorB, 1, 100, 0
+7383, MPLAYCRATE_DOORA, mplaycrate_doorA, 1, 100, 0
+7384, MEGADAMAGE, megaDamage, 1, 100, 0
+7385, REGENERATOR, regenerator, 1, 100, 0
+7386, INVISIBLE, invisible, 1, 100, 0
+7387, BAD_CAR, bad_car, 1, 100, 0
+7388, GOOD_CAR, good_car, 1, 100, 0
+7389, ED_BLOCKDOCKS, ed_blockdocks, 1, 150, 0
+7390, ED_BLOCKGOLF, ed_blockgolf, 1, 150, 0
+7391, ED_BLOCKPRAWN, ed_blockprawn, 1, 150, 0
+7392, GD_HELIMAGNET, gd_helimagnet, 1, 100, 0
+7393, NDC_IMPOUNDSIGNA, ndc_impoundSignA, 1, 100, 0
+7394, NDC_IMPOUNDSIGNB, ndc_impoundSignB, 1, 100, 0
+7395, NDC_IMPOUNDSIGND, ndc_impoundSignD, 1, 100, 0
+7396, NDC_IMPOUNDSIGNC, ndc_impoundSignC, 1, 100, 0
+7397, NDC_IMPOUNDSTRIKE, ndc_impoundStrike, 1, 100, 0
+7398, IZ_FBSDRS_BLNK, IZ_fbsDrs_blnk, 1, 100, 0
+7399, JM_DTS_CSDOOR, jm_dts_csdoor, 1, 100, 0
+7400, NDC_SHOPBAG, ndc_shopbag, 1, 100, 0
+7401, RAMPAGECOMPLETED, rampageCompleted, 1, 100, 128
+7402, MAR_A2_STEREO, mar_a2_stereo, 2, 100, 100, 0
+7403, MAR_A2TV, mar_a2tv, 2, 100, 100, 0
+7404, GD_BEERTRAY, gd_beertray, 1, 100, 0
+7405, GD_CIGAR, gd_cigar, 1, 100, 0
+7406, GD_CIGARBOX, gd_cigarbox, 1, 100, 0
+7407, GD_RUBBISH3, gd_rubbish3, 1, 100, 0
+7408, GD_RUBBISH2, gd_rubbish2, 1, 100, 0
+7409, GD_RUBBISH1, gd_rubbish1, 1, 100, 0
+7410, GD_SNACKTRAY, gd_snackTray, 1, 100, 0
+7411, DR_VALVE, dr_valve, 2, 100, 100, 0
+7412, EBPROP_BARSTOOL, ebprop_barstool, 2, 100, 100, 0
+7413, EBPROP_BED, ebprop_bed, 2, 100, 100, 0
+7414, EBPROP_BIGBED, ebprop_bigbed, 2, 100, 100, 0
+7415, EBPROP_CHAIR, ebprop_chair, 2, 100, 100, 0
+7416, EBPROP_CLOTHESRAIL, ebprop_clothesrail, 2, 100, 100, 0
+7417, EBPROP_COMFYCHAIR, ebprop_comfychair, 2, 100, 100, 0
+7418, EBPROP_COPIER, ebprop_copier, 2, 100, 100, 0
+7419, EBPROP_CRATE, ebprop_crate, 2, 100, 100, 0
+7420, EBPROP_DRUGTABLEA, ebprop_drugtableA, 2, 100, 100, 0
+7421, EBPROP_DRUGTABLEB, ebprop_drugtableB, 2, 100, 100, 0
+7422, EBPROP_FLOORLAMP, ebprop_floorlamp, 2, 100, 100, 0
+7423, EBPROP_GBLASTER, ebprop_gblaster, 2, 100, 100, 0
+7424, EBPROP_OFFICEDESKA, ebprop_officedeskA, 2, 100, 100, 0
+7425, EBPROP_PLANTPOT, ebprop_plantpot, 2, 100, 100, 0
+7426, EBPROP_SACK, ebprop_sack, 2, 100, 100, 0
+7427, EBPROP_SPEAKER, ebprop_speaker, 2, 100, 100, 0
+7428, EBPROP_TABLEROUND, ebprop_tableround, 2, 100, 100, 0
+7429, EBPROP_TABLESQUARE, ebprop_tablesquare, 2, 100, 100, 0
+7430, EBPROP_TABLEWIDE, ebprop_tablewide, 2, 100, 100, 0
+7431, EB_FORSALE, eb_forsale, 1, 150, 0
+7432, EB_CONS_A, eb_cons_A, 1, 150, 0
+7433, EB_PROS_1_A, eb_pros_1_A, 1, 150, 0
+7434, EB_ROB_1_A, eb_rob_1_A, 1, 150, 0
+7435, EB_ROB_2_A, eb_rob_2_A, 1, 150, 0
+7436, EB_LOAN_1_A, eb_loan_1_A, 1, 150, 0
+7437, EB_ROB_3_A, eb_rob_3_A, 1, 100, 0
+7438, JM_BKS_PEDGTE, jm_bks_pedgte, 1, 100, 0
+7439, NDC_BIKERAMPNARROW, ndc_bikerampNarrow, 1, 200, 128
+7440, EBPROP_DELICOUNTER, ebprop_delicounter, 2, 100, 100, 0
+7441, EBPROP_FREEZERFLOOR, ebprop_freezerfloor, 2, 100, 100, 0
+7442, EBPROP_FREEZER, ebprop_freezer, 2, 100, 100, 0
+7443, EB_PROT_1_A, eb_prot_1_A, 1, 150, 0
+7444, NDC_MONEYPILE, generic, 1, 40, 128
+7445, NDC_NODAMAGEDESK, ndc_nodamagedesk, 1, 100, 0
+7446, NDC_DEBRISA, ndc_debrisa, 1, 100, 0
+7447, NDC_DEBRISB, ndc_debrisb, 1, 100, 0
+7448, NDC_DEBRISC, ndc_debrisc, 1, 100, 0
+7449, HASH_8795AEA8, knackers, 1, 150, 0
+7450, PM_PIERGATE, pm_piergate, 1, 70, 132
+7451, PM_GARDOORWSLUT, pm_gardoorwslut, 1, 200, 0
+7452, JM_BRKS_GATE, jm_brks_gate, 1, 150, 0
+7453, SJL_LEARJET, sjl_learjet, 1, 200, 0
+7454, SJL_LEARJET_NEAR, sjl_learjet_near, 1, 100, 0
+7455, EB_DRUG_3_C, eb_drug_3_C, 1, 150, 0
+7456, EB_DRUG_2_C, eb_drug_2_C, 1, 150, 0
+7457, EB_DRUG_1_C, eb_drug_1_C, 1, 150, 0
+7458, EB_PROT_3_C, eb_prot_3_C, 1, 150, 0
+7459, EB_PROT_2_C, eb_prot_2_C, 1, 150, 0
+7460, EB_PROT_1_C, eb_prot_1_C, 1, 150, 0
+7461, EB_PROS_3_C, eb_pros_3_C, 1, 150, 0
+7462, EB_PROS_2_C, eb_pros_2_C, 1, 150, 0
+7463, EB_PROS_1_C, eb_pros_1_C, 1, 150, 0
+7464, EB_LOAN_3_C, eb_loan_3_C, 1, 150, 0
+7465, EB_LOAN_2_C, eb_loan_2_C, 1, 150, 0
+7466, EB_LOAN_1_C, eb_loan_1_C, 1, 150, 0
+7467, EB_SMUG_3_C, eb_smug_3_C, 1, 150, 0
+7468, EB_SMUG_2_C, eb_smug_2_C, 1, 150, 0
+7469, EB_SMUG_1_C, eb_smug_1_C, 1, 150, 0
+7470, EB_ROB_3_C, eb_rob_3_C, 1, 150, 0
+7471, EB_ROB_2_C, eb_rob_2_C, 1, 150, 0
+7472, EB_ROB_1_C, eb_rob_1_C, 1, 150, 0
+7473, ISD1_BIKE01, isd1_bike01, 1, 100, 0
+7474, ISD1_BIKE02, isd1_bike02, 1, 100, 0
+7475, ISD1_BIKE03, isd1_bike03, 1, 100, 0
+7476, ISD1_CAR01, isd1_car01, 1, 100, 0
+7477, ISD1_CAR02, isd1_car02, 1, 100, 0
+7478, ISD1_CAR03, isd1_car03, 1, 100, 0
+7479, JM_SKYDOOR, jm_skydoor, 1, 150, 0
+7480, MARTY_CUT_DOOR, Marty_cut_door, 1, 100, 0
+7481, GD_HOTELSOFA, gd_hotelsofa, 2, 100, 100, 0
+7482, GD_HOTELSOFABIT, gd_hotelsofabit, 1, 100, 0
+7483, NDC_PHILSTICK, ndc_philstick, 1, 100, 0
+7484, ISD2_BIKE01, isd2_bike01, 1, 100, 0
+7485, ISD2_BIKE02, isd2_bike02, 1, 100, 0
+7486, ISD2_BIKE03, isd2_bike03, 1, 100, 0
+7487, ISD2_CAR02, isd2_car02, 1, 100, 0
+7488, ISD2_CAR01, isd2_car01, 1, 100, 0
+7489, ISD2_CAR03, isd2_car03, 1, 100, 0
+7490, UNLOCKABLEICON, unlockableIcon, 1, 100, 0
+7491, EBPROP_CASHREG, ebprop_cashreg, 2, 100, 100, 0
+7492, GD_PHONEHANDLE, gd_phoneHandle, 1, 100, 0
+7493, ME_MAINLIGHTRIG, me_mainlightrig, 1, 200, 0
+7494, STAGELITE_LIGHT1, stagelite_light1, 1, 299, 0
+7495, STAGELITE_LIGHT2, stagelite_light2, 1, 299, 0
+7496, STAGELITE_LIGHT3, stagelite_light3, 1, 299, 0
+7497, STAGELITE_LIGHT4, stagelite_light4, 1, 299, 0
+7498, STAGELITE_LIGHT5, stagelite_light5, 1, 299, 0
+7499, JM_BKS_BARRIER, jm_bks_barrier, 1, 62, 128
+7500, PS_PHILHEADMIC, ps_philheadmic, 1, 100, 0
+7501, GD_SPRAYCANS, gd_spraycans, 1, 100, 0
+7502, EBPROP_FILECAB, ebprop_filecab, 2, 100, 100, 0
+7503, NDC_RADIOPHONE, ndc_radioPhone, 1, 100, 0
+7504, EB_DRUG_1_A, eb_drug_1_A, 2, 150, 100, 0
+7505, EB_DRUG_1_B, eb_drug_1_B, 2, 150, 100, 0
+7506, EB_DRUG_2_A, eb_drug_2_A, 2, 150, 100, 0
+7507, EB_DRUG_2_B, eb_drug_2_B, 2, 150, 100, 0
+7508, EB_DRUG_3_A, eb_drug_3_A, 2, 150, 100, 0
+7509, EB_DRUG_3_B, eb_drug_3_B, 2, 150, 100, 0
+7510, EB_LOAN_1_B, eb_loan_1_B, 2, 150, 100, 0
+7511, EB_LOAN_2_A, eb_loan_2_A, 2, 150, 100, 0
+7512, EB_LOAN_2_B, eb_loan_2_B, 2, 150, 100, 0
+7513, EB_LOAN_3_A, eb_loan_3_A, 2, 150, 100, 0
+7514, EB_LOAN_3_B, eb_loan_3_B, 2, 150, 100, 0
+7515, EB_PROS_1_B, eb_pros_1_B, 2, 150, 100, 0
+7516, EB_PROS_2_A, eb_pros_2_A, 2, 150, 100, 0
+7517, EB_PROS_2_B, eb_pros_2_B, 2, 150, 100, 0
+7518, EB_PROS_3_A, eb_pros_3_A, 2, 150, 100, 0
+7519, EB_PROS_3_B, eb_pros_3_B, 2, 150, 100, 0
+7520, EB_PROT_1_B, eb_prot_1_B, 2, 150, 100, 0
+7521, EB_PROT_2_A, eb_prot_2_A, 2, 150, 100, 0
+7522, EB_PROT_2_B, eb_prot_2_B, 2, 150, 100, 0
+7523, EB_PROT_3_A, eb_prot_3_A, 2, 100, 100, 0
+7524, EB_PROT_3_B, eb_prot_3_B, 2, 150, 100, 0
+7525, EB_ROB_1_B, eb_rob_1_B, 2, 150, 100, 0
+7526, EB_ROB_2_B, eb_rob_2_B, 2, 150, 100, 0
+7527, EB_ROB_3_B, eb_rob_3_B, 2, 150, 100, 0
+7528, EB_SMUG_1_A, eb_smug_1_A, 2, 150, 100, 0
+7529, EB_SMUG_1_B, eb_smug_1_B, 2, 150, 100, 0
+7530, EB_SMUG_2_A, eb_smug_2_A, 2, 150, 100, 0
+7531, EB_SMUG_2_B, eb_smug_2_B, 2, 150, 100, 0
+7532, EB_SMUG_3_A, eb_smug_3_A, 2, 150, 100, 0
+7533, EB_SMUG_3_B, eb_smug_3_B, 2, 150, 100, 0
+7700, HASH_09E381CF, knackers, 1, 250, 0
+7701, HASH_EF472252, knackers, 1, 250, 0
+7702, HASH_95877132, knackers, 1, 250, 0
+7703, HASH_A8E75882, knackers, 1, 250, 0
+7704, HASH_4E43FB1F, knackers, 1, 250, 0
+7705, HASH_7323D2AF, knackers, 1, 250, 0
+7706, HASH_5DBC5663, knackers, 1, 250, 0
+7707, HASH_60DC7FD3, knackers, 1, 250, 0
+7708, HASH_1A1C2CB3, knackers, 1, 250, 0
+7709, HASH_2AE01CDC, knackers, 1, 250, 0
+7710, HASH_DB7973FE, knackers, 1, 250, 0
+7711, HASH_9CD9092E, knackers, 1, 250, 0
+7712, HASH_E6195A4E, knackers, 1, 250, 0
+7713, HASH_BFE896FE, knackers, 1, 250, 0
+7714, HASH_C528C59E, knackers, 1, 250, 0
+7715, HASH_F848EC2E, knackers, 1, 250, 0
+7716, HASH_6D40660C, knackers, 1, 250, 0
+7717, HASH_D81E7FD9, knackers, 1, 100, 0
+7718, HASH_5403FAC9, knackers, 1, 100, 0
+7719, HASH_F430BC74, knackers, 1, 100, 0
+7720, HASH_94172B60, knackers, 1, 100, 0
+7721, HASH_7D748E55, knackers, 1, 100, 0
+7722, HASH_E47DDFEF, knackers, 1, 100, 0
+7723, HASH_89A03B04, knackers, 1, 100, 0
+7724, HASH_AFBE719D, knackers, 1, 100, 0
+7725, HASH_1544A8A1, knackers, 1, 100, 0
+7726, HASH_36B72027, knackers, 1, 100, 0
+7727, HASH_2B003043, knackers, 1, 100, 0
+7728, HASH_0F9E7CDC, knackers, 1, 100, 0
+7729, HASH_96972D66, knackers, 1, 100, 0
+7730, HASH_17C4AEA7, knackers, 1, 100, 0
+7731, HASH_EF4B95C2, knackers, 1, 100, 0
+7732, HASH_B564A5E0, knackers, 1, 250, 0
+7733, HASH_0A73BEC3, knackers, 1, 250, 0
+7734, HASH_937AEF79, knackers, 1, 250, 0
+7735, HASH_2C6DF45A, knackers, 1, 250, 0
+7736, HASH_10A96ABE, knackers, 1, 250, 0
+7737, HASH_A8D3B584, knackers, 1, 100, 0
+7738, HASH_8C4DF91B, knackers, 1, 100, 0
+7739, HASH_C2639576, knackers, 1, 100, 0
+7740, HASH_78994C4A, knackers, 1, 100, 0
+7741, HASH_12296CB8, knackers, 1, 100, 0
+7742, HASH_5B6AC4CC, knackers, 1, 100, 0
+7743, HASH_E1901DF0, knackers, 1, 100, 0
+7744, HASH_91FAE97F, knackers, 1, 100, 0
+7745, HASH_EAA657DD, knackers, 1, 100, 0
+7746, HASH_55B14CFE, knackers, 1, 100, 0
+7747, HASH_50204FBC, knackers, 1, 250, 0
+7800, HASH_473784FF, knackers, 1, 10, 0
+7801, PC_RIGHTRIG, knackers, 1, 50, 0
+7802, HASH_C604E418, knackers, 1, 299, 0
+7803, PC_FRONTLIGHTS, knackers, 1, 299, 0
+7804, PC_BACKSCAF, knackers, 1, 299, 0
+7805, PC_LEFTRIG, knackers, 1, 50, 0
+7806, PC_BACKLIGHTS, knackers, 1, 50, 0
+7807, HASH_47310389, knackers, 1, 299, 0
+7808, PC_FRONTFENCE, knackers, 1, 299, 0
+7809, HASH_5F0DB5A2, knackers, 1, 299, 0
+7810, HASH_A0445DBC, knackers, 1, 150, 0
+7811, PC_LEFTROOM, knackers, 1, 299, 0
+7812, PC_RIGHTROOM, knackers, 1, 299, 0
+7813, HASH_A9F21197, knackers, 1, 150, 0
+7814, HASH_0D6E900A, knackers, 1, 299, 0
+7815, HASH_E360F126, knackers, 1, 299, 0
+7816, HASH_7D046485, knackers, 1, 299, 0
+7817, HASH_3D98FC48, knackers, 1, 299, 0
+7818, PC_LEFTSTAGE, knackers, 1, 299, 0
+7819, PC_RIGHTSTAGE, knackers, 1, 299, 0
+7820, PC_LEFTFENCE, knackers, 1, 150, 0
+7821, PC_RIGHTFENCE, knackers, 1, 150, 0
+7822, HASH_7D0D3D97, knackers, 1, 100, 0
+7823, HASH_0476AE80, knackers, 1, 299, 12
+7824, HASH_05401453, knackers, 1, 299, 0
+7825, HASH_3168E538, knackers, 1, 299, 12
+7826, HASH_8475241B, knackers, 1, 299, 12
+7827, HASH_9467C1B0, knackers, 1, 299, 0
+7828, PC_STAD04, knackers, 1, 299, 0
+7829, MANS_CORRIDORS, knackers, 1, 100, 0
+7830, GOON_MISC, knackers, 1, 100, 0
+7831, SMALLBDROOM_MISC, knackers, 1, 100, 0
+7832, MAINBDROOM_MISC, knackers, 1, 100, 0
+7833, HASH_0F9E098A, knackers, 1, 100, 0
+7834, HASH_3C5E3D54, knackers, 1, 100, 0
+7835, UPPTOILET_MISC, knackers, 1, 100, 0
+7836, DININGROOM_MISC, knackers, 1, 100, 0
+7837, LOUNGE_MISC, knackers, 1, 100, 0
+7838, GOONTV, knackers, 1, 100, 0
+7839, GOON_TVTABLE, knackers, 1, 100, 0
+7840, KITCHEN_MISC, knackers, 1, 100, 0
+7841, HASH_2F41A580, knackers, 1, 100, 0
+7842, UPPTOILET, knackers, 1, 100, 0
+7843, MANS_LEFT, knackers, 1, 100, 0
+7844, HASH_0338422C, knackers, 1, 100, 0
+7845, MANS_RIGHT, knackers, 1, 100, 0
+7846, HASH_2A00A0CA, knackers, 1, 100, 0
+7847, HASH_C7DC9865, knackers, 1, 100, 0
+7848, MANS_CELLAR, knackers, 1, 100, 0
+7849, MANS_MISC, knackers, 1, 100, 0
+7850, HASH_507FDF1D, knackers, 1, 100, 0
+7851, PC_STAD03, knackers, 1, 299, 0
+7852, PC_STAD01, knackers, 1, 299, 0
+7853, PC_STAD02, knackers, 1, 299, 0
+7854, HASH_780AA732, knackers, 1, 299, 0
+7855, HASH_057D5377, knackers, 1, 299, 0
+7856, HASH_5327F4F1, knackers, 1, 299, 0
+7857, HASH_4A3CC5B0, knackers, 1, 299, 0
+7858, PC_STAD01B, knackers, 1, 299, 0
+7859, PC_STAD02B, knackers, 1, 299, 0
+7860, PC_STAD04B, knackers, 1, 299, 0
+7861, PC_STAD03B, knackers, 1, 299, 0
+7862, LODPC_STAD03B01, knackers, 1, 2000, 0
+7863, LODPC_STAD02B01, knackers, 1, 2000, 0
+7864, LODPC_STAD02, knackers, 1, 2000, 0
+7865, LODPC_STAD03, knackers, 1, 2000, 0
+7866, LODPC_STAD04, knackers, 1, 2000, 0
+7867, LODPC_STAD01, knackers, 1, 2000, 0
+7868, HASH_30E47499, knackers, 1, 1500, 0
+7869, HASH_75C22EF5, knackers, 1, 1500, 0
+7870, HASH_ECCB7F4F, knackers, 1, 1500, 0
+7871, HASH_05A8DA7A, knackers, 1, 1500, 0
+7872, HASH_073A84AB, knackers, 1, 1500, 0
+7873, HASH_2251DB77, knackers, 1, 1500, 0
+7874, HASH_72AFEAEC, knackers, 1, 1500, 0
+7875, HASH_9AEDBC12, knackers, 1, 1500, 0
+7876, STUDY_MISC, knackers, 1, 100, 0
+7877, PC_STAGEBACK, knackers, 1, 299, 0
+7878, HASH_03803FBF, knackers, 1, 299, 0
+7879, HASH_9A896E05, knackers, 1, 299, 0
+7880, HASH_EA9AC856, knackers, 1, 299, 0
+7881, HASH_DD5E07FE, knackers, 1, 299, 0
+7882, HASH_EA0C59C7, knackers, 1, 299, 0
+7883, HASH_9D0B6951, knackers, 1, 299, 0
+7884, HASH_036FFCF2, knackers, 1, 299, 0
+7885, HASH_F96DF70D, knackers, 1, 150, 0
+7886, HASH_A65FD63F, knackers, 1, 299, 0
+7887, SHOESHOP, knackers, 1, 150, 0
+7888, HASH_C5A7CAD9, knackers, 1, 150, 0
+7889, HASH_382C057C, knackers, 1, 150, 0
+7890, HASH_221F4EF2, knackers, 1, 150, 0
+7891, HASH_C18F321A, knackers, 1, 150, 0
+7892, HASH_71A1F67E, knackers, 1, 150, 0
+7893, HASH_BD1207F8, knackers, 1, 150, 0
+7894, HASH_68D5C57F, knackers, 1, 299, 0
+7895, MLOBJECTS_N13, knackers, 1, 299, 160
+7896, HASH_5C50D011, knackers, 1, 299, 0
+7897, HASH_AFE9A159, knackers, 1, 299, 0
+7898, MISC09, knackers, 1, 299, 0
+7899, JM_MALLNEON01, knackers, 1, 299, 12
+7900, JM_MALLNEON02, knackers, 1, 299, 12
+7901, JM_MALLNEON03, knackers, 1, 299, 12
+7902, JM_MALLNEON04, knackers, 1, 299, 12
+7903, JM_MALLNEON063, knackers, 1, 299, 12
+7904, JM_MALLNEON64, knackers, 1, 299, 12
+7905, HASH_235E2201, knackers, 1, 299, 0
+7906, HASH_4399ABE4, knackers, 1, 299, 0
+7907, MLOBJECTS_N14, knackers, 1, 299, 160
+7908, MLOBJECTS_N15, knackers, 1, 299, 160
+7909, HASH_33F35F6B, knackers, 1, 299, 0
+7910, HASH_9E0AE63B, knackers, 1, 299, 0
+7911, JM_MALLSEC, knackers, 1, 299, 160
+7912, JM_MALLINFO, knackers, 1, 299, 160
+7913, HASH_DA90FA5E, knackers, 1, 299, 0
+7914, HASH_AD97CAC8, knackers, 1, 299, 0
+7915, HASH_349E9B72, knackers, 1, 299, 0
+7916, MLOBJECTS_N10, knackers, 1, 299, 160
+7917, MLOBJECTS_N02, knackers, 1, 299, 160
+7918, HASH_AE2DBB34, knackers, 1, 100, 0
+7919, HASH_DE474FBB, knackers, 1, 100, 0
+7920, HASH_8223D9C5, knackers, 1, 299, 0
+7921, HASH_1B2A887F, knackers, 1, 299, 0
+7922, HASH_4023DA18, knackers, 1, 100, 0
+7923, HASH_A9407F2D, knackers, 1, 100, 0
+7924, HASH_474E1E01, knackers, 1, 100, 0
+7925, HASH_30492E97, knackers, 1, 100, 0
+7926, HASH_D7F10390, knackers, 1, 100, 0
+7927, HASH_A0F63306, knackers, 1, 100, 0
+7928, HASH_3724EA8E, knackers, 1, 100, 0
+7929, HASH_C031BAE3, knackers, 1, 100, 0
+7930, HASH_E54523A0, knackers, 1, 100, 0
+7931, HASH_1B4C1D95, knackers, 1, 299, 0
+7932, HASH_FFC17630, knackers, 1, 100, 12
+7933, HASH_4BA1F13C, knackers, 1, 100, 0
+7934, HASH_A33CBC0D, knackers, 1, 299, 0
+7935, PC_STAGEMISC, knackers, 1, 70, 0
+7936, PC_MAINSTAGE, knackers, 1, 299, 0
+7937, HASH_31F4F84D, knackers, 1, 50, 0
+7938, HASH_AB6B587D, knackers, 1, 100, 0
+7939, HASH_6013FA48, knackers, 1, 100, 0
+7940, HASH_E4A1C2BE, knackers, 1, 50, 0
 end
 tobj
-6951, hash_7748ABAA, knackers, 1, 299, 12, 19, 7
-6952, hash_AF82D0AE, knackers, 1, 299, 12, 19, 7
-6953, hash_E51595E1, knackers, 1, 299, 12, 19, 7
-6954, hash_B8F9C4ED, knackers, 1, 299, 12, 19, 7
-6955, hash_DC98A924, knackers, 1, 299, 12, 19, 7
-6956, hash_8174F828, knackers, 1, 299, 12, 19, 7
-6957, hash_1EEC34C3, knackers, 1, 299, 12, 19, 7
-6958, hash_CBE3BD67, knackers, 1, 299, 12, 19, 7
-6959, hash_1BE17887, knackers, 1, 5001, 8, 19, 7
-6960, hash_EA312508, knackers, 1, 5001, 8, 19, 7
-6961, hash_A0A66047, knackers, 1, 5001, 8, 19, 7
-6962, hash_FD4A314B, knackers, 1, 5001, 8, 19, 7
-6963, hash_992B5C82, knackers, 1, 5001, 8, 19, 7
-6964, hash_C4C70D8E, knackers, 1, 5001, 8, 19, 7
-6965, hash_211C81EB, knackers, 1, 5001, 8, 19, 7
-6966, hash_8E5048C1, knackers, 1, 5001, 8, 19, 7
+6951, HASH_7748ABAA, knackers, 1, 299, 12, 19, 7
+6952, HASH_AF82D0AE, knackers, 1, 299, 12, 19, 7
+6953, HASH_E51595E1, knackers, 1, 299, 12, 19, 7
+6954, HASH_B8F9C4ED, knackers, 1, 299, 12, 19, 7
+6955, HASH_DC98A924, knackers, 1, 299, 12, 19, 7
+6956, HASH_8174F828, knackers, 1, 299, 12, 19, 7
+6957, HASH_1EEC34C3, knackers, 1, 299, 12, 19, 7
+6958, HASH_CBE3BD67, knackers, 1, 299, 12, 19, 7
+6959, HASH_1BE17887, knackers, 1, 5001, 8, 19, 7
+6960, HASH_EA312508, knackers, 1, 5001, 8, 19, 7
+6961, HASH_A0A66047, knackers, 1, 5001, 8, 19, 7
+6962, HASH_FD4A314B, knackers, 1, 5001, 8, 19, 7
+6963, HASH_992B5C82, knackers, 1, 5001, 8, 19, 7
+6964, HASH_C4C70D8E, knackers, 1, 5001, 8, 19, 7
+6965, HASH_211C81EB, knackers, 1, 5001, 8, 19, 7
+6966, HASH_8E5048C1, knackers, 1, 5001, 8, 19, 7
 end
 2dfx
 7082, -0.000640869, -0.00119019, 4.21646, 188, 162, 131, 200, 0, "coronastar", "shad_exp", 40, 6, 4, 0, 0, 0, 0, 0, 0
