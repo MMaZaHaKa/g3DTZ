@@ -120,6 +120,8 @@ enum eVehicleType : int32
 #ifdef VCS
 	VEHICLE_TYPE_BMX,
 	VEHICLE_TYPE_QUAD
+#else
+	VEHICLE_TYPE_FERRY
 #endif
 };
 
@@ -194,10 +196,12 @@ public:
 	float            m_bikeSteerAngle;
 	char             m_gameName[8];   // GXT Name
 	uint8            unk2;            // lastColour, numExtras (???)
-	uint8            m_numColours;
-	uint8            unk3;            // Maybe numUnkTable
-	int8             m_colours[8][2]; // Colour IDs
-	char             unk4[25];        // Maybe there's a "xxx by 2" table in there, similar to peds' one, unknown purpose
+	uint8            m_nNumColorVariations;
+	uint8            m_nNumScriptColorVariations;
+	uint8            m_anColorVariationIndices[8][2]; // Colour IDs
+	uint8            m_anScriptColorVariationIndices[4][2]; // Script Colour IDs
+	uint8            m_anCustomColors[3][3];
+	uint8            m_aCurrentColors[2][4]; // Current Colours
 	RslMaterial     *m_materials1[30];
 	RslMaterial     *m_materials2[25];
 	void           **extras;
@@ -226,7 +230,10 @@ public:
 	CHandlingBoat   *GetHandlingBoat()   { return m_pHandlingBoat;             }
 	CHandlingFlying *GetHandlingFlying() { return m_pHandlingFlying;           }
 	const char      *GetWheelScaleRear() { return Precision(m_wheelScaleRear); }
-	int8(*GetColours())[2]{ return m_colours; }
+	uint8(&GetColours())[8][2]{ return m_anColorVariationIndices; }
+	uint8(&GetScriptColours())[4][2]{ return m_anScriptColorVariationIndices; }
+	uint8(&GetCustomColours())[3][3]{ return m_anCustomColors; }
+	uint8(&GetCurrentColours())[2][4]{ return m_aCurrentColors; }
 #endif
 	const char*  GetGameName()       { return m_gameName;              }
 	float        GetNormalSplay()    { return m_normalSplay;           }
@@ -237,7 +244,8 @@ public:
 	float        GetBikeSteerAngle() { return m_bikeSteerAngle;        }
 	int          GetPlaneLodId()     { return m_planeLodId;            }
 	const char*  GetWheelScale()     { return Precision(m_wheelScale); }
-	int          GetNumColours()     { return m_numColours;            }
+	int          GetNumColours()     { return m_nNumColorVariations;   }
+	int          GetNumScriptColours() { return m_nNumScriptColorVariations; }
 	eVehicleType GetVehicleType()   { return m_vehicleType;           }
 	const char*  GetVehicleTypeName();
 	const char*  GetAnimBlockName();
@@ -264,12 +272,13 @@ private:
 	int8       m_radio1;
 	int8       m_radio2;
 #ifdef VCS            //Many unknowns, wouldn't be surprised if there's audio info somewhere
-	uint8 unk1;
-	uint8 m_numColours;
-	uint8 m_numUnkTable;
-	uint8 m_colours[16][4];
-	uint8 m_unkTable[4][4]; // That's definetly wrong, must check with cars and in-game
-	char unk2[27];
+	uint8 m_nLastChosenColorVariation;
+	uint8 m_nNumColorVariations;
+	uint8 m_nNumScriptColorVariations;
+	uint8 m_anColorVariationIndices[16][4]; // 0xF0
+	uint8 m_anScriptColorVariationIndices[4][4]; // That's definetly wrong, must check with cars and in-game used[4][4]
+	uint8 m_anCustomColors[9][3];
+	char unk2[11];
 	struct {          // *
 		void* mat;    // * Weird editable materials, filled at runtime
 		int32 numX;   // *
@@ -281,8 +290,12 @@ private:
 	uint32 unk6;      // always 0
 
 public:
-	int GetNumColours() { return m_numColours; }
-	uint8(&GetColours())[16][4] { return m_colours; }
+	int GetNumColours() { return m_nNumColorVariations; }
+	int GetNumScriptColours() { return m_nNumScriptColorVariations; }
+	int GetLastChosen() { return m_nLastChosenColorVariation; }
+	uint8(&GetColours())[16][4] { return m_anColorVariationIndices; }
+	uint8(&GetScriptColours())[4][4] { return m_anScriptColorVariationIndices; }
+	uint8(&GetCustomColours())[9][3] { return m_anCustomColors; }
 #endif
 public:
 	uint32 GetCarsCanDriveMask() { return m_carsCanDrive; }

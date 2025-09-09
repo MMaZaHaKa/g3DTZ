@@ -10,6 +10,14 @@
 #include <vector>
 #include <algorithm>
 
+// love modern c++ (NO!) говно ебать
+template<typename T>
+static inline unsigned int ToUInt8(T v) {
+	return static_cast<uint8_t>(v);
+	return static_cast<unsigned int>(static_cast<uint8_t>(v));
+}
+
+
 bool ExtractModelInfoAndStuff()
 {
 #ifdef VCS
@@ -26,9 +34,9 @@ bool ExtractModelInfoAndStuff()
 		{
 			RslRGB& c = gpColourTable[0][i];
 			pedcolsFile
-				<< static_cast<int>(c.r) << '\t'
-				<< static_cast<int>(c.g) << '\t'
-				<< static_cast<int>(c.b) << '\t'
+				<< ToUInt8(c.r) << '\t'
+				<< ToUInt8(c.g) << '\t'
+				<< ToUInt8(c.b) << '\t'
 				<< "# " << i << std::endl;
 		}
 	}
@@ -218,20 +226,45 @@ bool ExtractModelInfoAndStuff()
 					auto& m = *reinterpret_cast<CPedModelInfo*>(mi);
 #ifdef VCS
 					/* Print pedcols.dat lines */
-					if (m.GetNumColours())
+					//if (m.GetNumColours())
 					{
-						pedcolsFile << m.GetModelName();
+						pedcolsFile << "DFLT " << m.GetModelName();
 						for (int n = 0; n < m.GetNumColours(); ++n)
 						{
 							auto& c = m.GetColours();
 							pedcolsFile
-								<< ", " << static_cast<int>(c[n][0])
-								<< ','  << static_cast<int>(c[n][1])
-								<< ','  << static_cast<int>(c[n][2])
-								<< ','  << static_cast<int>(c[n][3]);
+								<< ", " << ToUInt8(c[n][0])
+								<< ','  << ToUInt8(c[n][1])
+								<< ','  << ToUInt8(c[n][2])
+								<< ','  << ToUInt8(c[n][3]);
 						}
 						pedcolsFile << std::endl;
 					}
+					//if (m.GetNumScriptColours())
+					{
+						pedcolsFile << "SRPT " << m.GetModelName();
+						for (int n = 0; n < m.GetNumScriptColours(); ++n)
+						{
+							auto& c = m.GetScriptColours();
+							pedcolsFile
+								<< ", " << ToUInt8(c[n][0])
+								<< ',' <<  ToUInt8(c[n][1])
+								<< ',' <<  ToUInt8(c[n][2])
+								<< ',' <<  ToUInt8(c[n][3]);
+						}
+						pedcolsFile << std::endl;
+					}
+					pedcolsFile << "CSTM " << m.GetModelName();
+					for (int n = 0; n < 9; ++n)
+					{
+						auto& c = m.GetCustomColours();
+						pedcolsFile
+							<< ", " << ToUInt8(c[n][0])
+							<< ',' << ToUInt8(c[n][1])
+							<< ',' << ToUInt8(c[n][2]);
+					}
+					pedcolsFile << std::endl;
+					//printf("%d\n", m.GetLastChosen());
 #endif
 					s	<< ", " << m.GetPedType()
 						<< ", " << m.GetPedStatType()
@@ -579,9 +612,9 @@ bool ExtractModelInfoAndStuff()
 #endif
 		{
 			carcolsFile
-				<< static_cast<int>(c.r) << '\t'
-				<< static_cast<int>(c.g) << '\t'
-				<< static_cast<int>(c.b) << '\t'
+				<< ToUInt8(c.r) << '\t'
+				<< ToUInt8(c.g) << '\t'
+				<< ToUInt8(c.b) << '\t'
 				<< "# " << i << std::endl;
 		}
 	}
@@ -590,20 +623,58 @@ bool ExtractModelInfoAndStuff()
 	/* Print vehicle lines to carcols.dat */
 	for (auto& mi : vehicleModelInfos)
 	{
-		if (mi->GetNumColours())
+		//if (mi->GetNumColours())
 		{
-			carcolsFile << mi->GetModelName();
+			carcolsFile << "DFLT " << mi->GetModelName();
 			for (int i = 0; i < mi->GetNumColours(); ++i)
 			{
 #ifdef LCS
 				carcolsFile << ", " << mi->GetColour1(i) << ',' << mi->GetColour2(i);
 #else
 				auto c = mi->GetColours();
-				carcolsFile << ", " << static_cast<int>(c[i][0]) << ',' << static_cast<int>(c[i][1]);
+				carcolsFile << ", " << ToUInt8(c[i][0]) << ',' << ToUInt8(c[i][1]);
 #endif
 			}
 			carcolsFile << std::endl;
 		}
+
+#ifdef VCS
+		//if (mi->GetNumScriptColours()) // script
+		{
+			carcolsFile << "SRPT " << mi->GetModelName();
+			for (int i = 0; i < mi->GetNumScriptColours(); ++i)
+			{
+				auto c = mi->GetScriptColours();
+				carcolsFile << ", " << ToUInt8(c[i][0]) << ',' << ToUInt8(c[i][1]);
+			}
+			carcolsFile << std::endl;
+		}
+		{
+			carcolsFile << "CSTM " << mi->GetModelName();
+			for (int i = 0; i < 3; ++i)
+			{
+				auto c = mi->GetCustomColours();
+				carcolsFile
+					<< ", " << ToUInt8(c[i][0])
+					<< "," << ToUInt8(c[i][1])
+					<< "," << ToUInt8(c[i][2]);
+			}
+			carcolsFile << std::endl;
+		}
+		//{ // I just checked or is there zeros
+		//	carcolsFile << "CURR " << mi->GetModelName();
+		//	for (int i = 0; i < 2; ++i)
+		//	{
+		//		auto c = mi->GetCurrentColours();
+		//		carcolsFile
+		//			<< ", " << ToUInt8(c[i][0])
+		//			<< "," << ToUInt8(c[i][1])
+		//			<< "," << ToUInt8(c[i][2])
+		//			<< "," << ToUInt8(c[i][3]);
+		//	}
+		//	carcolsFile << std::endl;
+		//}
+#endif
 	}
 	carcolsFile << "end";
 	carcolsFile.close();
