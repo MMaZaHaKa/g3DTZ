@@ -30,7 +30,7 @@ bool ExtractModelInfoAndStuff()
 			return false;
 		}
 		pedcolsFile << "# " << G3DTZ_MESSAGE << std::endl << "col" << std::endl;
-		for (int i = 0; i < 128*2; ++i)
+		for (int i = 0; i < 128/**2*/; ++i)
 		{
 			RslRGB& c = gpColourTable[0][i];
 			pedcolsFile
@@ -231,7 +231,7 @@ bool ExtractModelInfoAndStuff()
 					/* Print pedcols.dat lines */
 					//if (m.GetNumColours())
 					{
-						pedcolsFile << "DFLTIDX " << m.GetModelName();
+						pedcolsFile << "DFLT " << m.GetModelName();
 						for (int n = 0; n < m.GetNumColours(); ++n)
 						{
 							auto& c = m.GetColoursIndices();
@@ -245,7 +245,7 @@ bool ExtractModelInfoAndStuff()
 					}
 					//if (m.GetNumScriptColours())
 					{
-						pedcolsFile << "SRPTIDX " << m.GetModelName();
+						pedcolsFile << "SRPT " << m.GetModelName();
 						for (int n = 0; n < m.GetNumScriptColours(); ++n)
 						{
 							auto& c = m.GetScriptColoursIndices();
@@ -257,10 +257,10 @@ bool ExtractModelInfoAndStuff()
 						}
 						pedcolsFile << std::endl;
 					}
-					pedcolsFile << "SRPTCOL " << m.GetModelName();
+					pedcolsFile << "LCAL " << m.GetModelName();
 					for (int n = 0; n < 9; ++n)
 					{
-						auto& c = m.GetScriptColours();
+						auto& c = m.GetLocalColours();
 						pedcolsFile
 							<< ", " << ToUInt8(c[n][0])
 							<< ',' << ToUInt8(c[n][1])
@@ -628,7 +628,7 @@ bool ExtractModelInfoAndStuff()
 	{
 		//if (mi->GetNumColours())
 		{
-			carcolsFile << "DFLTIDX " << mi->GetModelName();
+			carcolsFile << "DFLT " << mi->GetModelName();
 			for (int i = 0; i < mi->GetNumColours(); ++i)
 			{
 #ifdef LCS
@@ -643,7 +643,7 @@ bool ExtractModelInfoAndStuff()
 
 #ifdef VCS
 		//{ // I just checked or is there zeros
-		//	carcolsFile << "AVOICOL " << mi->GetModelName();
+		//	carcolsFile << "AVOI " << mi->GetModelName();
 		//	for (int i = 0; i < 2; ++i)
 		//	{
 		//		auto c = mi->GetCurrentAvoidColours();
@@ -657,7 +657,7 @@ bool ExtractModelInfoAndStuff()
 		//}
 		//if (mi->GetNumScriptColours()) // script
 		{
-			carcolsFile << "SRPTIDX " << mi->GetModelName();
+			carcolsFile << "SRPT " << mi->GetModelName();
 			for (int i = 0; i < mi->GetNumScriptColours(); ++i)
 			{
 				auto c = mi->GetScriptColoursIndices();
@@ -666,10 +666,10 @@ bool ExtractModelInfoAndStuff()
 			carcolsFile << std::endl;
 		}
 		{
-			carcolsFile << "SRPTCOL " << mi->GetModelName();
-			for (int i = 0; i < 3; ++i)
+			carcolsFile << "LCAL " << mi->GetModelName();
+			for (int i = 0; i < 4; ++i)
 			{
-				auto c = mi->GetScriptColours();
+				auto c = mi->GetLocalColours();
 				carcolsFile
 					<< ", " << ToUInt8(c[i][0])
 					<< "," << ToUInt8(c[i][1])
@@ -678,7 +678,7 @@ bool ExtractModelInfoAndStuff()
 			carcolsFile << std::endl;
 		}
 		//{ // I just checked or is there zeros
-		//	carcolsFile << "CURRCOL " << mi->GetModelName();
+		//	carcolsFile << "CURR " << mi->GetModelName();
 		//	for (int i = 0; i < 2; ++i)
 		//	{
 		//		auto c = mi->GetCurrentColours();
