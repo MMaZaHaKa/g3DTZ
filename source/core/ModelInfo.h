@@ -180,7 +180,7 @@ public:
 	still looking for:
 	uint8 m_numExtras;
 	*/
-	char             unk0[8];
+	uint8            m_aCurrentAvoidColors[2][4]; // Current Avoid Colours [AvoidSameVehicleColour]
 	CHandlingData   *m_pHandlingData;
 	CHandlingBike   *m_pHandlingBike;
 	CHandlingFlying *m_pHandlingFlying;
@@ -199,9 +199,10 @@ public:
 	uint8            m_nNumColorVariations;
 	uint8            m_nNumScriptColorVariations;
 	uint8            m_anColorVariationIndices[8][2]; // Colour IDs
-	uint8            m_anScriptColorVariationIndices[4][2]; // Script Colour IDs
-	uint8            m_anCustomColors[3][3];
-	uint8            m_aCurrentColors[2][4]; // Current Colours
+	uint8            m_anScriptColorVariationIndices[2][2]; // Script Colour IDs
+	uint8            m_anScriptColors[4][3];
+	uint8			 pad1;
+	uint8            m_aCurrentColors[2][4]; // Current Colours [SetVehicleColour]
 	RslMaterial     *m_materials1[30];
 	RslMaterial     *m_materials2[25];
 	void           **extras;
@@ -230,9 +231,10 @@ public:
 	CHandlingBoat   *GetHandlingBoat()   { return m_pHandlingBoat;             }
 	CHandlingFlying *GetHandlingFlying() { return m_pHandlingFlying;           }
 	const char      *GetWheelScaleRear() { return Precision(m_wheelScaleRear); }
-	uint8(&GetColours())[8][2]{ return m_anColorVariationIndices; }
-	uint8(&GetScriptColours())[4][2]{ return m_anScriptColorVariationIndices; }
-	uint8(&GetCustomColours())[3][3]{ return m_anCustomColors; }
+	uint8(&GetCurrentAvoidColours())[2][4]{ return m_aCurrentAvoidColors; }
+	uint8(&GetColoursIndices())[8][2]{ return m_anColorVariationIndices; }
+	uint8(&GetScriptColoursIndices())[2][2]{ return m_anScriptColorVariationIndices; }
+	uint8(&GetScriptColours())[4][3]{ return m_anScriptColors; }
 	uint8(&GetCurrentColours())[2][4]{ return m_aCurrentColors; }
 #endif
 	const char*  GetGameName()       { return m_gameName;              }
@@ -277,8 +279,7 @@ private:
 	uint8 m_nNumScriptColorVariations;
 	uint8 m_anColorVariationIndices[16][4]; // 0xF0
 	uint8 m_anScriptColorVariationIndices[4][4]; // That's definetly wrong, must check with cars and in-game used[4][4]
-	uint8 m_anCustomColors[9][3];
-	char unk2[11];
+	uint8 m_anScriptColors[9][3];
 	struct {          // *
 		void* mat;    // * Weird editable materials, filled at runtime
 		int32 numX;   // *
@@ -293,9 +294,9 @@ public:
 	int GetNumColours() { return m_nNumColorVariations; }
 	int GetNumScriptColours() { return m_nNumScriptColorVariations; }
 	int GetLastChosen() { return m_nLastChosenColorVariation; }
-	uint8(&GetColours())[16][4] { return m_anColorVariationIndices; }
-	uint8(&GetScriptColours())[4][4] { return m_anScriptColorVariationIndices; }
-	uint8(&GetCustomColours())[9][3] { return m_anCustomColors; }
+	uint8(&GetColoursIndices())[16][4] { return m_anColorVariationIndices; }
+	uint8(&GetScriptColoursIndices())[4][4] { return m_anScriptColorVariationIndices; }
+	uint8(&GetScriptColours())[9][3] { return m_anScriptColors; }
 #endif
 public:
 	uint32 GetCarsCanDriveMask() { return m_carsCanDrive; }
