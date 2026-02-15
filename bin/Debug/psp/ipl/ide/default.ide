@@ -5,10 +5,10 @@ peds
 9, SWAT, swat, COP, STAT_COP, man, 0, null, 9, 9
 10, FBI, fbi, COP, STAT_COP, man, 0, null, 9, 9
 11, ARMY, army, COP, STAT_COP, man, 0, null, 9, 9
-12, MEDIC, medic, EMERGENCY, STAT_MEDIC, man, 0, medic, 9, 9
+12, MEDIC, medic, EMERGENCY, STAT_MEDIC, man, 0, , 9, 9
 13, FIREMAN, fireman, FIREMAN, STAT_FIREMAN, man, 0, null, 9, 9
 14, MALE01, male01, CIVMALE, STAT_SENSIBLE_GUY, man, 0, null, 0, 1
-15, COMGATE2OPEN, comgate2open, PLAYER1, STAT_PLAYER, player, 0, null, 9, 9
+15, MARYJ, MaryJ, PLAYER1, STAT_PLAYER, player, 0, null, 9, 9
 16, HFYST, HFYST, CIVFEMALE, STAT_STREET_GIRL, sexywoman, 13, null, 7, 0
 17, HFOST, HFOST, CIVFEMALE, STAT_TOUGH_GIRL, woman, 13, null, 4, 7
 18, HMYST, HMYST, CIVMALE, STAT_GEEK_GUY, gang1, 1a3, null, 0, 5
@@ -17,10 +17,10 @@ peds
 21, HFORI, HFORI, CIVFEMALE, STAT_OLD_GIRL, woman, d, null, 4, 7
 22, HMYRI, HMYRI, CIVMALE, STAT_SUIT_GUY, man, 130d, null, 7, 5
 23, HMORI, HMORI, CIVMALE, STAT_SENSIBLE_GUY, man, d, null, 3, 3
-24, HFYBE, HFYBE, CIVFEMALE, STAT_GEEK_GIRL, sexywoman, 1a89, sunbathe, 7, 0
-25, HFOBE, HFOBE, CIVFEMALE, STAT_OLD_GIRL, fatwoman, 200, sunbathe, 4, 7
-26, HMYBE, HMYBE, CIVMALE, STAT_TOUGH_GUY, gang2, 1b89, sunbathe, 7, 5
-27, HMOBE, HMOBE, CIVMALE, STAT_TOURIST, fatman, 237, sunbathe, 8, 3
+24, HFYBE, HFYBE, CIVFEMALE, STAT_GEEK_GIRL, sexywoman, 1a89, , 7, 0
+25, HFOBE, HFOBE, CIVFEMALE, STAT_OLD_GIRL, fatwoman, 200, , 4, 7
+26, HMYBE, HMYBE, CIVMALE, STAT_TOUGH_GUY, gang2, 1b89, , 7, 5
+27, HMOBE, HMOBE, CIVMALE, STAT_TOURIST, fatman, 237, , 8, 3
 28, HFYBU, HFYBU, CIVFEMALE, STAT_SUIT_GIRL, busywoman, 8d, null, 4, 8
 29, HFYMD, HFYMD, CIVFEMALE, STAT_SUIT_GIRL, busywoman, 0, null, 9, 9
 30, HFYCG, HFYCG, CIVFEMALE, STAT_SENSIBLE_GIRL, woman, 0, null, 9, 9
@@ -38,10 +38,10 @@ peds
 42, BFYRI, BFYRI, CIVFEMALE, STAT_GEEK_GIRL, busywoman, c, null, 6, 0
 43, BFORI, BFORI, CIVFEMALE, STAT_OLD_GIRL, woman, c, null, 8, 3
 44, BMYRI, BMYRI, CIVMALE, STAT_GEEK_GUY, man, 130d, null, 2, 6
-45, BFYBE, BFYBE, CIVFEMALE, STAT_BEACH_GIRL, sexywoman, 1a8d, sunbathe, 0, 5
-46, BMYBE, BMYBE, CIVMALE, STAT_BEACH_GUY, gang1, 1a00, sunbathe, 2, 6
-47, BFOBE, BFOBE, CIVFEMALE, STAT_TOURIST, fatwoman, 207, sunbathe, 4, 8
-48, BMOBE, BMOBE, CIVMALE, STAT_TOUGH_GUY, oldfatman, 207, sunbathe, 6, 0
+45, BFYBE, BFYBE, CIVFEMALE, STAT_BEACH_GIRL, sexywoman, 1a8d, , 0, 5
+46, BMYBE, BMYBE, CIVMALE, STAT_BEACH_GUY, gang1, 1a00, , 2, 6
+47, BFOBE, BFOBE, CIVFEMALE, STAT_TOURIST, fatwoman, 207, , 4, 8
+48, BMOBE, BMOBE, CIVMALE, STAT_TOUGH_GUY, oldfatman, 207, , 6, 0
 49, BMYBU, BMYBU, CIVMALE, STAT_SENSIBLE_GUY, man, d, null, 6, 0
 50, BFYPR, BFYPR, PROSTITUTE, STAT_PROSTITUTE, sexywoman, 0, null, 9, 9
 51, BFOTR, BFOTR, CIVFEMALE, STAT_OLDSHOPPER, shuffle, 0, null, 9, 9
@@ -57,10 +57,10 @@ peds
 61, WFORI, WFORI, CIVFEMALE, STAT_SHOPPER, woman, 5, null, 8, 3
 62, WMYRI, WMYRI, CIVMALE, STAT_GEEK_GUY, man, 130d, null, 1, 8
 63, WMORI, WMORI, CIVMALE, STAT_SENSIBLE_GUY, man, 20d, null, 3, 3
-64, WFYBE, WFYBE, CIVFEMALE, STAT_TOURIST, sexywoman, 1a89, sunbathe, 0, 5
-65, WMYBE, WMYBE, CIVMALE, STAT_BEACH_GUY, gang1, 1903, sunbathe, 1, 1
-66, WFOBE, WFOBE, CIVFEMALE, STAT_OLD_GIRL, fatwoman, 203, sunbathe, 4, 8
-67, WMOBE, WMOBE, CIVMALE, STAT_BEACH_GUY, oldman, 20f, sunbathe, 0, 8
+64, WFYBE, WFYBE, CIVFEMALE, STAT_TOURIST, sexywoman, 1a89, , 0, 5
+65, WMYBE, WMYBE, CIVMALE, STAT_BEACH_GUY, gang1, 1903, , 1, 1
+66, WFOBE, WFOBE, CIVFEMALE, STAT_OLD_GIRL, fatwoman, 203, , 4, 8
+67, WMOBE, WMOBE, CIVMALE, STAT_BEACH_GUY, oldman, 20f, , 0, 8
 68, WMYCW, WMYCW, CIVMALE, STAT_TOUGH_GUY, gang1, 30, null, 1, 1
 69, WFOGO, WFOGO, CIVFEMALE, STAT_SUIT_GIRL, oldwoman, d, null, 4, 4
 70, WMOGO, WMOGO, CIVMALE, STAT_SUIT_GUY, oldman, f, null, 3, 3
@@ -76,8 +76,8 @@ peds
 80, WMOCA, WMOCA, CIVMALE, STAT_TAXIDRIVER, man, 40, null, 3, 8
 81, WFYJG, WFYJG, CIVFEMALE, STAT_SENSIBLE_GIRL, jogwoman, 0, null, 9, 9
 82, WMYJG, WMYJG, CIVMALE, STAT_GEEK_GUY, jogger, 0, null, 9, 9
-83, WFYSK, WFYSK, CIVFEMALE, STAT_SKATER, skate, 0, skate, 9, 9
-84, WMYSK, WMYSK, CIVMALE, STAT_SKATER, skate, 0, skate, 9, 9
+83, WFYSK, WFYSK, CIVFEMALE, STAT_SKATER, skate, 0, tourist, 9, 9
+84, WMYSK, WMYSK, CIVMALE, STAT_SKATER, skate, 0, tourist, 9, 9
 85, WFYSH, WFYSH, CIVFEMALE, STAT_BEACH_GIRL, shopping, 0, null, 9, 9
 86, WFOSH, WFOSH, CIVFEMALE, STAT_BEACH_GIRL, shopping, 0, null, 9, 9
 87, JFOTO, JFOTO, CIVFEMALE, STAT_TOURIST, woman, 0, null, 9, 9
@@ -166,25 +166,25 @@ cars
 170, 6ATV, 6atv, car, HANDLING, 6WEELAT, null, ignore, 1, 7, 1f10, 325, 0.7, 0.7, 0.15
 171, ADMIRAL, admiral, car, HANDLING, ADMIRAL, null, richfamily, 20, 7, 1f10, 324, 0.7, 0.7, 0.15
 172, CHEETAH, cheetah, car, HANDLING, CHEETAH, null, ignore, 10, 7, 0, 323, 0.7, 0.7, 0.05
-173, AUTOGYRO, autogyro, heli, HANDLING, AUTOGYR, Heli, ignore, 0, 7, 0, 0, 0, 0, 0.15
+173, AUTOGYRO, autogyro, heli, HANDLING, AUTOGYR, , ignore, 0, 7, 0, 0, 0, 0, 0.15
 174, BAGGAGE, baggage, car, HANDLING, BAGGAGE, null, ignore, 20, 7, 1f10, 325, 0.6, 0.6, 0.15
 175, BANSHEE, banshee, car, HANDLING, BANSHEE, null, executive, 10, 7, 0, 323, 0.7, 0.7, 0.05
 176, PEREN, peren, car, HANDLING, PEREN, null, poorfamily, 10, 7, 0, 326, 0.66, 0.66, 0.05
 177, BLISTAC, blistac, car, HANDLING, BLISTA, null, normal, 10, 7, 0, 329, 0.7, 0.7, 0.2
-178, BMXBOY, bmxboy, bmx, HANDLING, BMX, bmx, ignore, 0, 4, 0, -1, 0.6, 0.6, 0.1
-179, BMXGIRL, bmxgirl, bmx, HANDLING, BMXG, bmx, ignore, 0, 4, 0, -1, 0.6, 0.9, 0.2
+178, BMXBOY, bmxboy, bmx, HANDLING, BMX, , ignore, 0, 4, 0, -1, 0.6, 0.6, 0.1
+179, BMXGIRL, bmxgirl, bmx, HANDLING, BMXG, , ignore, 0, 4, 0, -1, 0.6, 0.9, 0.2
 180, BOBCAT, bobcat, car, HANDLING, BOBCAT, null, worker, 10, 7, 0, 327, 0.7, 0.7, 0.15
 181, BULLDOZE, bulldoze, car, HANDLING, BULLDOZ, null, ignore, 10, 7, 0, 328, 1.4, 1.4, 0.3
-182, BURRITO, burrito, car, HANDLING, BURRITO, van, normal, 20, 7, 1ff0, 324, 0.7, 0.7, 0.15
+182, BURRITO, burrito, car, HANDLING, BURRITO, , normal, 20, 7, 1ff0, 324, 0.7, 0.7, 0.15
 183, CABBIE, cabbie, car, HANDLING, CABBIE, null, taxi, 10, 7, 1f10, 326, 0.7, 0.7, 0.1
 184, CADDY, caddy, car, HANDLING, CADDY, null, ignore, 20, 7, 1f10, 324, 0.5, 0.5, 0.15
 185, SPEEDER2, speeder2, boat, HANDLING, SPEEDER2, null, ignore, 1, 7, 0, 0, 0, 0, 0.2
 186, PIMP, pimp, car, HANDLING, PIMP, null, ignore, 10, 7, 0, 323, 0.8, 0.85, 0.15
 187, DELUXO, deluxo, car, HANDLING, DELUXO, null, ignore, 0, 7, 0, 324, 0.7, 0.7, 0.1
-188, HUEY, huey, heli, HANDLING, HUEY, Heli, ignore, 0, 7, 0, 0, 0, 0, 0.15
-189, HUEYHOSP, hueyhosp, heli, HANDLING, AIRAMB, Heli, ignore, 0, 7, 0, 0, 0, 0, 0.15
-190, ELECTRAG, electrag, bike, HANDLING, ELECTRA, bikeh, motorbike, 10, 7, 0, 23, 0.65, 0.65, 0.1
-191, ELECTRAP, electrap, bike, HANDLING, ELECTRP, bikev, ignore, 10, 7, 0, 23, 0.65, 0.65, 0.1
+188, HUEY, huey, heli, HANDLING, HUEY, , ignore, 0, 7, 0, 0, 0, 0, 0.15
+189, HUEYHOSP, hueyhosp, heli, HANDLING, AIRAMB, , ignore, 0, 7, 0, 0, 0, 0, 0.15
+190, ELECTRAG, electrag, bike, HANDLING, ELECTRA, , motorbike, 10, 7, 0, 23, 0.65, 0.65, 0.1
+191, ELECTRAP, electrap, bike, HANDLING, ELECTRP, , ignore, 10, 7, 0, 23, 0.65, 0.65, 0.1
 192, ESPERANT, esperant, car, HANDLING, ESPERAN, null, normal, 10, 7, 0, 326, 0.64, 0.64, 0.18
 193, FBICAR, fbicar, car, HANDLING, FBICAR, null, ignore, 0, 7, 0, 324, 0.7, 0.7, 0.1
 194, FIRETRUK, firetruk, car, HANDLING, FIRETRK, null, ignore, 0, 7, 0, 328, 1.0, 1.0, 0.18
@@ -195,47 +195,47 @@ cars
 199, IDAHO, idaho, car, HANDLING, IDAHO, null, poorfamily, 10, 7, 0, 326, 0.64, 0.64, 0.15
 200, LANDSTAL, landstal, car, HANDLING, LANDSTK, null, normal, 10, 7, 0, 327, 0.82, 0.95, 0.1
 201, MANANA, manana, car, HANDLING, MANANA, null, poorfamily, 10, 7, 0, 329, 0.7, 0.7, 0.15
-202, MOP50, mop50, bike, HANDLING, MOPED, bikev, moped, 0, 7, 0, 16, 0.46, 0.46, 0.1
+202, MOP50, mop50, bike, HANDLING, MOPED, , moped, 0, 7, 0, 16, 0.46, 0.46, 0.1
 203, OCEANIC, oceanic, car, HANDLING, OCEANIC, null, normal, 10, 7, 0, 324, 0.7, 0.7, 0.15
 204, VICECHEE, vicechee, car, HANDLING, VICECHE, null, ignore, 10, 7, 0, 323, 0.7, 0.7, 0.05
-205, SANCHEZ, sanchez, bike, HANDLING, SANCHEZ, biked, motorbike, 10, 7, 0, 23, 0.66, 0.66, 0.1
+205, SANCHEZ, sanchez, bike, HANDLING, SANCHEZ, , motorbike, 10, 7, 0, 23, 0.66, 0.66, 0.1
 206, STALLION, stallion, car, HANDLING, STALION, null, poorfamily, 10, 7, 2ff0, 326, 0.7, 0.7, 0.1
 207, POLICEM, policem, car, HANDLING, POLICEM, null, ignore, 10, 7, 0, 326, 0.7, 0.7, 0.1
 208, BOBO, bobo, car, HANDLING, BOBO, null, ignore, 20, 7, 1f10, 324, 0.3, 0.3, 0.15
 209, PATRIOT, patriot, car, HANDLING, PATRIOT, null, ignore, 10, 7, 0, 329, 0.9, 0.9, 0.05
-210, PONY, pony, car, HANDLING, PONY, van, worker, 10, 7, 0, 325, 0.7, 0.7, 0.2
+210, PONY, pony, car, HANDLING, PONY, , worker, 10, 7, 0, 325, 0.7, 0.7, 0.2
 211, SENTINEL, sentinel, car, HANDLING, SENTINL, null, richfamily, 10, 7, 0, 327, 0.7, 0.7, 0.18
-212, PCJ600, pcj600, bike, HANDLING, PCJ600, bikes, motorbike, 10, 7, 0, 16, 0.67, 0.67, 0.1
-213, MAVERICK, maverick, heli, HANDLING, MAVERIC, Heli, ignore, 0, 7, 0, 0, 0, 0, 0.15
+212, PCJ600, pcj600, bike, HANDLING, PCJ600, P, motorbike, 10, 7, 0, 16, 0.67, 0.67, 0.1
+213, MAVERICK, maverick, heli, HANDLING, MAVERIC, , ignore, 0, 7, 0, 0, 0, 0, 0.15
 214, REEFER, reefer, boat, HANDLING, REEFER, null, workerboat, 1, 7, 0, 0, 0, 0, 0.2
 215, SPEEDER, speeder, boat, HANDLING, SPEEDER, null, bigfunboat, 1, 7, 0, 0, 0, 0, 0.2
 216, LINERUN, linerun, car, HANDLING, LINERUN, null, big, 10, 7, 0, 328, 1.1, 1.1, 0.3
 217, WALTON, walton, car, HANDLING, WALTON, null, worker, 10, 7, 0, 327, 0.7, 0.7, 0.15
-218, BARRACKS, barracks, car, HANDLING, BARRCKS, van, ignore, 0, 7, 0, 328, 1.2, 1.2, 0.3
+218, BARRACKS, barracks, car, HANDLING, BARRCKS, , ignore, 0, 7, 0, 328, 1.2, 1.2, 0.3
 219, PREDATOR, predator, boat, HANDLING, PREDATR, null, ignore, 1, 7, 0, 0, 0, 0, 0.2
-220, FLATBED, flatbed, car, HANDLING, FLATBED, van, big, 10, 7, 0, 328, 1.2, 1.2, 0.15
-221, AMMOTRUK, ammotruk, car, HANDLING, BARRACK, van, ignore, 0, 7, 0, 328, 1.2, 1.2, 0.2
+220, FLATBED, flatbed, car, HANDLING, FLATBED, , big, 10, 7, 0, 328, 1.2, 1.2, 0.15
+221, AMMOTRUK, ammotruk, car, HANDLING, BARRACK, , ignore, 0, 7, 0, 328, 1.2, 1.2, 0.2
 222, BIPLANE, biplane, plane, HANDLING, BIPLANE, null, ignore, 0, 0, 0, 325, 0, 0, 0
 223, MOONBEAM, moonbeam, car, HANDLING, MOONBM, null, normal, 10, 7, 0, 325, 0.7, 0.7, 0.16
-224, RUMPO, rumpo, car, HANDLING, RUMPO, van, poorfamily, 10, 6, 0, 325, 0.7, 0.7, 0.1
+224, RUMPO, rumpo, car, HANDLING, RUMPO, , poorfamily, 10, 6, 0, 325, 0.7, 0.7, 0.1
 225, YOLA, yola, boat, HANDLING, YOLA, null, workerboat, 1, 7, 0, 0, 0, 0, 0.2
 226, TAXI, taxi, car, HANDLING, TAXI, null, taxi, 20, 7, 1f10, 324, 0.7, 0.7, 0.15
-227, AMBULAN, ambulan, car, HANDLING, AMBULAN, van, ignore, 0, 7, 0, 325, 0.9, 0.9, 0.2
+227, AMBULAN, ambulan, car, HANDLING, AMBULAN, , ignore, 0, 7, 0, 325, 0.9, 0.9, 0.2
 228, STRETCH, stretch, car, HANDLING, STRETCH, null, ignore, 10, 7, 0, 324, 0.75, 0.75, 0.2
-229, FAGGIO, faggio, bike, HANDLING, FAGGIO, bikev, moped, 10, 7, 0, 16, 0.46, 0.46, 0.1
-230, QUAD, quad, quad, HANDLING, QUADBIK, quad, ignore, 0, 0, 0, 0, 0, 0, 0.3
-231, ANGEL, angel, bike, HANDLING, ANGEL, bikeh, ignore, 0, 7, 0, 23, 0.65, 0.65, 0.1
-232, FREEWAY, freeway, bike, HANDLING, FREEWAY, bikeh, motorbike, 10, 7, 0, 23, 0.65, 0.65, 0.1
-233, JETSKI, jetski, jetski, HANDLING, JETSKI, bikes, smallfunboat, 1, 7, 0, 0, 0, 0, 0.2
-234, ENFORCE, enforce, car, HANDLING, ENFORCE, van, ignore, 0, 7, 0, 325, 0.9, 0.9, 0.2
-235, BOXVIL, boxvil, car, HANDLING, BOXVIL, van, worker, 0, 7, 0, 325, 0.9, 0.9, 0.2
-236, BENSON, benson, car, HANDLING, BENSON, van, worker, 0, 7, 0, 325, 0.9, 0.9, 0.2
-237, COACH, coach, car, HANDLING, COACH, coach, ignore, 10, 7, 0, 328, 1.0, 1.0, 0.25
+229, FAGGIO, faggio, bike, HANDLING, FAGGIO, , moped, 10, 7, 0, 16, 0.46, 0.46, 0.1
+230, QUAD, quad, quad, HANDLING, QUADBIK, , ignore, 0, 0, 0, 0, 0, 0, 0.3
+231, ANGEL, angel, bike, HANDLING, ANGEL, , ignore, 0, 7, 0, 23, 0.65, 0.65, 0.1
+232, FREEWAY, freeway, bike, HANDLING, FREEWAY, , motorbike, 10, 7, 0, 23, 0.65, 0.65, 0.1
+233, JETSKI, jetski, jetski, HANDLING, JETSKI, P, smallfunboat, 1, 7, 0, 0, 0, 0, 0.2
+234, ENFORCE, enforce, car, HANDLING, ENFORCE, , ignore, 0, 7, 0, 325, 0.9, 0.9, 0.2
+235, BOXVIL, boxvil, car, HANDLING, BOXVIL, , worker, 0, 7, 0, 325, 0.9, 0.9, 0.2
+236, BENSON, benson, car, HANDLING, BENSON, , worker, 0, 7, 0, 325, 0.9, 0.9, 0.2
+237, COACH, coach, car, HANDLING, COACH, , ignore, 10, 7, 0, 328, 1.0, 1.0, 0.25
 238, MULE, mule, car, HANDLING, MULE, null, worker, 10, 7, 0, 328, 0.76, 0.76, 0.2
 239, VOODOO, voodoo, car, HANDLING, VOODOO, null, normal, 10, 7, 0, 324, 0.7, 0.7, 0.15
-240, SECURICA, securica, car, HANDLING, SECURI, van, big, 6, 7, 0, 328, 0.85, 0.85, 0.15
+240, SECURICA, securica, car, HANDLING, SECURI, , big, 6, 7, 0, 328, 0.85, 0.85, 0.15
 241, TRASH, trash, car, HANDLING, TRASHM, null, big, 10, 7, 0, 328, 1.06, 1.06, 0.1
-242, TOPFUN, topfun, car, HANDLING, TOPFUN, van, ignore, 10, 6, 0, 325, 0.7, 0.7, 0.1
+242, TOPFUN, topfun, car, HANDLING, TOPFUN, , ignore, 10, 6, 0, 325, 0.7, 0.7, 0.1
 243, YANKEE, yankee, car, HANDLING, YANKEE, null, worker, 10, 7, 0, 328, 0.84, 0.84, 0.15
 244, MRWHOO, mrwhoo, car, HANDLING, WHOOPEE, null, ignore, 0, 4, 0, 325, 0.7, 0.7, 0.1
 245, SANDKING, sandking, car, HANDLING, SANDKIN, null, ignore, 10, 7, 0, 329, 0.92, 0.92, 0.05
@@ -245,7 +245,7 @@ cars
 249, RIO, rio, boat, HANDLING, RIO, null, leisureboat, 1, 7, 0, 0, 0, 0, 0.2
 250, TROPIC, tropic, boat, HANDLING, TROPIC, null, leisureboat, 1, 7, 0, 0, 0, 0, 0.2
 251, FORKLIFT, forklift, car, HANDLING, FORKLIF, null, ignore, 20, 7, 0, 324, 0.5, 0.5, 0.15
-252, STREETFI, streetfi, bike, HANDLING, STREETF, bikes, motorbike, 10, 7, 0, 23, 0.66, 0.66, 0.1
+252, STREETFI, streetfi, bike, HANDLING, STREETF, P, motorbike, 10, 7, 0, 23, 0.66, 0.66, 0.1
 253, VIRGO, virgo, car, HANDLING, VIRGO, null, poorfamily, 10, 7, 0, 326, 0.66, 0.66, 0.05
 254, STINGER, stinger, car, HANDLING, STINGER, null, executive, 10, 6, 2ff0, 323, 0.7, 0.7, 0.25
 255, BFINJECT, bfinject, car, HANDLING, BFINJC, null, executive, 0, 4, 0, 327, 0.9, 0.9, 0.2
@@ -253,10 +253,10 @@ cars
 257, SQUALO, squalo, boat, HANDLING, SQUALO, null, bigfunboat, 1, 7, 0, 0, 0, 0, 0.2
 258, JETMAX, jetmax, boat, HANDLING, JETMAX, null, bigfunboat, 1, 7, 0, 0, 0, 0, 0.2
 259, MESA, mesa, car, HANDLING, MESA, null, normal, 10, 7, 0, 328, 0.9, 0.9, 0.05
-260, VCNMAV, vcnmav, heli, HANDLING, VCNMAV, Heli, ignore, 0, 7, 0, 0, 0, 0, 0.15
-261, POLMAV, polmav, heli, HANDLING, POLMAV, Heli, ignore, 0, 7, 0, 0, 0, 0, 0.3
-262, SPARROW, sparrow, heli, HANDLING, SPARROW, Heli, ignore, 0, 7, 0, 0, 0, 0, 0.15
-263, SESPAROW, sesparow, heli, HANDLING, SEASPAR, Heli, ignore, 0, 7, 0, 0, 0, 0, 0.15
+260, VCNMAV, vcnmav, heli, HANDLING, VCNMAV, , ignore, 0, 7, 0, 0, 0, 0, 0.15
+261, POLMAV, polmav, heli, HANDLING, POLMAV, , ignore, 0, 7, 0, 0, 0, 0, 0.3
+262, SPARROW, sparrow, heli, HANDLING, SPARROW, , ignore, 0, 7, 0, 0, 0, 0, 0.15
+263, SESPAROW, sesparow, heli, HANDLING, SEASPAR, , ignore, 0, 7, 0, 0, 0, 0, 0.15
 264, SCARAB, scarab, boat, HANDLING, SCARAB, null, bigfunboat, 1, 7, 0, 0, 0, 0, 0.2
 265, CHOLLO, chollo, car, HANDLING, CHOLO, null, ignore, 0, 7, 0, 324, 0.7, 0.7, 0.1
 266, COMET, comet, car, HANDLING, COMET, null, executive, 10, 7, 0, 323, 0.7, 0.7, 0.05
@@ -268,11 +268,11 @@ cars
 272, SABRE, sabre, car, HANDLING, SABRE, null, normal, 0, 7, 0, 329, 0.7, 0.7, 0.1
 273, SABRETB, sabretb, car, HANDLING, SABRETB, null, ignore, 0, 7, 0, 324, 0.7, 0.7, 0.1
 274, SENTXS, sentxs, car, HANDLING, SENTXS, null, executive, 10, 7, 0, 327, 0.7, 0.7, 0.18
-275, HUNTER, hunter, heli, HANDLING, HUNTER, Heli, ignore, 0, 7, 0, 0, 0, 0, 0.3
+275, HUNTER, hunter, heli, HANDLING, HUNTER, , ignore, 0, 7, 0, 0, 0, 0, 0.3
 276, WASHIN, washin, car, HANDLING, WASHIN, null, richfamily, 20, 7, 1f10, 324, 0.7, 0.7, 0.15
 277, COASTG, coastg, boat, HANDLING, COASTG, null, ignore, 1, 7, 0, 0, 0, 0, 0.2
 278, SKIMMER, skimmer, boat, HANDLING, SKIMMER, null, ignore, 0, 7, 0, 0, 0, 0, 0
-279, CHOPPER, chopper, heli, HANDLING, CHOPPER, Heli, ignore, 0, 7, 0, 0, 0, 0, 0.15
+279, CHOPPER, chopper, heli, HANDLING, CHOPPER, , ignore, 0, 7, 0, 0, 0, 0, 0.15
 280, AIRTRAIN, airtrain, plane, HANDLING, AEROPL, null, ignore, 0, 7, 0, 319, 0, 0, 0.1
 end
 objs
@@ -284,7 +284,7 @@ objs
 315, HASH_00000000, generic, 1, 80, 0
 316, HASH_00000000, generic, 1, 80, 0
 317, HASH_00000000, generic, 1, 80, 0
-318, HASH_00000000, õ¤à--,ò;D0nœm.S)ó;D,daV, 1, 80, 0
+318, HASH_00000000, , 1, 80, 0
 319, AIRTRAIN_VLO, generic, 1, 2000, 0
 320, WHEEL_RIM, generic, 2, 20, 70, 0
 321, WHEEL_OFFROAD, generic, 2, 20, 70, 0
@@ -300,44 +300,44 @@ end
 weap
 330, CELLPHONE, cellphone, null, 1, 50, 0
 331, BRASSKNUCKLE, brassknuckle, null, 1, 50, 0
-332, BUTT_KNIFE, butt_knife, knife, 1, 50, 0
-333, GOLFCLUB, golfclub, baseball, 1, 50, 0
-334, NITESTICK, nitestick, baseball, 1, 50, 0
-335, KNIFECUR, knifecur, knife, 1, 50, 0
-336, BAT, bat, baseball, 1, 50, 0
-337, HANDAXE, handaxe, baseball, 1, 50, 0
-338, GAFF, gaff, knife, 1, 50, 0
-339, MACHETE, machete, knife, 1, 50, 0
-340, KATANA, katana, knife, 1, 50, 0
-341, CHNSAW, chnsaw, chainsaw, 1, 50, 0
-342, GRENADE, grenade, grenade, 1, 100, 0
-343, TEARGAS, teargas, grenade, 1, 50, 0
-344, MOLOTOV, molotov, grenade, 1, 100, 0
+332, BUTT_KNIFE, butt_knife, , 1, 50, 0
+333, GOLFCLUB, golfclub, , 1, 50, 0
+334, NITESTICK, nitestick, , 1, 50, 0
+335, KNIFECUR, knifecur, , 1, 50, 0
+336, BAT, bat, , 1, 50, 0
+337, HANDAXE, handaxe, , 1, 50, 0
+338, GAFF, gaff, , 1, 50, 0
+339, MACHETE, machete, , 1, 50, 0
+340, KATANA, katana, , 1, 50, 0
+341, CHNSAW, chnsaw, , 1, 50, 0
+342, GRENADE, grenade, ò, 1, 100, 0
+343, TEARGAS, teargas, ò, 1, 50, 0
+344, MOLOTOV, molotov, ò, 1, 100, 0
 345, MISSILE, missile, null, 1, 100, 0
-346, BERETTA, beretta, colt45, 1, 30, 0
-347, PYTHON, python, python, 1, 50, 0
-348, AK47, ak47, rifle, 1, 70, 0
-349, CHROMEGUN, chromegun, shotgun, 1, 70, 0
-350, SHOTGSPA, shotgspa, buddy, 1, 70, 0
-351, BUDDYSHOT, buddyshot, buddy, 1, 70, 0
-352, M16, M16, rifle, 1, 30, 0
-353, SKORPION, skorpion, uzi, 1, 30, 0
-354, UZI, uzi, uzi, 1, 30, 0
-355, INGRAMSL, ingramsl, uzi, 1, 50, 0
-356, MPLNG, mplng, uzi, 1, 50, 0
-357, SNIPER, sniper, sniper, 1, 50, 0
-358, LASER, laser, sniper, 1, 50, 0
-359, ROCKETLA, rocketla, rocketla, 1, 50, 0
-360, FLAME, flame, flame, 1, 50, 0
-361, M249, m249, m60, 1, 50, 0
-362, MINIGUN, minigun, flame, 1, 50, 0
-363, BOMB, bomb, grenade, 1, 50, 0
+346, BERETTA, beretta, , 1, 30, 0
+347, PYTHON, python, , 1, 50, 0
+348, AK47, ak47, , 1, 70, 0
+349, CHROMEGUN, chromegun, â, 1, 70, 0
+350, SHOTGSPA, shotgspa, y, 1, 70, 0
+351, BUDDYSHOT, buddyshot, y, 1, 70, 0
+352, M16, M16, , 1, 30, 0
+353, SKORPION, skorpion, 5b, 1, 30, 0
+354, UZI, uzi, 5b, 1, 30, 0
+355, INGRAMSL, ingramsl, 5b, 1, 50, 0
+356, MPLNG, mplng, 5b, 1, 50, 0
+357, SNIPER, sniper, k, 1, 50, 0
+358, LASER, laser, k, 1, 50, 0
+359, ROCKETLA, rocketla, 8, 1, 50, 0
+360, FLAME, flame, , 1, 50, 0
+361, M249, m249, , 1, 50, 0
+362, MINIGUN, minigun, , 1, 50, 0
+363, BOMB, bomb, ò, 1, 50, 0
 364, CAMERA, camera, null, 1, 50, 0
 365, FINGERS, fingers, null, 1, 50, 0
 366, MINIGUN2, minigun2, null, 1, 50, 0
 367, BINOCULARS, binoculars, null, 1, 50, 0
-368, LANDMINE, landmine, grenade, 1, 100, 0
-369, SEAMINE, seamine, grenade, 1, 100, 0
+368, LANDMINE, landmine, ò, 1, 100, 0
+369, SEAMINE, seamine, ò, 1, 100, 0
 end
 hier
 380, CS_UZI, CS_uzi
