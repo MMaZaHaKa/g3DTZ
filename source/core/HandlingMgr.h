@@ -92,8 +92,9 @@ private:
 #ifdef LCS
 	uint8 padding2[18];
 #else
+	uint8 padding2[2];
 	float fDragMult;
-	char padding[4]; //Padding for Vector4D
+	uint8 padding3[4]; //Padding for Vector4D
 	CVuVector centreOfMass;
 	int32 nPercentSubmerged; //Direct copy of the value from the original ASCII file
 	float fBuoyancy; //Value actually used by the game; = mass * 0.8 / percentSubmerged_file
@@ -104,7 +105,7 @@ private:
 	float fCollisionDamageMultiplier;
 	uint32 handlingFlags;
 	uint32 modelFlags;
-	uint8 padding2[12];
+	uint8 padding4[12];
 #endif
 
 public:
@@ -148,6 +149,11 @@ public:
 	const char* GetHandlingFlags();
 #endif
 };
+#ifdef LCS
+#endif
+#ifdef VCS
+static_assert(sizeof(CHandlingData) == 0xE0, "sizeof(CHandlingData)");
+#endif
 
 class CHandlingFlying final
 {

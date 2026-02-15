@@ -442,7 +442,7 @@ bool ExtractModelInfoAndStuff()
 			<< '\t' << h.GetSeatOffsetDistance()
 			<< '\t' << h.GetCollisionDamageMultiplier()
 			<< '\t' << h.GetMonetaryValue()
-			//<< '\t' << h.GetHandlingFlags() // E00006   
+			<< '\t' << h.GetHandlingFlags() // E00006   
 			<< '\t' << h.GetModelFlags()
 			<< '\t' << h.GetFrontLights()
 			<< '\t' << h.GetRearLights()
