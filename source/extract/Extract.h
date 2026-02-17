@@ -7,6 +7,7 @@
 #define G3DTZ_MESSAGE ""
 
 bool ExtractModelInfoAndStuff();
+bool ExtractHandling();
 bool ExtractIPLs();
 bool ExtractObjectData();
 bool ExtractPedType();

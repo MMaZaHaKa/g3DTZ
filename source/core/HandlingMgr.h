@@ -5,7 +5,7 @@
 
 class CTransmission final
 {
-private:
+public:
 	struct tGear
 	{
 		float fMaxVelocity;
@@ -43,7 +43,7 @@ public:
 
 class CHandlingData final
 {
-private:
+public:
 	friend class CTransmission;
 
 #ifdef LCS
@@ -59,9 +59,7 @@ private:
 	int8      nPercentSubmerged;
 	float     fBuoyancy;   // fBuoyancy = fMass * 0.8 / nPercentSubmerged
 #endif
-public:
 	CTransmission transmission;
-private:
 #ifdef LCS
 	float unk2;
 #endif
@@ -108,7 +106,6 @@ private:
 	uint8 padding4[12];
 #endif
 
-public:
 	const char* GetMass()               { return Precision(fMass); }
 	const char* GetTurnMass()           { return Precision(fTurnMass); }
 	const char* GetDragMult()           { return Precision(fDragMult); }
@@ -142,9 +139,7 @@ public:
 	const char* GetSuspensionHighSpdComDamp();
 #else
 	/* bABS seems to not exist in VCS, so we'll just return 0 */
-	char GetABS() { return '0'; }
 	/* fSuspensionHighSpdComDamp is ignored when parsing the file, so we just print out 0.0 */
-	const char* GetSuspensionHighSpdComDamp() { return "0.0"; }
 
 	const char* GetHandlingFlags();
 #endif
@@ -157,7 +152,7 @@ static_assert(sizeof(CHandlingData) == 0xE0, "sizeof(CHandlingData)");
 
 class CHandlingFlying final
 {
-private:
+public:
 #ifdef LCS
 	int32 nIdentifier;
 #endif
@@ -180,7 +175,6 @@ private:
 	CVuVector speedRes;
 	char padding2[16]; //Padding for... no reason?
 
-public:
 	const char* GetThrust()        { return Precision3(fThrust);    }
 	float       GetThrustFallOff() { return fThrustFallOff;         }
 	float       GetYaw()           { return fYaw;                   }
@@ -206,7 +200,7 @@ public:
 
 class CHandlingBike final
 {
-private:
+public:
 #ifdef LCS
 	int32 nIdentifier;
 #endif
@@ -227,7 +221,6 @@ private:
 	float fStoppieStabMult;
 	float unk; // Padding?
 
-public:
 	const char* GetLeanFwdCOM()      { return Precision3(fLeanFwdCOM);     }
 	const char* GetLeanFwdForce()    { return Precision3(fLeanFwdForce);   }
 	const char* GetLeanBakCOM()      { return Precision3(fLeanBakCOM);     }
@@ -250,7 +243,7 @@ public:
 
 class CHandlingBoat final
 {
-//private:
+public:
 #ifdef LCS
 	int32 nIdentifier;
 #endif
@@ -276,7 +269,6 @@ class CHandlingBoat final
 	CVuVector scaleMin;
 #endif
 
-public:
 	const char* GetThrustY()         { return Precision(fThrustY);       }
 	const char* GetThrustZ()         { return Precision(fThrustZ);       }
 	const char* GetThrustAppZ()      { return Precision(fThrustAppZ);    }

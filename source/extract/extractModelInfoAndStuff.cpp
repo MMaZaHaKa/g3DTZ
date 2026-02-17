@@ -18,9 +18,150 @@ static inline unsigned int ToUInt8(T v) {
 }
 
 
+bool ExtractHandling()
+{
+#ifdef VCS
+#define BIT(num) (1 << (num))
+	struct tHandlingChunk
+    {
+        uint32 modelIndex;
+        uint32 handlings;
+    };
+    enum eChunkTypes
+    {
+        TYPE_NONE               = 0x0,
+        TYPE_HANDLING           = BIT(0), // 0x1
+        TYPE_BIKE_HANDLING      = BIT(1), // 0x2
+        TYPE_FLYING_HANDLING    = BIT(2), // 0x4
+        TYPE_BOAT_HANDLING      = BIT(3), // 0x8
+        //TYPE_JETSKI_HANDLING    = BIT(4), // 0x10
+        //TYPE_SIXATV_HANDLING    = BIT(5), // 0x20
+    };
+
+	printf("sizes sizeof(CHandlingData) %d, sizeof(CHandlingBike) %d, sizeof(CHandlingFlying) %d, sizeof(CHandlingBoat) %d\n",
+		sizeof(CHandlingData), sizeof(CHandlingBike), sizeof(CHandlingFlying), sizeof(CHandlingBoat));
+
+	const char* HandlingRawFilename = "HANDLINGRAW.CFG";
+
+	FILE* f = fopen(HandlingRawFilename, "wb");
+	if (!f) {
+		printf("SaveHandlingDataRaw: cannot open %s for write\n", HandlingRawFilename);
+		return false;
+	}
+
+	for (int i = 0; i < CModelInfo::GetNumModelInfos(); ++i) {
+		CVehicleModelInfo* mi = (CVehicleModelInfo*)CModelInfo::GetModelInfo(i);
+		if (!mi || mi->GetType() != MITYPE_VEHICLE)
+			continue;
+
+		tHandlingChunk chunk;
+		chunk.modelIndex = (uint32)i;
+		chunk.handlings = 0;
+
+		long headerPos = ftell(f);
+		if (headerPos < 0) {
+			printf("SaveHandlingDataRaw: ftell failed\n");
+			fclose(f);
+			return false;
+		}
+
+		// временно запишем заголовок (будем патчить после записи блоков)
+		if (fwrite(&chunk, 1, sizeof(chunk), f) != sizeof(chunk)) {
+			printf("SaveHandlingDataRaw: write header failed\n");
+			fclose(f);
+			return false;
+		}
+
+		// пишем блоки в том же порядке, что и LoadHandlingDataRaw ожидает
+		if (mi->GetHandlingData()) {
+			chunk.handlings |= TYPE_HANDLING;
+			if (fwrite(mi->GetHandlingData(), 1, sizeof(CHandlingData), f) != sizeof(CHandlingData)) {
+				printf("SaveHandlingDataRaw: write HANDLING failed for model %d\n", i);
+				fclose(f);
+				return false;
+			}
+		}
+
+		if (mi->GetHandlingBike()) {
+			chunk.handlings |= TYPE_BIKE_HANDLING;
+			if (fwrite(mi->GetHandlingBike(), 1, sizeof(CHandlingBike), f) != sizeof(CHandlingBike)) {
+				printf("SaveHandlingDataRaw: write BIKE failed for model %d\n", i);
+				fclose(f);
+				return false;
+			}
+		}
+
+		if (mi->GetHandlingFlying()) {
+			chunk.handlings |= TYPE_FLYING_HANDLING;
+			if (fwrite(mi->GetHandlingFlying(), 1, sizeof(CHandlingFlying), f) != sizeof(CHandlingFlying)) {
+				printf("SaveHandlingDataRaw: write FLYING failed for model %d\n", i);
+				fclose(f);
+				return false;
+			}
+		}
+
+		if (mi->GetHandlingBoat()) {
+			chunk.handlings |= TYPE_BOAT_HANDLING;
+			if (fwrite(mi->GetHandlingBoat(), 1, sizeof(CHandlingBoat), f) != sizeof(CHandlingBoat)) {
+				printf("SaveHandlingDataRaw: write BOAT failed for model %d\n", i);
+				fclose(f);
+				return false;
+			}
+		}
+
+		// Патчим заголовок (modelIndex и handlings)
+		if (fseek(f, headerPos, SEEK_SET) != 0) {
+			printf("SaveHandlingDataRaw: fseek to header failed\n");
+			fclose(f);
+			return false;
+		}
+		if (fwrite(&chunk, 1, sizeof(chunk), f) != sizeof(chunk)) {
+			printf("SaveHandlingDataRaw: patch header failed\n");
+			fclose(f);
+			return false;
+		}
+
+		// Возвращаемся в конец файла для следующего чанка
+		if (fseek(f, 0, SEEK_END) != 0) {
+			printf("SaveHandlingDataRaw: fseek to end failed\n");
+			fclose(f);
+			return false;
+		}
+	}
+
+	fclose(f);
+	printf("SaveHandlingDataRaw: written %s\n", HandlingRawFilename);
+
+	//for (int i = 0; i <= CModelInfo::GetNumModelInfos(); ++i)
+	//{
+	//	CVehicleModelInfo* mi = (CVehicleModelInfo*)CModelInfo::GetModelInfo(i);
+	//	if (!mi || mi->GetType() != MITYPE_VEHICLE)
+	//		continue;
+
+	//	printf("%d\n", i);
+	//	if (CHandlingData* p = mi->GetHandlingData()) {
+
+	//	}
+	//	if (CHandlingBike* p = mi->GetHandlingBike()) {
+
+	//	}
+	//	if (CHandlingFlying* p = mi->GetHandlingFlying()) {
+
+	//	}
+	//	if (CHandlingBoat* p = mi->GetHandlingBoat()) {
+
+	//	}
+	//}
+#endif
+
+	return true;
+}
+
+
 bool ExtractModelInfoAndStuff()
 {
 #ifdef VCS
+	ExtractHandling();
 	/* Prepare pedcols.dat for VCS */
 	std::ofstream pedcolsFile("pedcols.dat");
 	{
@@ -430,11 +571,15 @@ bool ExtractModelInfoAndStuff()
 			<< '\t' << h.transmission.GetEngineType()
 			<< '\t' << h.GetBrakeDeceleration()
 			<< '\t' << h.GetBrakeBias()
+#ifdef LCS
 			<< '\t' << h.GetABS()
+#endif
 			<< '\t' << h.GetSteeringLock()
 			<< '\t' << h.GetSuspensionForceLevel()
 			<< '\t' << h.GetSuspensionDampingLevel()
+#ifdef LCS
 			<< '\t' << h.GetSuspensionHighSpdComDamp()
+#endif
 			<< '\t' << h.GetSuspensionUpperLimit()
 			<< '\t' << h.GetSuspensionLowerLimit()
 			<< '\t' << h.GetSuspensionBias()
