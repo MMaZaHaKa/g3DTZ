@@ -1,0 +1,755 @@
+# 
+objs
+6912, ML_ESCAL, knackers, 1, 100, 0
+6913, HASH_A0945537, knackers, 1, 100, 0
+6914, ML_PLANTERBED, knackers, 1, 90, 160
+6915, HASH_2EDC07F5, knackers, 1, 100, 0
+6916, HASH_1C81C376, knackers, 1, 100, 0
+6917, HASH_D30BEA7A, knackers, 1, 100, 0
+6918, HASH_168A0BBB, knackers, 1, 100, 0
+6919, HASH_CB262A85, knackers, 1, 100, 0
+6920, HASH_F5512866, knackers, 1, 100, 0
+6921, HASH_6A22EE35, knackers, 1, 100, 0
+6922, HASH_D5AFCCE5, knackers, 1, 100, 0
+6923, PM_PORTALOO, knackers, 1, 100, 0
+6924, LODFAIRBWSEAT, knackers, 1, 600, 0
+6925, HASH_604B3478, knackers, 1, 800, 0
+6926, HASH_D5D1E7AC, knackers, 1, 30, 128
+6927, HASH_F5E2484E, knackers, 1, 30, 128
+6928, PM_LOJETTY, knackers, 1, 150, 0
+6929, HASH_4DF43BCA, knackers, 1, 220, 0
+6930, HASH_C684F3CA, knackers, 1, 299, 0
+6931, HASH_89D531FB, knackers, 1, 2000, 0
+6932, HASH_759864A0, knackers, 1, 2000, 0
+6933, HASH_E8A9A29F, knackers, 1, 120, 0
+6934, PM_JETTY_BAR, knackers, 1, 100, 0
+6935, PM_BEACHAIRA, knackers, 1, 100, 0
+6936, HASH_A0C4EF3B, knackers, 1, 65, 0
+6937, PM_CONCPOST, knackers, 1, 250, 0
+6938, PM_BRIKWALL, knackers, 1, 200, 0
+6939, HASH_0E9A38A4, knackers, 1, 50, 0
+6940, HASH_AC6997FB, knackers, 1, 100, 0
+6941, PM_OFFCHAIR, knackers, 1, 100, 0
+6942, PM_OFFPALM, knackers, 1, 100, 0
+6943, PM_OFFPHONE, knackers, 1, 100, 0
+6944, HASH_21443072, knackers, 1, 100, 0
+6945, HASH_E183BA80, knackers, 1, 100, 0
+6946, HASH_788AEB3A, knackers, 1, 100, 0
+6947, HASH_EB7BE0C8, knackers, 1, 100, 0
+6948, PM_OFFDESK, knackers, 1, 100, 0
+6949, PM_FAR4, knackers, 1, 100, 0
+6950, PM_FAR2, knackers, 1, 100, 128
+6967, HASH_697D70A6, knackers, 1, 100, 0
+6968, HASH_DA9F832C, knackers, 1, 100, 0
+6969, PM_PINBALLA, knackers, 1, 55, 0
+6970, PM_PINBALLB, knackers, 1, 55, 0
+6971, PM_SLOTMACHC, knackers, 1, 55, 0
+6972, PM_SLOTMACHB, knackers, 1, 55, 0
+6973, HASH_75AC75DA, knackers, 1, 100, 0
+6974, HASH_2384A0F4, knackers, 1, 55, 0
+6975, PM_PINBALLBROKE, knackers, 1, 55, 0
+6976, HASH_2ACE2216, knackers, 1, 55, 0
+6977, HASH_2D2BF52A, knackers, 1, 55, 0
+6978, PM_CHILDSIGN, knackers, 1, 55, 0
+6979, PM_EXITSIGN, knackers, 1, 100, 0
+6980, PM_SLOTMACHA, knackers, 1, 55, 0
+6981, HASH_02EC933A, knackers, 1, 55, 0
+6982, HASH_99A6F190, knackers, 1, 100, 0
+6983, PM_FORTHIPOST, knackers, 1, 100, 0
+6984, PM_FORTSHORTPOST, knackers, 1, 100, 0
+6985, PM_FAIR_TILL, knackers, 1, 100, 0
+6986, HASH_B86658DA, knackers, 1, 100, 0
+6987, HASH_D689A50A, knackers, 1, 100, 0
+6988, HASH_28D4313B, knackers, 1, 100, 0
+6989, HASH_E26F748E, knackers, 1, 100, 0
+6990, PM_FORTSHOPPOST, knackers, 1, 100, 0
+6991, HASH_8E3B5903, knackers, 1, 100, 0
+6992, HASH_73E9F9BE, knackers, 1, 100, 0
+6993, HASH_2B3D2FC8, knackers, 1, 100, 128
+6994, HASH_FF34D986, knackers, 1, 250, 0
+6995, PM_STALLBASE, knackers, 1, 100, 0
+6996, HASH_102C166E, knackers, 1, 100, 0
+6997, HASH_7BD60088, knackers, 1, 100, 0
+6998, HASH_0CD1301E, knackers, 1, 100, 0
+6999, PM_FAR1, knackers, 1, 200, 0
+7000, PM_FAR3, knackers, 1, 42, 128
+7001, HASH_028ED75C, knackers, 1, 100, 0
+7002, HASH_35D4C8D7, knackers, 1, 60, 0
+7003, HASH_4E0C7ED3, knackers, 1, 100, 0
+7004, HASH_710E0350, knackers, 1, 100, 0
+7005, HASH_7A16E21D, knackers, 1, 60, 0
+7006, PM_SOFA, knackers, 1, 40, 0
+7007, PM_HOTTABLE, knackers, 1, 40, 0
+7008, PM_CHEST, knackers, 1, 40, 0
+7009, PM_HOTLIGHT, knackers, 1, 40, 0
+7010, PM_TV, knackers, 1, 40, 0
+7011, PM_HOTCHAIR, knackers, 1, 40, 0
+7012, PM_FAR5, knackers, 1, 100, 0
+7013, LODNBCH_HSEA, knackers, 1, 800, 0
+7014, LODNBCH_HSEB, knackers, 1, 800, 0
+7015, DR_NBCH_HSEA, knackers, 1, 100, 0
+7016, DR_NBCH_HSEB, knackers, 1, 100, 0
+7017, LODDSTAGEEXT, knackers, 1, 1000, 0
+7018, HASH_21BAD1E6, knackers, 1, 100, 0
+7019, HASH_4FC7FD01, knackers, 1, 100, 0
+7020, PM_COLONY_HOT, knackers, 1, 160, 0
+7021, LODCOLONY_HOT, knackers, 1, 1500, 0
+7022, PM_COLONYFR01, knackers, 1, 160, 0
+7023, PM_COLONYFR02, knackers, 1, 160, 0
+7024, PM_COLONYFR03, knackers, 1, 160, 0
+7025, PM_BEACON_HOT, knackers, 1, 160, 0
+7026, LODBEACON_HOT, knackers, 1, 800, 0
+7027, PM_BEACONFRNT01, knackers, 1, 160, 0
+7028, PM_BEACONFRNT02, knackers, 1, 160, 0
+7029, PM_TIDES_HOT, knackers, 1, 160, 0
+7030, LODTIDES_HOT, knackers, 1, 2000, 128
+7031, HASH_F4AA1BE3, knackers, 1, 160, 0
+7032, HASH_6DA34A59, knackers, 1, 160, 0
+7033, PM_MAJESTIC_HOT, knackers, 1, 180, 0
+7034, LODMAJESTIC_HOT, knackers, 1, 1500, 0
+7035, LOD_PELICANHOT, knackers, 1, 1500, 128
+7036, PJM_PELICANFRT1, knackers, 1, 160, 0
+7037, PJM_PELICANFRT02, knackers, 1, 160, 0
+7038, PJMC_STARLITE_DY, knackers, 1, 160, 0
+7039, PJMC_LESLIE_DY, knackers, 1, 180, 0
+7040, PJMC_MACALPIN_DY, knackers, 1, 160, 0
+7041, LODC_MACALPIN_DY, knackers, 1, 1500, 0
+7042, LODC_STARLITE_DY, knackers, 1, 1500, 0
+7043, LODC_LESLIE_DY, knackers, 1, 1500, 0
+7044, HASH_E37F9345, knackers, 1, 100, 0
+7045, HASH_570857B8, knackers, 1, 100, 0
+7046, HASH_05307FFA, knackers, 1, 100, 0
+7047, HASH_9C392E40, knackers, 1, 100, 0
+7048, HASH_D01B2C79, knackers, 1, 100, 0
+7049, HASH_49127DC3, knackers, 1, 100, 0
+7050, HASH_3E154D55, knackers, 1, 100, 0
+7051, HASH_2535D690, knackers, 1, 100, 0
+7052, HASH_EB3E1ED6, knackers, 1, 100, 0
+7053, HASH_B4615815, knackers, 1, 100, 0
+7054, HASH_E0DCE790, knackers, 1, 100, 0
+7055, HASH_362395BA, knackers, 1, 100, 0
+7056, HASH_9ED5C4BB, knackers, 1, 100, 0
+7057, HASH_EEBF3034, knackers, 1, 100, 0
+7058, HASH_77B6618E, knackers, 1, 100, 0
+7059, HASH_00B15118, knackers, 1, 100, 0
+7060, HASH_D776E860, knackers, 1, 100, 0
+7061, HASH_BC3C872A, knackers, 1, 100, 0
+7062, HASH_A071D8F6, knackers, 1, 100, 0
+7063, HASH_CB3BB7BC, knackers, 1, 100, 0
+7064, HASH_ED5F3D72, knackers, 1, 100, 0
+7065, HASH_89A11CC7, knackers, 1, 100, 0
+7066, HASH_2F430555, knackers, 1, 100, 0
+7067, HASH_D1A2C0C1, knackers, 1, 100, 0
+7068, HASH_53664C81, knackers, 1, 100, 0
+7069, PM_FAIRBWSEAT, pm_fairbwseat, 1, 200, 0
+7070, HASH_E43B6775, knackers, 1, 50, 0
+7071, HASH_D3ACA975, knackers, 1, 50, 0
+7072, HASH_A3087F5E, knackers, 1, 50, 0
+7073, HASH_0F5715FF, knackers, 1, 50, 0
+7074, HASH_F8EA21F4, knackers, 1, 50, 0
+7075, LODETTY01, knackers, 1, 1500, 0
+7076, LODLOJETTY, knackers, 1, 1000, 0
+7077, HASH_FEC3D0B5, knackers, 1, 100, 0
+7078, HASH_7383FB4C, knackers, 1, 100, 0
+7079, PJM_PELICANHOT, knackers, 1, 160, 0
+7080, PM_FORTXFENCE, knackers, 1, 100, 0
+7081, DR_BIGHOTELA, knackers, 1, 64, 1
+7082, HASH_FA0F18A9, knackers, 1, 100, 0
+7083, HASH_ED2B1319, knackers, 1, 100, 0
+7084, HASH_47E43682, knackers, 1, 250, 0
+7085, NBW_SH_INT, knackers, 1, 250, 0
+7086, HASH_D5D60C4F, knackers, 1, 250, 0
+7087, HASH_F2E0FDB9, knackers, 1, 250, 0
+7088, HASH_DE650AB9, knackers, 1, 250, 0
+7089, HASH_9BA6367D, knackers, 1, 250, 0
+7090, HASH_1229603D, knackers, 1, 250, 0
+7091, HASH_0AA2151F, knackers, 1, 100, 0
+7092, HASH_60BD5DF8, knackers, 1, 250, 0
+7300, NDC_GOLFBALL, ndc_golfball, 1, 100, 0
+7301, NDC_BOATRAMPNARROW, ndc_boatrampNarrow, 1, 200, 128
+7302, NDC_BUOYRIGHTARROW, ndc_buoyRightArrow, 1, 200, 128
+7303, NDC_BUOYLEFTARROW, ndc_buoyLeftArrow, 1, 200, 128
+7304, NDC_BOATRAMPHUMP, ndc_boatrampHump, 1, 200, 128
+7305, NDC_NAVALMINE, ndc_navalmine, 1, 200, 128
+7306, NDC_AMMOBOX, ndc_ammobox, 1, 100, 0
+7307, JM_UMB4_EXIT02, jm_umb4_exit02, 1, 100, 0
+7308, JM_UMB4_EXIT01, jm_umb4_exit01, 1, 100, 0
+7309, JM_UMB4_EXIT03, jm_umb4_exit03, 1, 100, 0
+7310, JM_UMB4_SHUT, jm_umb4_shut, 1, 100, 0
+7311, GD_DILDO, gd_dildo, 1, 100, 0
+7312, NDC_BUOYTARGET, ndc_buoyTarget, 1, 250, 128
+7313, PINATA_MAN, pinata_man, 1, 100, 0
+7314, PM_HOTGATELEFT, pm_hotgateleft, 1, 100, 0
+7315, SJL_CRATE, sjl_crate, 1, 150, 0
+7316, SJL_BOBOHAND_04, sjl_bobohand_04, 1, 100, 0
+7317, SJL_BOBOHAND_02, sjl_bobohand_02, 1, 100, 0
+7318, SJL_BOBOHAND_03, sjl_bobohand_03, 1, 100, 0
+7319, SJL_BOBOHAND_01, sjl_bobohand_01, 1, 100, 0
+7320, CA_SP_SPORTSBAG, ca_sp_sportsbag, 1, 100, 0
+7321, ME_BOOMSHINE_DR, me_boomshine_dr, 1, 100, 0
+7322, NDC_DRUGSPILLBIG, ndc_drugspillbig, 1, 100, 0
+7323, NDC_DRUGSPILL, ndc_drugspill, 1, 100, 0
+7324, NDC_DRUGSTACK, ndc_drugstack, 1, 100, 0
+7325, NDC_DRUGPILE, ndc_drugpile, 1, 100, 0
+7326, NDC_DRUGSOPEN, ndc_drugsopen, 1, 100, 0
+7327, GD_ROCKET, gd_rocket, 1, 100, 0
+7328, GD_CAMHELICOPTER, gd_camhelicopter, 1, 100, 0
+7329, GD_CAMTRUCKBASE, gd_camtruckbase, 1, 100, 0
+7330, GD_CAMTRUCKTOP, gd_camtrucktop, 1, 100, 0
+7331, PM_WALLHOLED, pm_wallholed, 1, 150, 0
+7332, PM_WALLWHOLE, pm_wallwhole, 1, 150, 0
+7333, PM_WALLPLASTPILE, pm_wallplastpile, 1, 100, 0
+7334, PM_GARDOORWSLUX, pm_gardoorwslux, 1, 200, 0
+7335, GD_CRATEPILE, gd_cratePile, 1, 100, 0
+7336, JM_HELIGATE, jm_heligate, 1, 150, 0
+7337, JM_CARPOUNDGATE, jm_carpoundgate, 1, 100, 0
+7338, NDC_BOATRAMPWIDE, ndc_boatrampWide, 1, 200, 128
+7339, TESTRAMP2, TestRamp2, 1, 100, 0
+7340, TESTRAMP1, TestRamp1, 1, 100, 0
+7341, TESTRAMP3, TestRamp3, 1, 100, 0
+7342, TESTRAMP4, TestRamp4, 1, 100, 0
+7343, TESTRAMP5, TestRamp5, 1, 100, 0
+7344, NDC_DRUGPACKET, ndc_drugpacket, 1, 100, 0
+7345, PM_NODE_WALLS, pm_node_walls, 1, 50, 128
+7346, JM_DKS_BHDOOR, jm_dks_bhdoor, 1, 150, 0
+7347, NDC_BOOMSTACK, ndc_boomstack, 1, 100, 0
+7348, ME_POLICEANTENNEE, me_policeantennee, 1, 100, 0
+7349, ME_MAINRIGROPE, me_mainrigrope, 1, 200, 0
+7350, NDC_HELIBUCKET, ndc_helibucket, 1, 100, 0
+7351, PMDIVIDE_DOOR, pmdivide_door, 1, 299, 0
+7352, PM_ELEVDOOR, pm_elevdoor, 1, 100, 0
+7353, NDC_HELIRESCUERIG, ndc_helirescuerig, 1, 100, 0
+7354, EB_PROS_2_A_N, eb_pros_2_A_n, 1, 150, 12
+7355, EB_PROT_1_A_N, eb_prot_1_A_n, 1, 150, 0
+7356, EB_PROT_2_A_N, eb_prot_2_A_n, 1, 150, 12
+7357, EB_PROT_3_A_N, eb_prot_3_A_n, 1, 100, 0
+7358, EB_SMUG_3_A_N, eb_smug_3_A_n, 1, 150, 12
+7359, EB_SMUG_2_A_N, eb_smug_2_A_n, 1, 150, 12
+7360, EB_LOAN_1_A_N, eb_loan_1_A_n, 1, 150, 12
+7361, EB_LOAN_2_A_N, eb_loan_2_A_n, 1, 150, 12
+7362, EB_LOAN_3_A_N, eb_loan_3_A_n, 1, 150, 12
+7363, EB_DRUG_1_A_N, eb_drug_1_A_n, 1, 150, 12
+7364, EB_DRUG_2_A_N, eb_drug_2_A_n, 1, 150, 12
+7365, EB_ROB_2_A_N, eb_rob_2_A_n, 1, 150, 12
+7366, EB_ROB_3_A_N, eb_rob_3_A_n, 1, 150, 12
+7367, EB_ROB_1_A_N, eb_rob_1_A_n, 1, 150, 12
+7368, EB_DRUG_3_A_N, eb_drug_3_A_n, 1, 150, 12
+7369, SJL_BOBOHAND_05, sjl_bobohand_05, 1, 100, 0
+7370, NDC_REDBALLOON, ndc_redballoon, 1, 200, 0
+7371, GD_BRIEFCASE_RED, gd_briefcase_red, 1, 100, 0
+7372, GD_BRIEFCASE_BLUE, gd_briefcase_blue, 1, 100, 0
+7373, GD_BRIEFCASE_BROWN, gd_briefcase_brown, 1, 100, 0
+7374, PMOFFIDOOR, pmoffidoor, 1, 100, 0
+7375, DR_LIFESAVER, dr_lifesaver, 1, 100, 0
+7376, EB_PROS_1_A_N, eb_pros_1_A_n, 1, 100, 0
+7377, EB_PROS_3_A_N, eb_pros_3_A_n, 1, 150, 12
+7378, GD_SAFEDOOR, gd_safedoor, 1, 100, 0
+7379, NDC_KOCKWHEEL, ndc_kockwheel, 1, 100, 0
+7380, ME_LIFTDOOR, me_liftdoor, 1, 100, 0
+7381, MPLAYCRATE, mplaycrate, 1, 100, 0
+7382, MPLAYCRATE_DOORB, mplaycrate_doorB, 1, 100, 0
+7383, MPLAYCRATE_DOORA, mplaycrate_doorA, 1, 100, 0
+7384, MEGADAMAGE, megaDamage, 1, 100, 0
+7385, REGENERATOR, regenerator, 1, 100, 0
+7386, INVISIBLE, invisible, 1, 100, 0
+7387, BAD_CAR, bad_car, 1, 100, 0
+7388, GOOD_CAR, good_car, 1, 100, 0
+7389, ED_BLOCKDOCKS, ed_blockdocks, 1, 150, 0
+7390, ED_BLOCKGOLF, ed_blockgolf, 1, 150, 0
+7391, ED_BLOCKPRAWN, ed_blockprawn, 1, 150, 0
+7392, GD_HELIMAGNET, gd_helimagnet, 1, 100, 0
+7393, NDC_IMPOUNDSIGNA, ndc_impoundSignA, 1, 100, 0
+7394, NDC_IMPOUNDSIGNB, ndc_impoundSignB, 1, 100, 0
+7395, NDC_IMPOUNDSIGND, ndc_impoundSignD, 1, 100, 0
+7396, NDC_IMPOUNDSIGNC, ndc_impoundSignC, 1, 100, 0
+7397, NDC_IMPOUNDSTRIKE, ndc_impoundStrike, 1, 100, 0
+7398, IZ_FBSDRS_BLNK, IZ_fbsDrs_blnk, 1, 100, 0
+7399, JM_DTS_CSDOOR, jm_dts_csdoor, 1, 100, 0
+7400, NDC_SHOPBAG, ndc_shopbag, 1, 100, 0
+7401, RAMPAGECOMPLETED, rampageCompleted, 1, 100, 128
+7402, MAR_A2_STEREO, mar_a2_stereo, 2, 100, 100, 0
+7403, MAR_A2TV, mar_a2tv, 2, 100, 100, 0
+7404, GD_BEERTRAY, gd_beertray, 1, 100, 0
+7405, GD_CIGAR, gd_cigar, 1, 100, 0
+7406, GD_CIGARBOX, gd_cigarbox, 1, 100, 0
+7407, GD_RUBBISH3, gd_rubbish3, 1, 100, 0
+7408, GD_RUBBISH2, gd_rubbish2, 1, 100, 0
+7409, GD_RUBBISH1, gd_rubbish1, 1, 100, 0
+7410, GD_SNACKTRAY, gd_snackTray, 1, 100, 0
+7411, DR_VALVE, dr_valve, 2, 100, 100, 0
+7412, EBPROP_BARSTOOL, ebprop_barstool, 2, 100, 100, 0
+7413, EBPROP_BED, ebprop_bed, 2, 100, 100, 0
+7414, EBPROP_BIGBED, ebprop_bigbed, 2, 100, 100, 0
+7415, EBPROP_CHAIR, ebprop_chair, 2, 100, 100, 0
+7416, EBPROP_CLOTHESRAIL, ebprop_clothesrail, 2, 100, 100, 0
+7417, EBPROP_COMFYCHAIR, ebprop_comfychair, 2, 100, 100, 0
+7418, EBPROP_COPIER, ebprop_copier, 2, 100, 100, 0
+7419, EBPROP_CRATE, ebprop_crate, 2, 100, 100, 0
+7420, EBPROP_DRUGTABLEA, ebprop_drugtableA, 2, 100, 100, 0
+7421, EBPROP_DRUGTABLEB, ebprop_drugtableB, 2, 100, 100, 0
+7422, EBPROP_FLOORLAMP, ebprop_floorlamp, 2, 100, 100, 0
+7423, EBPROP_GBLASTER, ebprop_gblaster, 2, 100, 100, 0
+7424, EBPROP_OFFICEDESKA, ebprop_officedeskA, 2, 100, 100, 0
+7425, EBPROP_PLANTPOT, ebprop_plantpot, 2, 100, 100, 0
+7426, EBPROP_SACK, ebprop_sack, 2, 100, 100, 0
+7427, EBPROP_SPEAKER, ebprop_speaker, 2, 100, 100, 0
+7428, EBPROP_TABLEROUND, ebprop_tableround, 2, 100, 100, 0
+7429, EBPROP_TABLESQUARE, ebprop_tablesquare, 2, 100, 100, 0
+7430, EBPROP_TABLEWIDE, ebprop_tablewide, 2, 100, 100, 0
+7431, EB_FORSALE, eb_forsale, 1, 150, 0
+7432, EB_CONS_A, eb_cons_A, 1, 150, 0
+7433, EB_PROS_1_A, eb_pros_1_A, 1, 150, 0
+7434, EB_ROB_1_A, eb_rob_1_A, 1, 150, 0
+7435, EB_ROB_2_A, eb_rob_2_A, 1, 150, 0
+7436, EB_LOAN_1_A, eb_loan_1_A, 1, 150, 0
+7437, EB_ROB_3_A, eb_rob_3_A, 1, 100, 0
+7438, JM_BKS_PEDGTE, jm_bks_pedgte, 1, 100, 0
+7439, NDC_BIKERAMPNARROW, ndc_bikerampNarrow, 1, 200, 128
+7440, EBPROP_DELICOUNTER, ebprop_delicounter, 2, 100, 100, 0
+7441, EBPROP_FREEZERFLOOR, ebprop_freezerfloor, 2, 100, 100, 0
+7442, EBPROP_FREEZER, ebprop_freezer, 2, 100, 100, 0
+7443, EB_PROT_1_A, eb_prot_1_A, 1, 150, 0
+7444, NDC_MONEYPILE, generic, 1, 40, 128
+7445, NDC_NODAMAGEDESK, ndc_nodamagedesk, 1, 100, 0
+7446, NDC_DEBRISA, ndc_debrisa, 1, 100, 0
+7447, NDC_DEBRISB, ndc_debrisb, 1, 100, 0
+7448, NDC_DEBRISC, ndc_debrisc, 1, 100, 0
+7449, HASH_8795AEA8, knackers, 1, 150, 0
+7450, PM_PIERGATE, pm_piergate, 1, 70, 132
+7451, PM_GARDOORWSLUT, pm_gardoorwslut, 1, 200, 0
+7452, JM_BRKS_GATE, jm_brks_gate, 1, 150, 0
+7453, SJL_LEARJET, sjl_learjet, 1, 200, 0
+7454, SJL_LEARJET_NEAR, sjl_learjet_near, 1, 100, 0
+7455, EB_DRUG_3_C, eb_drug_3_C, 1, 150, 0
+7456, EB_DRUG_2_C, eb_drug_2_C, 1, 150, 0
+7457, EB_DRUG_1_C, eb_drug_1_C, 1, 150, 0
+7458, EB_PROT_3_C, eb_prot_3_C, 1, 150, 0
+7459, EB_PROT_2_C, eb_prot_2_C, 1, 150, 0
+7460, EB_PROT_1_C, eb_prot_1_C, 1, 150, 0
+7461, EB_PROS_3_C, eb_pros_3_C, 1, 150, 0
+7462, EB_PROS_2_C, eb_pros_2_C, 1, 150, 0
+7463, EB_PROS_1_C, eb_pros_1_C, 1, 150, 0
+7464, EB_LOAN_3_C, eb_loan_3_C, 1, 150, 0
+7465, EB_LOAN_2_C, eb_loan_2_C, 1, 150, 0
+7466, EB_LOAN_1_C, eb_loan_1_C, 1, 150, 0
+7467, EB_SMUG_3_C, eb_smug_3_C, 1, 150, 0
+7468, EB_SMUG_2_C, eb_smug_2_C, 1, 150, 0
+7469, EB_SMUG_1_C, eb_smug_1_C, 1, 150, 0
+7470, EB_ROB_3_C, eb_rob_3_C, 1, 150, 0
+7471, EB_ROB_2_C, eb_rob_2_C, 1, 150, 0
+7472, EB_ROB_1_C, eb_rob_1_C, 1, 150, 0
+7473, ISD1_BIKE01, isd1_bike01, 1, 100, 0
+7474, ISD1_BIKE02, isd1_bike02, 1, 100, 0
+7475, ISD1_BIKE03, isd1_bike03, 1, 100, 0
+7476, ISD1_CAR01, isd1_car01, 1, 100, 0
+7477, ISD1_CAR02, isd1_car02, 1, 100, 0
+7478, ISD1_CAR03, isd1_car03, 1, 100, 0
+7479, JM_SKYDOOR, jm_skydoor, 1, 150, 0
+7480, MARTY_CUT_DOOR, Marty_cut_door, 1, 100, 0
+7481, GD_HOTELSOFA, gd_hotelsofa, 2, 100, 100, 0
+7482, GD_HOTELSOFABIT, gd_hotelsofabit, 1, 100, 0
+7483, NDC_PHILSTICK, ndc_philstick, 1, 100, 0
+7484, ISD2_BIKE01, isd2_bike01, 1, 100, 0
+7485, ISD2_BIKE02, isd2_bike02, 1, 100, 0
+7486, ISD2_BIKE03, isd2_bike03, 1, 100, 0
+7487, ISD2_CAR02, isd2_car02, 1, 100, 0
+7488, ISD2_CAR01, isd2_car01, 1, 100, 0
+7489, ISD2_CAR03, isd2_car03, 1, 100, 0
+7490, UNLOCKABLEICON, unlockableIcon, 1, 100, 0
+7491, EBPROP_CASHREG, ebprop_cashreg, 2, 100, 100, 0
+7492, GD_PHONEHANDLE, gd_phoneHandle, 1, 100, 0
+7493, ME_MAINLIGHTRIG, me_mainlightrig, 1, 200, 0
+7494, STAGELITE_LIGHT1, stagelite_light1, 1, 299, 0
+7495, STAGELITE_LIGHT2, stagelite_light2, 1, 299, 0
+7496, STAGELITE_LIGHT3, stagelite_light3, 1, 299, 0
+7497, STAGELITE_LIGHT4, stagelite_light4, 1, 299, 0
+7498, STAGELITE_LIGHT5, stagelite_light5, 1, 299, 0
+7499, JM_BKS_BARRIER, jm_bks_barrier, 1, 62, 128
+7500, PS_PHILHEADMIC, ps_philheadmic, 1, 100, 0
+7501, GD_SPRAYCANS, gd_spraycans, 1, 100, 0
+7502, EBPROP_FILECAB, ebprop_filecab, 2, 100, 100, 0
+7503, NDC_RADIOPHONE, ndc_radioPhone, 1, 100, 0
+7504, EB_DRUG_1_A, eb_drug_1_A, 2, 150, 100, 0
+7505, EB_DRUG_1_B, eb_drug_1_B, 2, 150, 100, 0
+7506, EB_DRUG_2_A, eb_drug_2_A, 2, 150, 100, 0
+7507, EB_DRUG_2_B, eb_drug_2_B, 2, 150, 100, 0
+7508, EB_DRUG_3_A, eb_drug_3_A, 2, 150, 100, 0
+7509, EB_DRUG_3_B, eb_drug_3_B, 2, 150, 100, 0
+7510, EB_LOAN_1_B, eb_loan_1_B, 2, 150, 100, 0
+7511, EB_LOAN_2_A, eb_loan_2_A, 2, 150, 100, 0
+7512, EB_LOAN_2_B, eb_loan_2_B, 2, 150, 100, 0
+7513, EB_LOAN_3_A, eb_loan_3_A, 2, 150, 100, 0
+7514, EB_LOAN_3_B, eb_loan_3_B, 2, 150, 100, 0
+7515, EB_PROS_1_B, eb_pros_1_B, 2, 150, 100, 0
+7516, EB_PROS_2_A, eb_pros_2_A, 2, 150, 100, 0
+7517, EB_PROS_2_B, eb_pros_2_B, 2, 150, 100, 0
+7518, EB_PROS_3_A, eb_pros_3_A, 2, 150, 100, 0
+7519, EB_PROS_3_B, eb_pros_3_B, 2, 150, 100, 0
+7520, EB_PROT_1_B, eb_prot_1_B, 2, 150, 100, 0
+7521, EB_PROT_2_A, eb_prot_2_A, 2, 150, 100, 0
+7522, EB_PROT_2_B, eb_prot_2_B, 2, 150, 100, 0
+7523, EB_PROT_3_A, eb_prot_3_A, 2, 100, 100, 0
+7524, EB_PROT_3_B, eb_prot_3_B, 2, 150, 100, 0
+7525, EB_ROB_1_B, eb_rob_1_B, 2, 150, 100, 0
+7526, EB_ROB_2_B, eb_rob_2_B, 2, 150, 100, 0
+7527, EB_ROB_3_B, eb_rob_3_B, 2, 150, 100, 0
+7528, EB_SMUG_1_A, eb_smug_1_A, 2, 150, 100, 0
+7529, EB_SMUG_1_B, eb_smug_1_B, 2, 150, 100, 0
+7530, EB_SMUG_2_A, eb_smug_2_A, 2, 150, 100, 0
+7531, EB_SMUG_2_B, eb_smug_2_B, 2, 150, 100, 0
+7532, EB_SMUG_3_A, eb_smug_3_A, 2, 150, 100, 0
+7533, EB_SMUG_3_B, eb_smug_3_B, 2, 150, 100, 0
+7700, HASH_09E381CF, knackers, 1, 250, 0
+7701, HASH_EF472252, knackers, 1, 250, 0
+7702, HASH_95877132, knackers, 1, 250, 0
+7703, HASH_A8E75882, knackers, 1, 250, 0
+7704, HASH_4E43FB1F, knackers, 1, 250, 0
+7705, HASH_7323D2AF, knackers, 1, 250, 0
+7706, HASH_5DBC5663, knackers, 1, 250, 0
+7707, HASH_60DC7FD3, knackers, 1, 250, 0
+7708, HASH_1A1C2CB3, knackers, 1, 250, 0
+7709, HASH_2AE01CDC, knackers, 1, 250, 0
+7710, HASH_DB7973FE, knackers, 1, 250, 0
+7711, HASH_9CD9092E, knackers, 1, 250, 0
+7712, HASH_E6195A4E, knackers, 1, 250, 0
+7713, HASH_BFE896FE, knackers, 1, 250, 0
+7714, HASH_C528C59E, knackers, 1, 250, 0
+7715, HASH_F848EC2E, knackers, 1, 250, 0
+7716, HASH_6D40660C, knackers, 1, 250, 0
+7717, HASH_D81E7FD9, knackers, 1, 100, 0
+7718, HASH_5403FAC9, knackers, 1, 100, 0
+7719, HASH_F430BC74, knackers, 1, 100, 0
+7720, HASH_94172B60, knackers, 1, 100, 0
+7721, HASH_7D748E55, knackers, 1, 100, 0
+7722, HASH_E47DDFEF, knackers, 1, 100, 0
+7723, HASH_89A03B04, knackers, 1, 100, 0
+7724, HASH_AFBE719D, knackers, 1, 100, 0
+7725, HASH_1544A8A1, knackers, 1, 100, 0
+7726, HASH_36B72027, knackers, 1, 100, 0
+7727, HASH_2B003043, knackers, 1, 100, 0
+7728, HASH_0F9E7CDC, knackers, 1, 100, 0
+7729, HASH_96972D66, knackers, 1, 100, 0
+7730, HASH_17C4AEA7, knackers, 1, 100, 0
+7731, HASH_EF4B95C2, knackers, 1, 100, 0
+7732, HASH_B564A5E0, knackers, 1, 250, 0
+7733, HASH_0A73BEC3, knackers, 1, 250, 0
+7734, HASH_937AEF79, knackers, 1, 250, 0
+7735, HASH_2C6DF45A, knackers, 1, 250, 0
+7736, HASH_10A96ABE, knackers, 1, 250, 0
+7737, HASH_A8D3B584, knackers, 1, 100, 0
+7738, HASH_8C4DF91B, knackers, 1, 100, 0
+7739, HASH_C2639576, knackers, 1, 100, 0
+7740, HASH_78994C4A, knackers, 1, 100, 0
+7741, HASH_12296CB8, knackers, 1, 100, 0
+7742, HASH_5B6AC4CC, knackers, 1, 100, 0
+7743, HASH_E1901DF0, knackers, 1, 100, 0
+7744, HASH_91FAE97F, knackers, 1, 100, 0
+7745, HASH_EAA657DD, knackers, 1, 100, 0
+7746, HASH_55B14CFE, knackers, 1, 100, 0
+7747, HASH_50204FBC, knackers, 1, 250, 0
+7800, HASH_473784FF, knackers, 1, 10, 0
+7801, PC_RIGHTRIG, knackers, 1, 50, 0
+7802, HASH_C604E418, knackers, 1, 299, 0
+7803, PC_FRONTLIGHTS, knackers, 1, 299, 0
+7804, PC_BACKSCAF, knackers, 1, 299, 0
+7805, PC_LEFTRIG, knackers, 1, 50, 0
+7806, PC_BACKLIGHTS, knackers, 1, 50, 0
+7807, HASH_47310389, knackers, 1, 299, 0
+7808, PC_FRONTFENCE, knackers, 1, 299, 0
+7809, HASH_5F0DB5A2, knackers, 1, 299, 0
+7810, HASH_A0445DBC, knackers, 1, 150, 0
+7811, PC_LEFTROOM, knackers, 1, 299, 0
+7812, PC_RIGHTROOM, knackers, 1, 299, 0
+7813, HASH_A9F21197, knackers, 1, 150, 0
+7814, HASH_0D6E900A, knackers, 1, 299, 0
+7815, HASH_E360F126, knackers, 1, 299, 0
+7816, HASH_7D046485, knackers, 1, 299, 0
+7817, HASH_3D98FC48, knackers, 1, 299, 0
+7818, PC_LEFTSTAGE, knackers, 1, 299, 0
+7819, PC_RIGHTSTAGE, knackers, 1, 299, 0
+7820, PC_LEFTFENCE, knackers, 1, 150, 0
+7821, PC_RIGHTFENCE, knackers, 1, 150, 0
+7822, HASH_7D0D3D97, knackers, 1, 100, 0
+7823, HASH_0476AE80, knackers, 1, 299, 12
+7824, HASH_05401453, knackers, 1, 299, 0
+7825, HASH_3168E538, knackers, 1, 299, 12
+7826, HASH_8475241B, knackers, 1, 299, 12
+7827, HASH_9467C1B0, knackers, 1, 299, 0
+7828, PC_STAD04, knackers, 1, 299, 0
+7829, MANS_CORRIDORS, knackers, 1, 100, 0
+7830, GOON_MISC, knackers, 1, 100, 0
+7831, SMALLBDROOM_MISC, knackers, 1, 100, 0
+7832, MAINBDROOM_MISC, knackers, 1, 100, 0
+7833, HASH_0F9E098A, knackers, 1, 100, 0
+7834, HASH_3C5E3D54, knackers, 1, 100, 0
+7835, UPPTOILET_MISC, knackers, 1, 100, 0
+7836, DININGROOM_MISC, knackers, 1, 100, 0
+7837, LOUNGE_MISC, knackers, 1, 100, 0
+7838, GOONTV, knackers, 1, 100, 0
+7839, GOON_TVTABLE, knackers, 1, 100, 0
+7840, KITCHEN_MISC, knackers, 1, 100, 0
+7841, HASH_2F41A580, knackers, 1, 100, 0
+7842, UPPTOILET, knackers, 1, 100, 0
+7843, MANS_LEFT, knackers, 1, 100, 0
+7844, HASH_0338422C, knackers, 1, 100, 0
+7845, MANS_RIGHT, knackers, 1, 100, 0
+7846, HASH_2A00A0CA, knackers, 1, 100, 0
+7847, HASH_C7DC9865, knackers, 1, 100, 0
+7848, MANS_CELLAR, knackers, 1, 100, 0
+7849, MANS_MISC, knackers, 1, 100, 0
+7850, HASH_507FDF1D, knackers, 1, 100, 0
+7851, PC_STAD03, knackers, 1, 299, 0
+7852, PC_STAD01, knackers, 1, 299, 0
+7853, PC_STAD02, knackers, 1, 299, 0
+7854, HASH_780AA732, knackers, 1, 299, 0
+7855, HASH_057D5377, knackers, 1, 299, 0
+7856, HASH_5327F4F1, knackers, 1, 299, 0
+7857, HASH_4A3CC5B0, knackers, 1, 299, 0
+7858, PC_STAD01B, knackers, 1, 299, 0
+7859, PC_STAD02B, knackers, 1, 299, 0
+7860, PC_STAD04B, knackers, 1, 299, 0
+7861, PC_STAD03B, knackers, 1, 299, 0
+7862, LODPC_STAD03B01, knackers, 1, 2000, 0
+7863, LODPC_STAD02B01, knackers, 1, 2000, 0
+7864, LODPC_STAD02, knackers, 1, 2000, 0
+7865, LODPC_STAD03, knackers, 1, 2000, 0
+7866, LODPC_STAD04, knackers, 1, 2000, 0
+7867, LODPC_STAD01, knackers, 1, 2000, 0
+7868, HASH_30E47499, knackers, 1, 1500, 0
+7869, HASH_75C22EF5, knackers, 1, 1500, 0
+7870, HASH_ECCB7F4F, knackers, 1, 1500, 0
+7871, HASH_05A8DA7A, knackers, 1, 1500, 0
+7872, HASH_073A84AB, knackers, 1, 1500, 0
+7873, HASH_2251DB77, knackers, 1, 1500, 0
+7874, HASH_72AFEAEC, knackers, 1, 1500, 0
+7875, HASH_9AEDBC12, knackers, 1, 1500, 0
+7876, STUDY_MISC, knackers, 1, 100, 0
+7877, PC_STAGEBACK, knackers, 1, 299, 0
+7878, HASH_03803FBF, knackers, 1, 299, 0
+7879, HASH_9A896E05, knackers, 1, 299, 0
+7880, HASH_EA9AC856, knackers, 1, 299, 0
+7881, HASH_DD5E07FE, knackers, 1, 299, 0
+7882, HASH_EA0C59C7, knackers, 1, 299, 0
+7883, HASH_9D0B6951, knackers, 1, 299, 0
+7884, HASH_036FFCF2, knackers, 1, 299, 0
+7885, HASH_F96DF70D, knackers, 1, 150, 0
+7886, HASH_A65FD63F, knackers, 1, 299, 0
+7887, SHOESHOP, knackers, 1, 150, 0
+7888, HASH_C5A7CAD9, knackers, 1, 150, 0
+7889, HASH_382C057C, knackers, 1, 150, 0
+7890, HASH_221F4EF2, knackers, 1, 150, 0
+7891, HASH_C18F321A, knackers, 1, 150, 0
+7892, HASH_71A1F67E, knackers, 1, 150, 0
+7893, HASH_BD1207F8, knackers, 1, 150, 0
+7894, HASH_68D5C57F, knackers, 1, 299, 0
+7895, MLOBJECTS_N13, knackers, 1, 299, 160
+7896, HASH_5C50D011, knackers, 1, 299, 0
+7897, HASH_AFE9A159, knackers, 1, 299, 0
+7898, MISC09, knackers, 1, 299, 0
+7899, JM_MALLNEON01, knackers, 1, 299, 12
+7900, JM_MALLNEON02, knackers, 1, 299, 12
+7901, JM_MALLNEON03, knackers, 1, 299, 12
+7902, JM_MALLNEON04, knackers, 1, 299, 12
+7903, JM_MALLNEON063, knackers, 1, 299, 12
+7904, JM_MALLNEON64, knackers, 1, 299, 12
+7905, HASH_235E2201, knackers, 1, 299, 0
+7906, HASH_4399ABE4, knackers, 1, 299, 0
+7907, MLOBJECTS_N14, knackers, 1, 299, 160
+7908, MLOBJECTS_N15, knackers, 1, 299, 160
+7909, HASH_33F35F6B, knackers, 1, 299, 0
+7910, HASH_9E0AE63B, knackers, 1, 299, 0
+7911, JM_MALLSEC, knackers, 1, 299, 160
+7912, JM_MALLINFO, knackers, 1, 299, 160
+7913, HASH_DA90FA5E, knackers, 1, 299, 0
+7914, HASH_AD97CAC8, knackers, 1, 299, 0
+7915, HASH_349E9B72, knackers, 1, 299, 0
+7916, MLOBJECTS_N10, knackers, 1, 299, 160
+7917, MLOBJECTS_N02, knackers, 1, 299, 160
+7918, HASH_AE2DBB34, knackers, 1, 100, 0
+7919, HASH_DE474FBB, knackers, 1, 100, 0
+7920, HASH_8223D9C5, knackers, 1, 299, 0
+7921, HASH_1B2A887F, knackers, 1, 299, 0
+7922, HASH_4023DA18, knackers, 1, 100, 0
+7923, HASH_A9407F2D, knackers, 1, 100, 0
+7924, HASH_474E1E01, knackers, 1, 100, 0
+7925, HASH_30492E97, knackers, 1, 100, 0
+7926, HASH_D7F10390, knackers, 1, 100, 0
+7927, HASH_A0F63306, knackers, 1, 100, 0
+7928, HASH_3724EA8E, knackers, 1, 100, 0
+7929, HASH_C031BAE3, knackers, 1, 100, 0
+7930, HASH_E54523A0, knackers, 1, 100, 0
+7931, HASH_1B4C1D95, knackers, 1, 299, 0
+7932, HASH_FFC17630, knackers, 1, 100, 12
+7933, HASH_4BA1F13C, knackers, 1, 100, 0
+7934, HASH_A33CBC0D, knackers, 1, 299, 0
+7935, PC_STAGEMISC, knackers, 1, 70, 0
+7936, PC_MAINSTAGE, knackers, 1, 299, 0
+7937, HASH_31F4F84D, knackers, 1, 50, 0
+7938, HASH_AB6B587D, knackers, 1, 100, 0
+7939, HASH_6013FA48, knackers, 1, 100, 0
+7940, HASH_E4A1C2BE, knackers, 1, 50, 0
+end
+tobj
+6951, HASH_7748ABAA, knackers, 1, 299, 12, 19, 7
+6952, HASH_AF82D0AE, knackers, 1, 299, 12, 19, 7
+6953, HASH_E51595E1, knackers, 1, 299, 12, 19, 7
+6954, HASH_B8F9C4ED, knackers, 1, 299, 12, 19, 7
+6955, HASH_DC98A924, knackers, 1, 299, 12, 19, 7
+6956, HASH_8174F828, knackers, 1, 299, 12, 19, 7
+6957, HASH_1EEC34C3, knackers, 1, 299, 12, 19, 7
+6958, HASH_CBE3BD67, knackers, 1, 299, 12, 19, 7
+6959, HASH_1BE17887, knackers, 1, 5001, 8, 19, 7
+6960, HASH_EA312508, knackers, 1, 5001, 8, 19, 7
+6961, HASH_A0A66047, knackers, 1, 5001, 8, 19, 7
+6962, HASH_FD4A314B, knackers, 1, 5001, 8, 19, 7
+6963, HASH_992B5C82, knackers, 1, 5001, 8, 19, 7
+6964, HASH_C4C70D8E, knackers, 1, 5001, 8, 19, 7
+6965, HASH_211C81EB, knackers, 1, 5001, 8, 19, 7
+6966, HASH_8E5048C1, knackers, 1, 5001, 8, 19, 7
+end
+2dfx
+7082, -0.000640869, -0.00119019, 4.21646, 188, 162, 131, 200, 0, "coronastar", "shad_exp", 40, 6, 4, 0, 0, 0, 0, 0, 0
+7083, 0.00100708, -0.521423, 0.784743, 188, 162, 131, 200, 0, "coronastar", "shad_exp", 150, 6, 4, 0, 0, 0, 0, 0, 0
+7085, -3.6166, 6.96358, 19.6909, 252, 253, 237, 200, 0, "coronastar", "shad_exp", 100, 5, 1.5, 0, 0, 0, 0, 0, 0
+7085, -6.88253, 4.4153, 19.6909, 252, 253, 237, 200, 0, "coronastar", "shad_exp", 100, 5, 1.5, 0, 0, 0, 0, 0, 0
+7085, -6.93301, -4.41948, 19.6909, 252, 253, 237, 200, 0, "coronastar", "shad_exp", 100, 5, 1.5, 0, 0, 0, 0, 0, 0
+7085, -3.64749, -6.96144, 19.6909, 252, 253, 237, 200, 0, "coronastar", "shad_exp", 100, 5, 1.5, 0, 0, 0, 0, 0, 0
+7085, 4.89377, -2.14677, 19.6909, 252, 253, 237, 200, 0, "coronastar", "shad_exp", 100, 5, 1.5, 0, 0, 0, 0, 0, 0
+7085, 5.26121, 7.69414, 24.358, 252, 253, 237, 200, 0, "coronastar", "shad_exp", 100, 5, 1.5, 0, 0, 0, 0, 0, 0
+7085, 8.73032, 7.69414, 24.358, 252, 253, 237, 200, 0, "coronastar", "shad_exp", 100, 5, 1.5, 0, 0, 0, 0, 0, 0
+7085, 12.3206, 7.69414, 24.358, 252, 253, 237, 200, 0, "coronastar", "shad_exp", 100, 5, 1.5, 0, 0, 0, 0, 0, 0
+7085, 9.55338, 2.11235, 24.358, 252, 253, 237, 200, 0, "coronastar", "shad_exp", 100, 5, 1.5, 0, 0, 0, 0, 0, 0
+7085, 9.55448, -7.66484, 24.358, 252, 253, 237, 200, 0, "coronastar", "shad_exp", 100, 5, 1.5, 0, 0, 0, 0, 0, 0
+7085, 15.5036, -7.66484, 24.358, 252, 253, 237, 200, 0, "coronastar", "shad_exp", 100, 5, 1.5, 0, 0, 0, 0, 0, 0
+7085, 12.5342, 3.20516, 20.1248, 237, 252, 253, 200, 0, "coronastar", "shad_exp", 100, 5, 1.5, 0, 0, 0, 0, 0, 0
+7085, 12.5342, -0.906936, 20.1248, 237, 252, 253, 200, 0, "coronastar", "shad_exp", 100, 5, 1.5, 0, 0, 0, 0, 0, 0
+7087, 6.90216, 4.26443, -2.34443, 252, 252, 236, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7087, 6.90216, 10.6759, -2.34443, 252, 252, 236, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7087, 6.90216, -1.77362, -2.34443, 252, 252, 236, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7087, 6.90216, -4.40976, -2.34443, 252, 252, 236, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7088, 3.12402, -4.7243, 5.6415, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7088, -4.43799, -4.71292, 5.6415, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7088, -3.06622, -4.23688, 2.90611, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7088, 4.5434, -6.08871, 5.6415, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7088, 4.55334, -4.6915, 5.6415, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7088, 3.18982, -6.14523, 5.6415, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7088, -2.96198, -4.68106, 5.6415, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7088, -2.96124, -6.12915, 5.6415, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7088, -4.42395, -6.20593, 5.6415, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7089, -14.422, 4.39832, 0.751902, 252, 252, 236, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7089, -12.8824, 1.09259, 0.751902, 252, 252, 236, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7090, 12.1266, 1.96118, 0.845291, 236, 252, 252, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7090, 6.79016, 1.05469, 0.845291, 236, 252, 252, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7091, 41.4529, 17.8754, -10.2544, 236, 251, 252, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7091, 41.4529, 11.7216, -10.2544, 236, 251, 252, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7092, -3.11868, 4.72745, 5.64149, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7092, 2.96729, 4.68423, 5.64149, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7092, -4.53809, 6.09183, 5.64149, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7092, -3.18454, 6.14835, 5.64149, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7092, 4.44333, 4.71609, 5.64149, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7092, -4.54803, 4.69461, 5.64149, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7092, 2.96655, 6.13229, 5.64149, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7092, 4.42926, 6.20908, 5.64149, 253, 251, 237, 200, 0, "coronastar", "shad_exp", 100, 18, 1.5, 0, 0, 0, 0, 0, 0
+7302, 0, 0, 11.6059, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 300, 18, 2, 0, 40, 6, 0, 0, 2
+7302, 0, 0, 5.15874, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+7303, 0, 0, 11.6059, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 300, 18, 2, 0, 40, 6, 0, 0, 2
+7303, 0, 0, 5.15874, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+7305, -1.2756, 0.736468, 1.01557, 255, 255, 0, 200, 0, "coronastar", "shad_exp", 300, 18, 1, 0, 40, 10, 0, 0, 2
+7305, 1.2756, 0.736468, 1.01557, 255, 255, 0, 200, 0, "coronastar", "shad_exp", 300, 18, 1, 0, 40, 10, 0, 0, 2
+7305, 0, -1.47294, 1.01557, 255, 255, 0, 200, 0, "coronastar", "shad_exp", 300, 18, 1, 0, 40, 10, 0, 0, 2
+7312, 0, 0, 5.15874, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+7312, 0, 0, 11.6059, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 300, 18, 2, 0, 40, 6, 0, 0, 2
+7348, -0.213013, 0.0594902, 3.38978, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 150, 10, 1.5, 8, 40, 6, 0, 0, 0
+7348, -0.285618, 0.0782928, 1.05159, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 150, 8, 1, 8, 40, 8, 0, 0, 0
+7389, 2.63831, 4.9696, 3.5055, 247, 110, 0, 100, 0, "coronastar", "shad_exp", 100, 3, 2, 0, 40, 6, 0, 0, 0
+7389, 2.49719, -8.87244, 3.5055, 247, 110, 0, 100, 0, "coronastar", "shad_exp", 100, 3, 2, 0, 40, 6, 0, 0, 0
+7389, 2.7699, -5.3501, 3.5055, 247, 110, 0, 100, 0, "coronastar", "shad_exp", 100, 3, 2, 0, 40, 6, 0, 0, 0
+7389, 2.63831, 8.51025, 3.5055, 247, 110, 0, 100, 0, "coronastar", "shad_exp", 100, 3, 2, 0, 40, 6, 0, 0, 0
+7390, 3.26086, 5.43828, 2.93653, 247, 110, 0, 100, 0, "coronastar", "shad_exp", 100, 3, 1, 0, 40, 6, 0, 0, 0
+7390, 3.10144, -5.52847, 2.93653, 247, 110, 0, 100, 0, "coronastar", "shad_exp", 100, 3, 1, 0, 40, 6, 0, 0, 0
+7390, 2.46448, -9.01489, 2.93653, 247, 110, 0, 100, 0, "coronastar", "shad_exp", 100, 3, 1, 0, 40, 6, 0, 0, 0
+7390, 3.26086, 8.95447, 2.93653, 247, 110, 0, 100, 0, "coronastar", "shad_exp", 100, 3, 1, 0, 40, 6, 0, 0, 0
+7391, 2.66443, -8.12036, 3.04461, 247, 110, 0, 100, 0, "coronastar", "shad_exp", 100, 3, 2, 0, 40, 6, 0, 0, 0
+7391, 2.98901, -4.59692, 3.04461, 247, 110, 0, 100, 0, "coronastar", "shad_exp", 100, 3, 2, 0, 40, 6, 0, 0, 0
+7391, 2.82861, 8.4707, 3.04461, 247, 110, 0, 100, 0, "coronastar", "shad_exp", 100, 3, 2, 0, 40, 6, 0, 0, 0
+7391, 2.82861, 4.94043, 3.04461, 247, 110, 0, 100, 0, "coronastar", "shad_exp", 100, 3, 2, 0, 40, 6, 0, 0, 0
+7494, 0, 0, 0, 0, 0, 230, 0, 0, "coronastar", "shad_exp", 299, 20, 0, 20, 30, 0, 0, 0, 0
+7495, 0, 0, 0, 0, 0, 230, 0, 0, "coronastar", "shad_exp", 299, 4, 0, 4, 35, 0, 0, 0, 0
+7496, 0, 0, 0, 0, 200, 200, 0, 0, "coronastar", "shad_exp", 299, 0, 0, 4, 40, 0, 0, 0, 0
+7497, 0, 0, 0, 255, 255, 255, 0, 0, "coronastar", "shad_exp", 299, 4, 0, 4, 40, 0, 0, 0, 0
+7498, 0, 0, 0, 175, 193, 212, 0, 0, "coronastar", "shad_exp", 299, 0, 0, 1, 40, 0, 0, 0, 0
+7532, 7.1254, -3.75446, 4.43294, 255, 237, 165, 100, 0, "coronastar", "shad_exp", 100, 8, 1.5, 8, 40, 1, 0, 0, 0
+7532, 2.97495, -3.75446, 4.43294, 255, 237, 165, 100, 0, "coronastar", "shad_exp", 100, 8, 1.5, 8, 40, 1, 0, 0, 0
+7533, 7.1254, -3.75446, 4.43289, 255, 237, 165, 70, 0, "coronastar", "shad_exp", 100, 8, 1.5, 8, 40, 11, 0, 0, 0
+7533, 2.97495, -3.75446, 4.43289, 255, 237, 165, 70, 0, "coronastar", "shad_exp", 100, 8, 1.5, 8, 40, 3, 0, 0, 0
+7702, -1.29102, 1.54613, 6.29826, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -1.15472, 1.67708, 6.23899, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -1.20343, 1.63214, 6.16515, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -1.40784, 1.43105, 6.14998, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -1.41754, 1.41519, 6.51485, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -1.62689, 1.20576, 6.34962, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -3.43222, 1.54091, 6.29826, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -3.56317, 1.6772, 6.23899, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -3.51825, 1.62849, 6.16515, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -3.31714, 1.42409, 6.14998, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -3.30127, 1.41438, 6.51485, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -3.09186, 1.20503, 6.34962, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -3.427, -0.600296, 6.29826, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -3.56329, -0.731247, 6.23899, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -3.51459, -0.686325, 6.16515, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -3.31018, -0.485214, 6.14998, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -3.30048, -0.469345, 6.51485, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -3.09113, -0.259933, 6.34962, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -1.2858, -0.595078, 6.29826, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -1.15485, -0.731369, 6.23899, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -1.19977, -0.682663, 6.16515, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -1.40088, -0.478256, 6.14998, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -1.41675, -0.468552, 6.51485, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -1.62616, -0.259201, 6.34962, 254, 255, 191, 200, 0, "coronastar", "shad_exp", 100, 0, 0.25, 0, 0, 0, 0, 0, 0
+7702, -2.35706, 0.466965, 6.34962, 254, 255, 188, 0, 0, "coronastar", "shad_exp", 100, 8, 0, 8, 100, 0, 0, 0, 0
+7704, 9.05402, 10.9938, 3.91838, 254, 255, 231, 200, 0, "coronastar", "shad_exp", 100, 6, 1.5, 6, 100, 0, 0, 0, 0
+7705, 1.48592, 0.389008, 9.49564, 231, 255, 255, 0, 0, "coronastar", "shad_exp", 100, 5, 0, 0, 0, 0, 0, 0, 0
+7705, 5.92206, 0.389008, 9.49564, 231, 255, 255, 0, 0, "coronastar", "shad_exp", 100, 5, 0, 0, 0, 0, 0, 0, 0
+7705, 10.3809, 0.389008, 9.49564, 231, 255, 255, 0, 0, "coronastar", "shad_exp", 100, 5, 0, 0, 0, 0, 0, 0, 0
+7705, 1.48592, 5.9317, 9.49564, 231, 255, 255, 0, 0, "coronastar", "shad_exp", 100, 5, 0, 0, 0, 0, 0, 0, 0
+7705, 1.48592, 11.274, 9.49564, 231, 255, 255, 0, 0, "coronastar", "shad_exp", 100, 5, 0, 0, 0, 0, 0, 0, 0
+7705, 5.92206, 11.274, 9.49564, 231, 255, 255, 0, 0, "coronastar", "shad_exp", 100, 5, 0, 0, 0, 0, 0, 0, 0
+7705, 10.3809, 11.274, 6.49351, 231, 255, 255, 0, 0, "coronastar", "shad_exp", 100, 5, 0, 0, 0, 0, 0, 0, 0
+7707, -12.0748, -0.57222, 3.69519, 254, 255, 231, 200, 0, "coronastar", "shad_exp", 100, 6, 1.5, 0, 0, 0, 0, 0, 0
+7707, -3.69449, -0.57222, 3.69519, 254, 255, 231, 200, 0, "coronastar", "shad_exp", 100, 6, 1.5, 0, 0, 0, 0, 0, 0
+7822, -2.71277, -5.79272, -4.68549, 188, 199, 207, 200, 0, "coronastar", "shad_exp", 150, 0, 2.5, 0, 0, 0, 0, 0, 0
+7822, 3.26013, 1.63123, -4.67107, 207, 204, 188, 200, 0, "coronastar", "shad_exp", 150, 0, 2, 0, 0, 0, 0, 0, 0
+7822, -3.16589, 1.13013, -4.65158, 188, 199, 207, 200, 0, "coronastar", "shad_exp", 150, 0, 2.5, 0, 0, 0, 0, 0, 0
+7822, -2.68262, 12.1104, -5.07733, 195, 216, 241, 200, 0, "coronastar", "shad_exp", 150, 0, 2, 0, 0, 0, 0, 0, 0
+7822, -4.39209, 9.922, -4.9267, 195, 216, 241, 200, 0, "coronastar", "shad_exp", 150, 0, 2, 0, 0, 0, 0, 0, 0
+7822, -0.806396, 10.7888, -4.92259, 195, 216, 241, 200, 0, "coronastar", "shad_exp", 150, 0, 2, 0, 0, 0, 0, 0, 0
+7822, -4.41614, -14.6901, -4.92758, 195, 216, 241, 200, 0, "coronastar", "shad_exp", 150, 0, 2, 0, 0, 0, 0, 0, 0
+7822, -1.89417, -16.786, -5.07808, 195, 216, 241, 200, 0, "coronastar", "shad_exp", 150, 0, 2, 0, 0, 0, 0, 0, 0
+7822, 2.31433, -16.4049, -4.57106, 195, 216, 241, 200, 0, "coronastar", "shad_exp", 150, 0, 2.5, 0, 0, 0, 0, 0, 0
+7822, 1.49707, -17.9651, -6.90739, 208, 205, 195, 255, 0, "coronastar", "shad_exp", 150, 0, 4, 0, 0, 0, 0, 0, 0
+7822, -0.743774, 13.7271, -6.71698, 208, 205, 195, 255, 0, "coronastar", "shad_exp", 150, 0, 4, 0, 0, 0, 0, 0, 0
+7822, -2.71277, -5.79272, -4.67365, 188, 199, 207, 200, 0, "coronastar", "shad_exp", 150, 0, 2.5, 0, 0, 0, 0, 0, 0
+7822, -2.68262, 12.1104, -5.11568, 195, 216, 241, 200, 0, "coronastar", "shad_exp", 150, 0, 2, 0, 0, 0, 0, 0, 0
+7822, -0.743774, 13.7271, -6.7272, 208, 205, 195, 255, 0, "coronastar", "shad_exp", 150, 0, 4, 0, 0, 0, 0, 0, 0
+7884, -20.6854, 28.0204, -1.29436, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 30, 18, 1, 8, 40, 1, 0, 0, 0
+7884, -10.4827, 28.0204, -1.29436, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 30, 18, 1, 8, 40, 1, 0, 0, 0
+7884, -10.4827, 16.0311, -1.29436, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 30, 18, 1, 8, 40, 1, 0, 0, 0
+7884, -20.6854, 16.0311, -1.29436, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 30, 18, 1, 8, 40, 1, 0, 0, 0
+7921, 1.54321, -1.63696, -1.28786, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 30, 18, 1, 8, 40, 1, 0, 0, 0
+7921, 1.54321, -13.6262, -1.28786, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 30, 18, 1, 8, 40, 1, 0, 0, 0
+7921, -8.7558, -1.63696, -1.28786, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 30, 18, 1, 8, 40, 1, 0, 0, 0
+7921, -8.7558, -13.6262, -1.28786, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 30, 18, 1, 8, 40, 1, 0, 0, 0
+7921, -21.035, -13.6262, -1.28786, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 30, 18, 1, 8, 40, 1, 0, 0, 0
+7921, -21.035, -1.63696, -1.28786, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 30, 18, 1, 8, 40, 1, 0, 0, 0
+7930, -0.134311, -0.0602945, 1.07751, 6, 139, 0, 150, 0, "coronastar", "shad_exp", 150, 18, 0.5, 8, 40, 2, 0, 0, 0
+7930, 0.252698, -0.348662, 0.795593, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 150, 18, 1.5, 8, 40, 6, 0, 0, 0
+7935, -3.66968, -0.384277, 1.85973, 195, 216, 241, 0, 0, "coronastar", "shad_exp", 150, 8, 0, 0, 0, 0, 0, 0, 0
+7935, -9.53015, 7.72949, 1.45911, 195, 216, 241, 0, 0, "coronastar", "shad_exp", 150, 8, 0, 0, 0, 0, 0, 0, 0
+7935, -13.949, 7.73364, 4.56276, 195, 216, 241, 0, 0, "coronastar", "shad_exp", 150, 8, 0, 0, 0, 0, 0, 0, 0
+7935, -10.4772, 0.671265, 3.87553, 195, 216, 241, 0, 0, "coronastar", "shad_exp", 150, 8, 0, 0, 0, 0, 0, 0, 0
+7935, -12.4639, -6.40381, 3.4482, 195, 216, 241, 0, 0, "coronastar", "shad_exp", 150, 8, 0, 0, 0, 0, 0, 0, 0
+7935, -6.32422, -6.47339, 0.136215, 195, 216, 241, 255, 0, "coronastar", "shad_exp", 150, 0, 2.5, 0, 0, 0, 0, 0, 0
+7935, -3.37769, -2.14087, 0.145096, 195, 216, 241, 255, 0, "coronastar", "shad_exp", 150, 0, 2.5, 0, 0, 0, 0, 0, 0
+7935, -3.4165, 2.33167, 0.132141, 195, 216, 241, 255, 0, "coronastar", "shad_exp", 150, 0, 2.5, 0, 0, 0, 0, 0, 0
+7935, -6.31567, 6.53882, 0.144333, 195, 216, 241, 255, 0, "coronastar", "shad_exp", 150, 0, 2.5, 0, 0, 0, 0, 0, 0
+end

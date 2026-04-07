@@ -1,0 +1,373 @@
+# 
+objs
+400, BAR_GATEBAR01, knackers, 1, 84, 0
+401, BAR_GATEBOX01, knackers, 1, 46, 0
+402, BARRIERTURN, knackers, 1, 59, 0
+403, ELECTRICGATE, knackers, 1, 101, 4
+404, FENCESMALLB, knackers, 1, 52, 4
+405, SUBWAYGATE, knackers, 1, 60, 4
+406, TUNNELENTRANCE, knackers, 1, 250, 0
+407, SUB_ROADBARRIER, knackers, 1, 100, 0
+408, TALL_FENCE, knackers, 1, 100, 4
+409, COLUMBIANGATE, Columbiangate, 1, 100, 4
+410, PHILS_COMPND_GATE, knackers, 1, 100, 4
+411, NEWTOWERDOOR1, knackers, 1, 290, 0
+412, SUB_ROADRIGHT, knackers, 1, 100, 0
+413, SUB_ROADLEFT, knackers, 1, 100, 0
+414, AIRPORTGATE, knackers, 1, 100, 0
+415, HELIX_BARRIER, knackers, 1, 200, 0
+416, BAR_BARRIER12, bar_barrier12, 2, 73, 39, 4
+417, BAR_BARRIER16, knackers, 2, 56, 56, 0
+418, BAR_BARRIERGATE1, knackers, 2, 61, 39, 4
+419, BAR_BARRIER10B, knackers, 2, 49, 39, 4
+420, LHOUSE_BARRIER1, lhouse_barrier1, 2, 56, 56, 0
+421, LHOUSE_BARRIER2, knackers, 2, 56, 56, 0
+422, LHOUSE_BARRIER3, knackers, 2, 56, 56, 0
+423, GDYN_BARRIER17, knackers, 2, 56, 56, 0
+424, BAR_BARRIER10, bar_barrier10, 2, 73, 39, 4
+430, TINY_ROCK, knackers, 1, 40, 128
+431, WASHER, knackers, 1, 40, 128
+432, JUNK_TYRE, knackers, 1, 40, 128
+433, COOKER1, knackers, 1, 42, 128
+434, VENDMACH, knackers, 1, 44, 128
+435, BRIEFCASE, briefcase, 1, 40, 128
+436, FIRE_HYDRANT, fire_hydrant, 1, 40, 128
+437, MONEY, generic, 1, 40, 128
+438, NOTMINE, knackers, 1, 100, 128
+439, BOLLARD, knackers, 1, 40, 128
+440, BOLLARDLIGHT, bollardlight, 1, 40, 128
+441, PHONEBOOTH1, knackers, 1, 42, 128
+442, BARREL2, barrel2, 1, 40, 128
+443, BARREL1, barrel1, 1, 40, 128
+444, PALETTE, knackers, 1, 46, 128
+445, CARDBOARDBOX2, cardboardbox2, 1, 40, 128
+446, CARDBOARDBOX4, cardboardbox4, 1, 40, 128
+447, BARREL3, barrel3, 1, 40, 128
+448, LAMPOST_COAST, knackers, 1, 53, 128
+449, WOODENBOX, woodenbox, 1, 41, 128
+450, BARREL4, barrel4, 1, 40, 128
+451, LAMPPOST3, lamppost3, 1, 62, 128
+452, BIN1, bin1, 1, 41, 128
+453, DUMP1, dump1, 1, 45, 128
+454, ROADWORKBARRIER1, roadworkbarrier1, 1, 62, 128
+455, BUSSIGN1, knackers, 1, 46, 128
+456, CARDBOARDBOX, cardboardbox, 1, 40, 128
+457, STREETLAMP2, Streetlamp2, 1, 55, 128
+458, STREETLAMP1, Streetlamp1, 1, 55, 128
+459, NOPARKINGSIGN1, noparkingsign1, 1, 46, 128
+460, PHONESIGN, phonesign, 1, 45, 128
+461, WASTEBIN, wastebin, 1, 40, 128
+462, RCYCLBANK01, knackers, 1, 45, 128
+463, STRTBARRIER01, knackers, 1, 71, 128
+464, TRAFFICCONE, trafficcone, 1, 40, 128
+465, INFO, info, 1, 100, 128
+466, HEALTH, health, 1, 100, 128
+467, ADRENALINE, adrenaline, 1, 100, 128
+468, BODYARMOUR, bodyarmour, 1, 100, 128
+469, PETROLPUMP, petrolpump, 1, 70, 128
+470, NEWRAMP, knackers, 1, 100, 128
+471, LINE, knackers, 1, 100, 128
+472, ROCKPATCH1, knackers, 1, 299, 128
+473, ROCKPATCH03, knackers, 1, 299, 128
+474, BRIBE, bribe, 1, 100, 128
+475, BONUS, bonus, 1, 100, 128
+476, FAKETARGET, generic, 1, 1, 128
+477, SMASHBARPOST, knackers, 1, 100, 128
+478, SMASHBAR, smashbar, 1, 100, 128
+479, BARRELEXPOS, knackers, 1, 50, 128
+480, GLASSFX_COMPOSH, generic, 1, 70, 128
+481, CAMERAPICKUP, camerapickup, 1, 100, 128
+482, KILLFRENZY, killfrenzy, 1, 100, 128
+483, LOUNGER, knackers, 1, 45, 132
+484, STONEBENCH1, knackers, 1, 50, 129
+485, MIAMPHON, knackers, 1, 42, 128
+486, MIAMIFIREHYD, knackers, 1, 35, 128
+487, BUSTOPM, knackers, 1, 60, 128
+488, MPOSTBOX1, knackers, 1, 42, 128
+489, BILLBD1, knackers, 1, 100, 128
+490, BILLBD3, knackers, 1, 100, 128
+491, LODLBD2, knackers, 1, 100, 128
+492, MIAMIBIN, knackers, 1, 15, 132
+493, MTRAFFIC4, knackers, 1, 45, 128
+494, MTRAFFIC3, knackers, 1, 45, 128
+495, BLACKBAG1, knackers, 1, 45, 128
+496, BLACKBAG2, knackers, 1, 45, 128
+497, LODLBD3, knackers, 1, 100, 128
+498, BILLBD2, knackers, 1, 100, 128
+499, LODLBD1, knackers, 1, 100, 128
+500, PARKINGMETERG, parkingmeterg, 1, 42, 128
+501, GUNBOX, gunbox, 1, 40, 128
+502, PROPERTY_LOCKED, knackers, 1, 100, 128
+503, PROPERTY_FSALE, property_fsale, 1, 100, 128
+504, BIGDOLLAR, knackers, 1, 100, 128
+505, CLOTHESP, clothesp, 1, 100, 128
+506, PACKAGE1, knackers, 1, 35, 0
+507, PICKUPSAVE, pickupsave, 1, 100, 160
+508, SUB_FLOODLITE, knackers, 1, 150, 0
+509, CRAIGPACKAGE, knackers, 1, 80, 0
+510, PICKUPMUSIC, knackers, 1, 100, 128
+511, POSTBOX1, postbox1, 2, 42, 42, 128
+512, NEWSSTAND1, knackers, 2, 42, 42, 128
+513, PARKBENCH1, parkbench1, 2, 50, 46, 128
+514, PAPERMACHN01, papermachn01, 2, 40, 40, 128
+515, PARKTABLE1, knackers, 2, 47, 47, 128
+516, LAMPPOST2, lamppost2, 3, 78, 200, 60, 128
+517, GARDENBENCHA, knackers, 2, 45, 45, 128
+518, BARRIERM, Barrierm, 2, 44, 40, 128
+519, NEWSTANDNEW1, newstandnew1, 2, 45, 44, 128
+520, NEWSTANDNEW4, newstandnew4, 2, 45, 44, 128
+521, NEWSTANDNEW3, newstandnew3, 2, 45, 44, 128
+522, NEWSTANDNEW5, newstandnew5, 2, 45, 44, 128
+523, NEWSTANDNEW2, newstandnew2, 2, 45, 44, 128
+524, LAMPPOST1, lamppost1, 2, 59, 58, 128
+525, DOUBLESTREETLGHT1, doublestreetlght1, 2, 71, 70, 128
+526, TRAFFICLIGHT1, knackers, 2, 64, 60, 128
+527, MTRAFFIC1, MTraffic1, 2, 85, 80, 128
+528, MLAMPPOST, mlamppost, 2, 55, 135, 128
+529, MTRAFFIC2, MTraffic2, 2, 85, 80, 128
+530, TELGRPHPOLE02, knackers, 1, 92, 4
+531, PARKINGMETER, parkingmeter, 1, 42, 128
+532, BOUY, bouy, 1, 200, 128
+540, VEG_TREE3, veg_tree3, 1, 299, 132
+541, VEG_TREEA1, veg_treea1, 1, 180, 132
+542, VEG_TREEB1, veg_treeb1, 1, 250, 132
+543, VEG_TREEA3, veg_treea3, 1, 140, 132
+544, VEG_PALWEE03, knackers, 1, 290, 132
+545, VEG_PALM04, veg_palm04, 1, 290, 132
+546, VEG_PALM02, veg_palm02, 1, 290, 132
+547, VEG_PALM03, veg_palm03, 1, 290, 132
+548, VEG_PALWEE01, veg_palwee01, 1, 290, 132
+549, VEG_PALWEE02, veg_palwee02, 1, 290, 132
+550, VEG_PALMKB1, knackers, 1, 45, 4
+551, VEG_PALMKB2, knackers, 1, 45, 132
+552, VEG_PALMKB3, knackers, 1, 45, 132
+553, VEG_PALMKB4, knackers, 1, 45, 132
+554, VEG_PALMKB5, knackers, 1, 45, 4
+555, VEG_PALMKB8, knackers, 1, 22, 132
+556, VEG_PALMKB9, knackers, 1, 22, 132
+557, VEG_PALMKB7, knackers, 1, 35, 132
+558, VEG_PALMKB10, knackers, 1, 35, 132
+559, VEG_PALMKBB11, knackers, 1, 45, 132
+560, VEG_FERN_BALCNY_KB1, knackers, 1, 45, 132
+561, VEG_FERN_BALCNY_KB2, knackers, 1, 45, 132
+562, KB_POT_1, knackers, 1, 35, 132
+563, KB_PLANTERBUSH2, knackers, 1, 40, 132
+564, KB_PLANTERBOX, knackers, 1, 40, 132
+565, KB_PLANTER+BUSH, knackers, 1, 40, 132
+566, VEG_IVY_BALCNY_KB3, knackers, 1, 45, 132
+567, NEW_BUSHTEST, knackers, 1, 200, 132
+568, KB_PLANTER+BUSH2, knackers, 1, 45, 132
+569, VEG_PALMKB13, knackers, 1, 45, 132
+570, KB_CANOPY_TEST, knackers, 1, 30, 128
+571, KB_CHR_TBL_TEST, knackers, 1, 30, 128
+572, POT_02, knackers, 1, 45, 132
+573, POT_01, knackers, 1, 35, 132
+574, VEG_PALMBIG14, veg_palmbig14, 1, 290, 132
+575, VEG_PALMKB14, knackers, 1, 35, 132
+576, POT_03, knackers, 1, 35, 132
+577, NEW_BUSHSM, knackers, 1, 50, 132
+578, VEG_PALM01, veg_palm01, 1, 290, 132
+600, LF_MEDIASTAGE, knackers, 1, 100, 0
+601, TRASHCAN, trashcan, 1, 40, 0
+602, DRUG_WHITE, knackers, 1, 40, 0
+603, DRUG_ORANGE, knackers, 1, 40, 0
+604, DRUG_YELLOW, knackers, 1, 40, 0
+605, DRUG_GREEN, knackers, 1, 40, 0
+606, DRUG_BLUE, knackers, 1, 40, 0
+607, DRUG_RED, knackers, 1, 40, 0
+608, KEYCARD, keycard, 1, 40, 0
+609, LF_BANNER, knackers, 1, 100, 0
+610, PIZZABOX, pizzabox, 1, 40, 0
+611, TAR_GUN2, knackers, 1, 100, 0
+612, TAR_GUN1, tar_gun1, 1, 100, 0
+613, TAR_CIV2, knackers, 1, 100, 0
+614, TAR_CIV1, tar_civ1, 1, 100, 0
+615, TAR_FRAME, knackers, 1, 100, 0
+616, TAR_TOP, knackers, 1, 100, 0
+617, TAR_UPRIGHT, knackers, 1, 100, 0
+618, TAR_UPLEFT, knackers, 1, 100, 0
+619, TAR_DOWNLEFT, knackers, 1, 100, 0
+620, TAR_DOWNRIGHT, knackers, 1, 100, 0
+621, PLC_STINGER, plc_stinger, 1, 100, 0
+622, CHAIRSNTABLE, knackers, 1, 70, 32
+623, SATDISHBIG, knackers, 1, 140, 0
+624, SATDISHSML, knackers, 1, 140, 0
+625, CNTRLRSAC1, knackers, 1, 100, 0
+626, BEACHBALL, knackers, 1, 50, 0
+627, FISH1SINGLE, knackers, 1, 50, 0
+628, FISH2SINGLE, knackers, 1, 50, 0
+629, FISH3S, knackers, 1, 50, 0
+630, JELLYFISH, knackers, 1, 50, 12
+631, JELLYFISH01, knackers, 1, 50, 12
+632, FISH3SINGLE, knackers, 1, 50, 0
+633, FISH1S, knackers, 1, 50, 0
+634, FISH2S, knackers, 1, 50, 0
+635, DOLPHIN, knackers, 1, 50, 0
+636, SHARK, knackers, 1, 50, 0
+637, TURTLE, knackers, 1, 40, 0
+638, SANDCASTLE1, knackers, 1, 20, 0
+639, SANDCASTLE2, knackers, 1, 20, 0
+640, SUBMARINE, knackers, 1, 100, 0
+641, NT_FIREHOSE_01, knackers, 1, 34, 0
+642, NT_ALARM1_01, knackers, 1, 34, 0
+643, NT_ALARM2_01, knackers, 1, 34, 0
+644, NT_SECURECAM1_01, knackers, 1, 34, 0
+645, NT_AIRCON1_01, knackers, 1, 34, 0
+646, NT_AIRCON1_02, knackers, 1, 34, 0
+647, NT_VENT1_01, knackers, 1, 34, 0
+648, NT_VENT2_01, knackers, 1, 34, 0
+649, NT_VENT3_01, knackers, 1, 34, 0
+650, NT_SECURECAM2_01, knackers, 1, 34, 0
+651, NT_AIRCON3_01, knackers, 1, 34, 0
+652, NT_ALARM3_01, knackers, 1, 34, 0
+653, WATERJUMP2, knackers, 1, 100, 0
+654, WATERJUMP1, waterjump1, 1, 240, 0
+655, LANDJUMP, knackers, 1, 100, 0
+656, LANDJUMP2, knackers, 1, 100, 0
+657, NT_AIRCON1DBL, knackers, 1, 34, 0
+658, RCBOMB, knackers, 1, 100, 0
+659, OD_PAT_HUTB, knackers, 1, 180, 0
+660, OD_PAT_HUT, knackers, 1, 50, 0
+661, OD_VBNET, knackers, 1, 50, 0
+662, BEACHTOWEL04, knackers, 1, 50, 0
+663, BEACHTOWEL03, knackers, 1, 50, 0
+664, BEACHTOWEL02, knackers, 1, 50, 0
+665, BEACHTOWEL01, knackers, 1, 50, 0
+666, LOTION, knackers, 1, 10, 0
+667, LOUNGE_WOOD_UP, knackers, 1, 50, 0
+668, LOUNGE_TOWEL_UP, knackers, 1, 50, 0
+669, LOUNGE_WOOD_DN, knackers, 1, 50, 0
+670, OD_GROYNE01, knackers, 1, 299, 4
+671, WGLASSSMASH, wglasssmash, 1, 50, 1024
+672, PETROLCANM, knackers, 1, 40, 0
+673, OD_COPWINDOWS, knackers, 1, 30, 512
+674, FENCEHAITI, knackers, 1, 60, 0
+675, FENCEHAITISM, knackers, 1, 60, 0
+676, DYNAMITE, knackers, 1, 40, 0
+677, WATERJUMPX2, waterjumpx2, 1, 240, 0
+678, ESC_STEP, esc_step, 1, 15, 0
+682, RAMP, knackers, 1, 100, 1
+684, NT_ROADBLOCKCI, knackers, 1, 145, 0
+685, SWIVELCHAIR_B, knackers, 1, 35, 32
+686, PROPWINEBOTL2, knackers, 1, 20, 0
+687, PROPASHTRAY1, knackers, 1, 20, 0
+688, PROPBEERGLASS1, knackers, 1, 20, 0
+689, PROPWINEGLASS1, knackers, 1, 20, 0
+690, PROPVODKABOTL1, knackers, 1, 20, 0
+691, PROPWINEBOTL1, knackers, 1, 20, 0
+692, PROPCOLLECTTABLE, knackers, 1, 20, 0
+693, SWIVELCHAIR_A, knackers, 1, 35, 32
+694, GASGRENADE, knackers, 1, 50, 0
+695, ROADSIGN, knackers, 1, 120, 0
+696, LODXREFHSE1, knackers, 1, 700, 0
+697, WSHXREFHSE1, knackers, 1, 50, 0
+698, WASHGASPUMP, washgaspump, 1, 45, 0
+699, LODXREFHIRISE1, knackers, 1, 700, 0
+700, WSHXREFHIRISE1, knackers, 1, 65, 0
+701, WSHXREFHSE2, knackers, 1, 55, 0
+702, LODXREFHSE2, knackers, 1, 700, 0
+703, HASH_7C3F27AB, knackers, 1, 100, 0
+704, HASH_23626692, knackers, 1, 100, 0
+705, XOD_STARLITE_DY, knackers, 1, 100, 0
+708, XOD_LESLIE_DY, knackers, 1, 100, 0
+711, XOD_MACALPIN_DY, knackers, 1, 100, 0
+713, LOD_MACALPIN_DY, knackers, 1, 900, 0
+716, LOD_STARLITE_DY, knackers, 1, 900, 0
+717, LOD_LESLIE_DY, knackers, 1, 900, 0
+718, CHAIRSNTABLEML, knackers, 1, 70, 32
+719, LODJUMBO_01, knackers, 1, 900, 0
+720, AP_LEARJET1_01, knackers, 1, 150, 0
+721, AP_RADAR1_01, knackers, 1, 299, 0
+722, AP_JUMBO_01, knackers, 1, 150, 0
+723, JW_COFFIN, knackers, 2, 35, 34, 0
+724, HASH_77B57AB9, knackers, 1, 100, 0
+725, HASH_91CB0BCA, knackers, 1, 100, 0
+end
+tobj
+679, HTL_FAN_ROTATE_NT, knackers, 1, 30, 32, 20, 6
+680, HTL_FAN_STATIC_NT, knackers, 1, 30, 32, 20, 6
+681, HTL_FAN_STATIC_DY, knackers, 1, 30, 32, 6, 20
+683, HTL_FAN_ROTATE_DY, knackers, 1, 30, 32, 6, 20
+end
+2dfx
+415, 14.1482, 0.0303955, 0.986919, 228, 145, 0, 200, 0, "coronastar", "shad_exp", 100, 0, 4, 0, 40, 1, 0, 0, 0
+415, -9.17807, 0.0303955, 0.986919, 228, 145, 0, 200, 0, "coronastar", "shad_exp", 100, 0, 4, 0, 40, 1, 0, 0, 0
+415, 10.8648, 0.0303955, 0.986919, 228, 145, 0, 200, 0, "coronastar", "shad_exp", 100, 0, 4, 0, 40, 1, 0, 0, 0
+415, 9.08504, 0.0303955, 0.986919, 228, 145, 0, 200, 0, "coronastar", "shad_exp", 100, 0, 4, 0, 40, 1, 0, 0, 0
+415, 5.74976, 0.0303955, 0.986919, 228, 145, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 4, 8, 40, 1, 0, 0, 0
+415, -5.78153, 0.0303955, 0.986919, 228, 145, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 4, 8, 40, 1, 0, 0, 0
+415, -10.9299, 0.0303955, 0.986919, 228, 145, 0, 200, 0, "coronastar", "shad_exp", 100, 0, 4, 0, 40, 1, 0, 0, 0
+415, -14.2371, 0.0303955, 0.986919, 228, 145, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 4, 8, 40, 1, 0, 0, 0
+438, 0, -0.00692272, 0.0792043, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 0, 40, 4, 0, 0, 4
+440, -0.0257463, -0.0584068, 0.319209, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 180, 12, 0.75, 6, 40, 1, 0, 0, 2
+448, 0.645042, 1.5273e-05, 4.41737, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 150, 12, 1, 8, 40, 1, 0, 0, 0
+451, -1.40575, 0.20891, 3.67026, 255, 148, 52, 200, 0, "coronastar", "shad_exp", 100, 12, 2, 8, 40, 1, 1, 0, 2
+455, 0.238941, -0.449402, -1.27472, 255, 148, 52, 200, 3, 2, -0.0315063, -0.999504, 0, -0.0315063, -0.999504, 0
+457, -0.340004, 0.0187225, 2.64116, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 8, 40, 1, 0, 0, 2
+457, 0.537809, 0.0187225, 2.64116, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 12, 1, 0, 40, 1, 1, 0, 2
+458, -0.029808, 0.0239291, 2.73923, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 12, 1, 8, 40, 1, 1, 0, 0
+479, -0.00298711, -0.266058, 0.185445, 255, 59, 59, 200, 0, "coronastar", "shad_exp", 100, 0, 0.3, 0, 40, 4, 0, 0, 0
+484, -0.645691, -0.667067, -0.200061, 255, 59, 59, 200, 3, 1, -1, 0, 0, -1, 0, 0
+484, -0.645691, 0.891455, -0.200061, 255, 59, 59, 200, 3, 1, -1, 0, 0, -1, 0, 0
+489, -1.92675, 1.89177, 2.49039, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+489, -1.84327, 3.8253, 2.48641, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+489, -1.92078, -0.589237, 2.48641, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+489, -1.92619, -2.85938, 2.48641, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+489, -1.84741, -5.02185, 2.48641, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+489, -1.88795, -7.16777, 2.48641, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+490, -1.82755, 6.97197, 2.141, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+490, -1.88369, 4.32294, 2.14416, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+490, -1.89011, 1.55205, 2.14695, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+490, -1.8836, -1.33457, 2.14364, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+490, -1.90318, -4.11812, 2.15268, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+490, -1.88626, -6.78167, 2.14446, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+493, -0.0602188, 0.272484, 0.535936, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 12, 0, 0, 0
+493, -0.0365982, 0.286766, 0.0160613, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 12, 0, 0, 0
+493, -0.0673351, 0.27858, -0.478178, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 12, 0, 0, 0
+498, -5.39596, -4.28335, 1.26637, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+498, -4.02042, 5.57401, 1.24162, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+498, -4.29895, 3.69707, 1.25405, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+498, -4.52763, 1.60658, 1.22984, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+498, -4.86572, -0.43589, 1.25981, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+498, -5.1319, -2.51973, 1.25373, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+498, 5.15804, -4.36198, 1.22325, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+498, 4.64363, -2.41874, 1.22582, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+498, 4.74233, -0.654861, 1.27267, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+498, 4.34439, 1.666, 1.22324, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+498, 4.12862, 3.58868, 1.22325, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+498, 4.1068, 5.5836, 1.28296, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 0.7, 0, 40, 1, 0, 0, 0
+508, -1.5289, 0.101044, 13.8858, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 3, 0, 40, 1, 0, 0, 0
+508, 1.5289, 0.101044, 13.8858, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 3, 8, 40, 1, 0, 0, 2
+513, -0.467846, 0.350676, -0.0126083, 255, 255, 255, 200, 3, 1, -1, 0, 0, -1, 0, 0
+513, -0.48391, -0.341455, -0.0126083, 255, 255, 255, 200, 3, 1, -1, 0, 0, -1, 0, 0
+516, 2.88123, -0.0623951, 5.4208, 255, 168, 17, 200, 0, "coronastar", "shad_exp", 300, 0, 4, 0, 40, 1, 1, 0, 0
+516, -3.05613, -0.0623951, 5.4208, 255, 168, 17, 200, 0, "coronastar", "shad_exp", 300, 0, 4, 0, 40, 1, 1, 0, 0
+516, 0.0287704, -0.0623951, 3.89494, 255, 231, 133, 200, 0, "coronastar", "shad_exp", 100, 12, 0, 8, 40, 1, 0, 0, 2
+524, -0.436392, 0.0448771, 3.202, 249, 145, 34, 200, 0, "coronastar", "shad_exp", 100, 12, 2.5, 8, 40, 1, 0, 0, 0
+525, 2.7197, 1.03363, 4.80805, 167, 255, 242, 200, 0, "coronastar", "shad_exp", 100, 12, 2, 8, 40, 11, 1, 0, 2
+526, -3.68424, 0.769247, 2.82932, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 12, 0, 0, 0
+526, -3.68424, 0.769247, 2.48265, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 12, 0, 0, 0
+526, -3.71518, -0.418716, 3.1612, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 12, 0, 0, 0
+526, -3.71518, -0.418716, 2.82932, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 12, 0, 0, 0
+526, -3.71518, -0.418716, 2.48265, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 12, 0, 0, 0
+526, -3.68424, 0.769247, 3.1612, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 12, 0, 0, 0
+527, -1.4301, 0.840633, 2.58206, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 0, 40, 12, 0, 0, 0
+527, -7.3057, 1.73421, 2.58454, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 0, 40, 12, 0, 0, 0
+527, -1.02052, 0.849716, 2.58206, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 0, 40, 12, 0, 0, 0
+527, -6.89095, 1.71421, 2.58454, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 0, 40, 12, 0, 0, 0
+527, -0.617176, 0.824104, 2.58862, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 0, 40, 12, 0, 0, 0
+527, -6.48766, 1.70841, 2.58454, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 0, 1, 0, 40, 12, 0, 0, 0
+528, -1.40741, -0.00177383, 4.09561, 255, 148, 52, 200, 0, "coronastar", "shad_exp", 100, 12, 2, 8, 40, 1, 1, 0, 2
+529, 1.10466, -0.385155, 3.00468, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 12, 0, 0, 0
+529, 1.12294, -0.385315, 2.53019, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 12, 0, 0, 0
+529, 1.15081, -0.385559, 2.05238, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 12, 0, 0, 0
+529, -11.0871, 0.797363, 3.02967, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 12, 0, 0, 0
+529, -11.0645, 0.797165, 2.51111, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 12, 0, 0, 0
+529, -11.0684, 0.797203, 2.04668, 255, 255, 255, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 12, 0, 0, 0
+532, 0, 0, 11.6059, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 300, 18, 2, 0, 40, 6, 0, 0, 2
+532, 0, 0, 5.15874, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+685, 0.00495338, -0.44437, -0.393378, 80, 245, 253, 9, 3, 0, 0.0222745, -0.998242, -0.0549326, 0.0222745, -0.998242, -0.0549326
+687, -0.0303345, 0.0423012, 0, 87, 224, 198, 9, 1, 4, 0, 0, 0.1, 0.2
+693, -0.0103126, -0.429469, -0.393378, 87, 224, 198, 9, 3, 0, 0.0222745, -0.998242, -0.0549326, 0.0222745, -0.998242, -0.0549326
+718, -0.923803, -0.266265, -0.277184, 87, 224, 198, 9, 3, 1, 0.10322, -0.994659, 0, 0.10322, -0.994659, 0
+end

@@ -1,0 +1,359 @@
+# 
+objs
+2800, DOONTOON09, knackers, 1, 250, 1
+2801, DOONTOON11, knackers, 1, 250, 0
+2802, HASH_3D968B1D, knackers, 1, 130, 0
+2803, DOONTOON22, knackers, 1, 299, 0
+2804, DOONTOON30, knackers, 1, 150, 1
+2805, HASH_3E26104B, knackers, 1, 250, 0
+2806, DOONTOON47, knackers, 1, 120, 0
+2807, DOONTOON55, knackers, 1, 299, 0
+2808, DOONTOON59, knackers, 1, 250, 1
+2809, DOONTOON61, knackers, 1, 250, 1
+2810, DOONTOON62, knackers, 1, 250, 1
+2811, DOONTOON67, knackers, 1, 250, 1
+2812, DOONTOON70, knackers, 1, 250, 1
+2813, LODNTOON_NEWBIT, knackers, 1, 2000, 0
+2814, LODNTOON39, knackers, 1, 3500, 0
+2815, COMPOUND_BITS, knackers, 1, 100, 0
+2816, DT_COMPOUND_ROOF, knackers, 1, 180, 0
+2817, LODCOMPOUND_ROOF, knackers, 1, 1500, 0
+2818, GLUETEST03, knackers, 1, 50, 4
+2819, LODNTOON_04_BIT2, knackers, 1, 1500, 0
+2820, DT_CARPSACES13, knackers, 1, 70, 4
+2821, DT_CARPSACES14, knackers, 1, 70, 4
+2822, VEG_GAZ, knackers, 1, 160, 4
+2823, LODNTOON55, knackers, 1, 3500, 0
+2824, DT_NBEACH02, knackers, 1, 250, 0
+2825, LODD_DOWNTOWN12, knackers, 1, 1500, 0
+2826, LODD_DOWNTOWN14, knackers, 1, 1500, 0
+2827, LODD_DOWNTOWN13, knackers, 1, 1500, 0
+2828, LODD_DOWNTOWN04, knackers, 1, 1500, 0
+2829, LODD_DOWNTOWN03, knackers, 1, 1500, 0
+2830, LODD_DOWNTOWN16, knackers, 1, 2000, 0
+2831, LODD_DOWNTOWN02, knackers, 1, 1500, 0
+2832, LODNTOON22, knackers, 1, 3500, 0
+2833, LODNTOON53, knackers, 1, 1500, 0
+2834, LODNTOON54, knackers, 1, 1500, 0
+2835, LODNTOON50, knackers, 1, 1500, 0
+2836, LODNTOON49, knackers, 1, 1500, 0
+2837, LODNTOON21, knackers, 1, 1500, 0
+2838, LODNTOON51, knackers, 1, 1500, 0
+2839, LODNTOON03, knackers, 1, 2000, 0
+2840, LODNTOON47, knackers, 1, 1500, 0
+2841, LODNTOON35, knackers, 1, 1500, 0
+2842, LODNTOON_TOP09, knackers, 1, 2000, 0
+2843, LODNTOON_TOP10, knackers, 1, 2000, 0
+2844, LODBUILD01, knackers, 1, 2000, 0
+2845, LODBUILD02, knackers, 1, 1500, 0
+2846, LODNTOON18, knackers, 1, 1500, 0
+2847, LODPOUND_BITS, knackers, 1, 1500, 0
+2848, LODNTOON38, knackers, 1, 1500, 0
+2849, LODNTOON37, knackers, 1, 1500, 0
+2850, LODNTOON36, knackers, 1, 1500, 0
+2851, LODNTOON19, knackers, 1, 1500, 0
+2852, LODNTOON30, knackers, 1, 1500, 0
+2853, LODNTOON29, knackers, 1, 1500, 0
+2854, LODNTOON32, knackers, 1, 1500, 0
+2855, LODNTOON27, knackers, 1, 1500, 0
+2856, LODNTOON28, knackers, 1, 1500, 0
+2857, LODNTOON31, knackers, 1, 1500, 0
+2858, LODNTOON24, knackers, 1, 1500, 0
+2859, LODNTOON25, knackers, 1, 1500, 0
+2860, LODNTOON_TOP06, knackers, 1, 1500, 0
+2861, LODCOMPOUND_ESC, knackers, 1, 1500, 0
+2862, DT_NBEACH01, knackers, 1, 250, 0
+2863, DT_NBEACH06, knackers, 1, 250, 0
+2864, LODHOTEL_WALDT, knackers, 1, 1500, 0
+2865, LODNTOON11, knackers, 1, 1500, 0
+2866, LODNTOON09, knackers, 1, 1500, 0
+2867, LODNBEACH05, knackers, 1, 2000, 0
+2868, LODNBEACH06, knackers, 1, 2000, 0
+2869, LODNTOON67, knackers, 1, 1500, 0
+2870, LODNTOON04, knackers, 1, 2000, 0
+2871, HASH_4E7B8F0C, knackers, 1, 1500, 0
+2872, DT_20_HOLEWALL, knackers, 1, 60, 4
+2873, LODNTOON76, knackers, 1, 5001, 0
+2874, DT_CARPSACES15, knackers, 1, 25, 4
+2875, LODNTOON70, knackers, 1, 1500, 0
+2876, LODNTOON63, knackers, 1, 2000, 0
+2877, LODNTOON59, knackers, 1, 1500, 0
+2878, LODNTOON62, knackers, 1, 1500, 0
+2879, XPOLYTREES1_DT, knackers, 1, 120, 4
+2880, XPOLYTREES2_DT, knackers, 1, 60, 4
+2881, XPOLYTREES4_DT, knackers, 1, 150, 4
+2889, LODNTOON61, knackers, 1, 1500, 0
+2890, LODNTOON58, knackers, 1, 1500, 0
+2891, DT_STADIUM_ENTRANCE, knackers, 1, 230, 0
+2892, LODSTADIUM_ENTRANCE, knackers, 1, 1200, 0
+2893, LODSTADIUMLAND_C, knackers, 1, 2999, 0
+2894, DT_STADIUMLAND_C, knackers, 1, 299, 0
+2895, DT_STADIUM_START, knackers, 1, 190, 0
+2896, DT_STADIUMLAND_A, knackers, 1, 299, 0
+2897, DT_NBEACH03, knackers, 1, 250, 0
+2898, DT_STADIUMLAND_B, knackers, 1, 299, 0
+2899, DOONTOON_TOP06, knackers, 1, 200, 0
+2900, DT_NBEACH05, knackers, 1, 200, 0
+2901, LODD_DOWNTOWN17, knackers, 1, 1500, 0
+2902, DT_GSPOT_STAIRS, dt_gspot_stairs, 1, 100, 4
+2903, DT_STADIUMLAND_D, knackers, 1, 299, 0
+2904, LODSTADIUM_START, knackers, 1, 1500, 0
+2905, DTN_STADSPACESA, knackers, 1, 299, 4
+2906, LODD_DOWNTOWN15, knackers, 1, 1500, 0
+2907, LODSTADIUMLAND_B, knackers, 1, 2999, 0
+2908, LODSTADIUMLAND_A, knackers, 1, 2999, 0
+2909, LODSTADIUMLAND_D, knackers, 1, 2999, 0
+2910, LODD_DOWNTOWN_NEW2, knackers, 1, 1500, 0
+2911, LODD_DOWNTOWN11, knackers, 1, 1500, 0
+2912, LODNTOON26, knackers, 1, 1500, 0
+2913, LODD_STADIUMA, knackers, 1, 2000, 0
+2914, DTOON62_SPACES, knackers, 1, 120, 4
+2915, LODNTOON_TOP_BB, knackers, 1, 2000, 0
+2916, DTN_STADSPACESB, knackers, 1, 299, 4
+2917, ROAD_DOWNTOWN13, knackers, 1, 250, 1
+2918, ROAD_DOWNTOWN04, knackers, 1, 250, 1
+2919, ROAD_DOWNTOWN02, knackers, 1, 150, 1
+2920, ROAD_DOWNTOWN16, knackers, 1, 250, 1
+2921, ROAD_DOWNTOWN03, knackers, 1, 250, 1
+2922, ROAD_DOWNTOWN12, knackers, 1, 250, 1
+2923, ROAD_DOWNTOWN15, knackers, 1, 250, 1
+2924, ROAD_DOWNTOWN17, knackers, 1, 250, 1
+2925, ROAD_DOWNTOWN_NEW2, knackers, 1, 200, 1
+2926, ROAD_STADIUMA, knackers, 1, 250, 1
+2927, ROAD_DOWNTOWN11, knackers, 1, 210, 1
+2928, DTN_CABLESA, knackers, 1, 250, 4
+2929, DTN_CABLESC, knackers, 1, 250, 4
+2930, ROAD_DOWNTOWN14, knackers, 1, 250, 1
+2931, STAD_ROADB, knackers, 1, 299, 1
+2932, STAD_ROADC, knackers, 1, 299, 1
+2933, STAD_ROADD, knackers, 1, 299, 1
+2934, STAD_ROADA, knackers, 1, 299, 1
+2935, DTN_VEG3, knackers, 1, 150, 4
+2936, DTN_VEG4, knackers, 1, 150, 4
+2937, DT_STADIUM__ALFA1, knackers, 1, 100, 4
+2938, DT_STADIUMALFA2, knackers, 1, 250, 4
+2939, DOONTOON25_ALFAS, knackers, 1, 100, 132
+2940, DOONTOON32_ALFA, knackers, 1, 110, 4
+2941, DT_COMPOUND_ALFAS, knackers, 1, 120, 4
+2942, DOONTOON03, knackers, 1, 140, 0
+2943, DOONTOON63, knackers, 1, 230, 1
+2944, DOONTOON_04_BIT2, knackers, 1, 200, 0
+2945, DOONTOON_22_B, knackers, 1, 110, 0
+2946, DOONTOON_NEWBIT, knackers, 1, 200, 1
+2947, DOONTOON04, knackers, 1, 250, 0
+2948, DOONTOON18, knackers, 1, 150, 0
+2949, DOONTOON21, knackers, 1, 130, 0
+2950, DOONTOON24, knackers, 1, 220, 0
+2951, DOONTOON25, knackers, 1, 200, 128
+2952, DOONTOON26, knackers, 1, 200, 4
+2953, DOONTOON27, knackers, 1, 200, 0
+2954, DOONTOON28, knackers, 1, 120, 0
+2955, DOONTOON29, knackers, 1, 150, 0
+2956, DOONTOON31, knackers, 1, 100, 1
+2957, DOONTOON32, knackers, 1, 200, 0
+2958, DOONTOON35, knackers, 1, 200, 0
+2959, DOONTOON36, knackers, 1, 120, 0
+2960, DOONTOON37, knackers, 1, 150, 0
+2961, DOONTOON38, knackers, 1, 150, 0
+2962, DOONTOON39, knackers, 1, 250, 0
+2963, DOONTOON49, knackers, 1, 100, 0
+2964, DOONTOON50, knackers, 1, 200, 0
+2965, DOONTOON51, knackers, 1, 200, 0
+2966, DOONTOON53, knackers, 1, 200, 128
+2967, DOONTOON54, knackers, 1, 150, 0
+2968, DOONTOON76, knackers, 1, 299, 128
+2969, DT_COMPOUND_ESC, knackers, 1, 100, 0
+2970, DOONTOON56, knackers, 1, 299, 0
+2971, DOONTOON58, knackers, 1, 150, 0
+2972, DOONTOON_TOP10, knackers, 1, 200, 0
+2973, NEWBUILD02, knackers, 1, 90, 0
+2974, DOONTOON_TOP_BB, knackers, 1, 190, 1
+2975, DOONTOON_TOP09, knackers, 1, 200, 1
+2976, HASH_EFBC2A0A, knackers, 1, 80, 4
+2977, HASH_98BB1A9C, knackers, 1, 50, 4
+2978, HASH_CDE6F280, knackers, 1, 120, 4
+2979, DTN_CABLESB_2, knackers, 1, 120, 4
+2980, DTN_CABLESB_3, knackers, 1, 120, 4
+2981, EB_DTN_14, knackers, 1, 100, 0
+2982, DT_HOTEL_WALDT, knackers, 1, 250, 0
+2983, EB_DTN_12, knackers, 1, 100, 0
+2984, EB_DTN_11, knackers, 1, 100, 0
+2985, ME_BOMBDOOR, me_bombdoor, 1, 40, 128
+2986, ME_BILLBOARD03, knackers, 1, 100, 0
+2987, ME_BILLBOARD04, knackers, 1, 100, 0
+2988, HASH_F58A9405, knackers, 1, 150, 0
+2989, EB_DTN_13, knackers, 1, 100, 0
+2990, HASH_FF5DDA3F, knackers, 1, 100, 0
+2991, HASH_61394F9C, knackers, 1, 100, 0
+2992, HASH_163E7F0A, knackers, 1, 100, 0
+2993, HASH_8F372EB0, knackers, 1, 100, 0
+2994, HASH_1153BB13, knackers, 1, 100, 0
+2995, HASH_198A9395, knackers, 1, 100, 0
+2996, HASH_EBA893E2, knackers, 1, 100, 0
+2997, HASH_72A1C258, knackers, 1, 100, 0
+2998, HASH_05A6F2CE, knackers, 1, 100, 0
+2999, HASH_9BC2676D, knackers, 1, 100, 0
+3000, HASH_ECC557FB, knackers, 1, 100, 0
+3001, HASH_376BBEE4, knackers, 1, 100, 0
+3002, HASH_AE62EF5E, knackers, 1, 100, 0
+3003, HASH_D965DFC8, knackers, 1, 100, 0
+3004, HASH_24215641, knackers, 1, 100, 0
+3005, HASH_BA45C3E2, knackers, 1, 100, 0
+3006, HASH_CD42F374, knackers, 1, 100, 0
+3007, HASH_3DA8515A, knackers, 1, 250, 0
+3008, HASH_4AAF61CC, knackers, 1, 100, 0
+3009, HASH_A3CCC4F9, knackers, 1, 200, 0
+3010, HASH_32D91AB0, knackers, 1, 100, 0
+3011, DR_DTN_FENCE, knackers, 1, 100, 0
+3012, HASH_7F68E67B, knackers, 1, 1500, 0
+3027, HASH_B6487E50, knackers, 1, 160, 0
+3028, HASH_8FDA0BE1, knackers, 1, 260, 0
+3029, HASH_9ECFE081, knackers, 1, 299, 0
+3030, HASH_89277B3A, knackers, 1, 100, 0
+3031, HASH_E485FFD1, knackers, 1, 120, 0
+3032, HASH_9382CF47, knackers, 1, 120, 0
+3033, HASH_63F57888, knackers, 1, 299, 0
+3036, HASH_102E2A80, knackers, 1, 100, 0
+3037, HASH_8E322DB5, knackers, 1, 100, 0
+3038, DOONTOON19, knackers, 1, 180, 0
+3039, HASH_489F9F44, knackers, 1, 100, 0
+3040, HASH_3F98AFD2, knackers, 1, 100, 0
+3041, HASH_D6FB0AE7, knackers, 1, 100, 0
+3042, HASH_38F56BCB, knackers, 1, 100, 0
+3043, HASH_62CC2DF0, knackers, 1, 100, 0
+3044, HASH_30879787, knackers, 1, 150, 0
+3045, HASH_987DBB39, knackers, 1, 100, 0
+3046, HASH_A98EC63D, knackers, 1, 170, 0
+3047, HASH_DE89F6AB, knackers, 1, 170, 0
+3048, HASH_40ED6308, knackers, 1, 170, 0
+3049, HASH_1B82DAF0, knackers, 1, 1500, 0
+3050, HASH_828B8B4A, knackers, 1, 1500, 0
+3051, HASH_F58CBBDC, knackers, 1, 1500, 0
+3052, HASH_6BE82E7F, knackers, 1, 1500, 0
+3053, DR_EGG06, knackers, 1, 100, 0
+3054, DR_EGG07, knackers, 1, 15, 0
+3055, HASH_0ADB02BA, knackers, 1, 1200, 0
+3056, HASH_4817BC73, knackers, 1, 100, 0
+3057, DR_DTN_BODGE, knackers, 1, 200, 0
+3058, LODDTN_BODGE, knackers, 1, 1200, 0
+3059, HASH_92CAD2AE, knackers, 1, 40, 0
+3060, LODNBEACH01, knackers, 1, 2000, 0
+3061, LODNBEACH02, knackers, 1, 2000, 0
+3062, LODNBEACH03, knackers, 1, 2000, 0
+3063, HASH_CFE223ED, knackers, 1, 2000, 0
+3064, NEWBUILD01, knackers, 1, 200, 0
+3065, HASH_26BE287E, knackers, 1, 1500, 0
+3066, LODDT22_NEON01, knackers, 1, 2999, 8
+3070, DTN_STADSPACESC, knackers, 1, 280, 0
+3071, DTN_STADSPACESD, knackers, 1, 280, 0
+3072, LODD_ROADA, knackers, 1, 900, 1
+3073, LODD_ROADB, knackers, 1, 900, 1
+3074, HASH_F2AF3232, knackers, 1, 250, 1
+3075, LODD_ROADD, knackers, 1, 900, 1
+3078, DR_EGGSTAR, knackers, 1, 40, 0
+3079, LODNTOON56, knackers, 1, 100, 0
+end
+tobj
+2882, DT_NITELITES1, knackers, 1, 299, 12, 19, 6
+2883, DT_NITELITES3, knackers, 1, 299, 12, 19, 7
+2884, DT_NITELITES4, knackers, 1, 299, 12, 19, 7
+2885, DT_NITELITES5, knackers, 1, 299, 12, 20, 7
+2886, DT_NITELITES6, knackers, 1, 299, 12, 19, 7
+2887, DT_NITELITES7, knackers, 1, 299, 12, 18, 7
+2888, DT_NITELITES8, knackers, 1, 290, 12, 19, 6
+3013, JM_DT22_NEON, knackers, 1, 299, 12, 20, 9
+3014, JM_DT55_NEON, knackers, 1, 299, 12, 19, 8
+3015, LODDT22_NEON, knackers, 1, 5001, 8, 19, 5
+3016, HASH_FFB1A581, knackers, 1, 100, 12, 19, 5
+3017, DR_AMMU_NEON, knackers, 1, 150, 12, 19, 5
+3018, HASH_4DD915E9, knackers, 1, 299, 14, 19, 5
+3019, LODNITELITES1, knackers, 1, 2999, 8, 19, 6
+3020, LODNITELITES2, knackers, 1, 2999, 8, 19, 7
+3021, LODNITELITES3, knackers, 1, 2999, 8, 19, 7
+3022, LODNITELITES6, knackers, 1, 2000, 8, 19, 6
+3023, LODNITELITES8, knackers, 1, 2000, 8, 19, 7
+3024, LODNITELITES7, knackers, 1, 2000, 8, 18, 7
+3025, LODNITELITES5, knackers, 1, 2000, 8, 20, 7
+3026, LODDT55_NEON, knackers, 1, 5001, 8, 19, 5
+3034, PM_SCRAPLIGHTS, knackers, 1, 299, 172, 19, 5
+3035, PM_SCRAPLIGHTS2, knackers, 1, 299, 172, 19, 5
+3067, LODNITELITES101, knackers, 1, 5001, 8, 19, 6
+3068, LODNITELITES04, knackers, 1, 5001, 8, 19, 7
+3069, LODNITELITES201, knackers, 1, 5001, 8, 19, 7
+3076, DT_NITELITES2, knackers, 1, 299, 12, 19, 7
+3077, DT_NITELITES201, knackers, 1, 299, 12, 19, 7
+end
+2dfx
+2812, 93.1669, 11.3191, -1.4125, 152, 92, 59, 21, 3, 1, -0.137063, -0.989671, -0.0420149, -0.137063, -0.989671, -0.0420149
+2891, 5.651, 55.6442, 0.0726347, 152, 92, 59, 21, 3, 1, 0.967926, 0.116744, -0.222465, 0.967926, 0.116744, -0.222465
+2891, 18.9097, 41.381, -2.98908, 152, 92, 59, 21, 3, 1, 0.952957, 0.20018, -0.227598, 0.952957, 0.20018, -0.227598
+2891, -0.12793, 42.6105, 3.16445, 152, 92, 59, 21, 3, 1, 0.105124, -0.989182, -0.102315, 0.105124, -0.989182, -0.102315
+2891, -5.84424, 42.5844, 3.16445, 152, 92, 59, 21, 3, 1, 0.105096, -0.989187, -0.102288, 0.105096, -0.989187, -0.102288
+2891, -13.8959, 27.5811, 3.15368, 152, 92, 59, 21, 3, 1, -0.200221, 0.959228, -0.199482, -0.200221, 0.959228, -0.199482
+2891, 19.0887, -1.18347, -2.98538, 152, 92, 59, 21, 3, 1, 0.979442, 0.000369322, -0.201726, 0.979442, 0.000369322, -0.201726
+2891, 19.1167, -3.88745, -2.99917, 152, 92, 59, 21, 3, 1, 0.94698, -0.0761204, -0.312146, 0.94698, -0.0761204, -0.312146
+2891, 9.0564, -43.4242, 0.0794859, 152, 92, 59, 21, 3, 1, 0.153861, -0.953196, -0.260278, 0.153861, -0.953196, -0.260278
+2891, 6.92554, -43.4174, 0.0895758, 152, 92, 59, 21, 3, 1, 0.0428454, -0.991032, -0.126571, 0.0428454, -0.991032, -0.126571
+2891, 13.6019, -42.5095, 0.054389, 152, 92, 59, 21, 3, 1, 0.131826, 0.964587, -0.228461, 0.131826, 0.964587, -0.228461
+2891, 19.2329, -53.4702, -3.11019, 152, 92, 59, 21, 3, 1, 0.992867, -0.0831177, -0.0854817, 0.992867, -0.0831177, -0.0854817
+2896, -8.82544, -2.54993, 88.2069, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 250, 18, 5, 0, 0, 5, 0, 0, 0
+2898, -12.0149, 2.78015, 88.2069, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 250, 18, 5, 0, 0, 5, 0, 0, 0
+2939, -62.0038, 31.2544, 40.6172, 255, 16, 0, 200, 0, "coronastar", "shad_exp", 100, 18, 3, 0, 0, 5, 0, 0, 0
+2943, 75.0835, -48.3712, 1.63631, 255, 16, 0, 200, 3, 1, 0.83916, -0.44414, -0.313927, 0.83916, -0.44414, -0.313927
+2943, 75.47, -47.0214, 1.62351, 255, 16, 0, 200, 3, 1, 0.839226, -0.504699, -0.202433, 0.839226, -0.504699, -0.202433
+2948, 47.842, -43.8079, -30.6018, 255, 16, 0, 200, 3, 4, -0.998567, -0.0535085, -9.9942e-07, -0.998567, -0.0535085, -9.9942e-07
+2948, -22.1819, -47.6102, -30.6018, 255, 16, 0, 200, 3, 4, -0.999386, -0.0350355, -2.04349e-06, -0.999386, -0.0350355, -2.04349e-06
+2948, -42.5045, -35.1787, -30.2697, 255, 16, 0, 200, 3, 4, 0.106895, -0.993866, -0.0283453, 0.106895, -0.993866, -0.0283453
+2948, -47.1071, 19.9578, -30.2697, 255, 16, 0, 200, 3, 4, 0.0799044, -0.996803, -1.86205e-06, 0.0799044, -0.996803, -1.86205e-06
+2953, 36.4856, -36.2692, -8.22534, 255, 16, 0, 200, 3, 4, -0.995888, -0.0905912, 0.000506716, -0.995888, -0.0905912, 0.000506716
+2953, 27.4866, 41.017, -7.70854, 255, 16, 0, 200, 3, 4, 0.993742, 0.111634, 0.00384335, 0.993742, 0.111634, 0.00384335
+2957, -15.3284, 39.2161, -22.7966, 255, 16, 0, 200, 3, 4, 0.995904, 0.0904126, 8.81149e-06, 0.995904, 0.0904126, 8.81149e-06
+2957, -41.8291, 34.1865, 34.3892, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 250, 18, 2, 0, 0, 0, 0, 0, 0
+2957, -41.8616, 21.281, 34.3892, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 250, 18, 2, 0, 0, 0, 0, 0, 0
+2957, -17.0858, 34.1715, 34.3892, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 250, 18, 2, 0, 0, 0, 0, 0, 0
+2957, -17.1175, 21.288, 34.3892, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 250, 18, 2, 0, 0, 0, 0, 0, 0
+2957, 17.2132, 24.777, 38.783, 255, 27, 0, 200, 0, "coronastar", "shad_exp", 150, 18, 2, 0, 0, 0, 0, 0, 0
+2957, 17.2132, 24.777, 41.2826, 255, 27, 0, 200, 0, "coronastar", "shad_exp", 150, 18, 2, 0, 0, 0, 0, 0, 0
+2957, 17.2132, 24.777, 43.4174, 255, 27, 0, 200, 0, "coronastar", "shad_exp", 150, 18, 2, 0, 0, 0, 0, 0, 0
+2957, 17.2132, 24.777, 45.9627, 255, 27, 0, 200, 0, "coronastar", "shad_exp", 250, 18, 2, 0, 0, 5, 0, 0, 0
+2965, -13.4179, 23.1582, -11.3411, 255, 27, 0, 200, 3, 3, 0.998845, 0.0480589, 1.07252e-05, 0.998845, 0.0480589, 1.07252e-05
+2966, 10.5997, -5.65039, -19.5961, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, 8.34634, -10.0891, -17.2942, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, 24.7848, -10.1268, -17.2942, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, 19.6541, -5.65039, -19.5961, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, 32.9475, -5.10046, -17.2942, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, 47.2401, -5.12634, -17.2942, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, 58.2245, 1.89209, -17.2942, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, 47.2401, 10.5428, -17.2942, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, 44.0997, -7.94666, 14.2717, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, 32.9475, 10.517, -17.2942, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, 44.0997, 12.6908, 14.2717, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, 24.7848, 15.5433, -17.2942, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, 19.6541, 11.1296, -19.5961, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, 10.5997, 11.1296, -19.5961, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, 8.34634, 15.5056, -17.2942, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, -20.0672, -11.7029, 19.7893, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, -26.0817, -4.70178, 25.5188, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, -26.0817, 9.07715, 25.5188, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, -20.0672, 16.0782, 19.7893, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, -48.6962, -4.70178, 25.5188, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2966, -48.6962, 9.07715, 25.5188, 185, 185, 165, 200, 0, "coronastar", "shad_exp", 100, 18, 1, 8, 40, 1, 0, 0, 0
+2971, 16.869, 16.929, 4.41321, 210, 211, 158, 200, 0, "coronastar", "shad_exp", 250, 40, 3, 8, 40, 1, 0, 0, 0
+2971, 16.869, 1.9967, 4.41321, 210, 211, 158, 200, 0, "coronastar", "shad_exp", 250, 40, 3, 8, 40, 1, 0, 0, 0
+2971, 16.869, -12.0388, 4.41321, 210, 211, 158, 200, 0, "coronastar", "shad_exp", 250, 40, 3, 8, 40, 1, 0, 0, 0
+2971, 34.8906, -20.2504, -0.454021, 210, 211, 158, 200, 0, "coronastar", "shad_exp", 250, 40, 3, 8, 40, 1, 0, 0, 0
+2971, 23.9355, -20.2504, -0.454021, 210, 211, 158, 200, 0, "coronastar", "shad_exp", 250, 40, 3, 8, 40, 1, 0, 0, 0
+2971, 22.8826, -14.3047, -1.05172, 210, 211, 158, 200, 0, "coronastar", "shad_exp", 250, 40, 3, 8, 40, 1, 0, 0, 0
+2971, 36.1334, -14.3047, -1.05172, 210, 211, 158, 200, 0, "coronastar", "shad_exp", 250, 40, 3, 8, 40, 1, 0, 0, 0
+2971, -13.2421, -17.3025, 1.14091, 210, 211, 158, 200, 0, "coronastar", "shad_exp", 250, 40, 3, 8, 40, 1, 0, 0, 0
+2971, 13.0065, 21.9678, 32.8119, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 250, 18, 2, 8, 40, 5, 0, 0, 0
+2971, -14.1901, 16.4703, 6.9591, 210, 211, 158, 200, 0, "coronastar", "shad_exp", 250, 40, 3, 8, 40, 1, 0, 0, 0
+2971, -13.9908, 14.0546, -1.71143, 210, 211, 158, 200, 0, "coronastar", "shad_exp", 250, 40, 3, 8, 40, 1, 0, 0, 0
+2973, 11.6155, -27.7528, 69.1662, 255, 27, 0, 200, 0, "coronastar", "shad_exp", 250, 18, 2, 0, 0, 5, 0, 0, 0
+3033, 4.21216, 7.55225, 33.5142, 255, 254, 218, 200, 0, "coronastar", "shad_exp", 150, 8, 1, 5, 40, 1, 0, 0, 0
+3033, 4.22021, -7.71509, 33.5142, 255, 254, 218, 200, 0, "coronastar", "shad_exp", 150, 8, 1, 5, 40, 1, 0, 0, 0
+3033, -14.6604, 23.7817, 30.4368, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 150, 5, 1, 5, 40, 1, 0, 0, 0
+3033, 14.6521, -23.541, 30.4368, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 150, 5, 1, 5, 40, 1, 0, 0, 0
+3033, -14.6792, -23.541, 30.4368, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 150, 5, 1, 5, 40, 1, 0, 0, 0
+3033, 14.6521, 23.7935, 30.4368, 255, 0, 0, 200, 0, "coronastar", "shad_exp", 150, 5, 1, 5, 40, 1, 0, 0, 0
+end

@@ -42,8 +42,8 @@ int main() {
 		//// temp not need
 		//return;
 
-		CHECK(ExtractIPLs());
 		CHECK(ExtractModelInfoAndStuff()); // custom
+		CHECK(ExtractIPLs());
 		CHECK(ExtractObjectData());
 		CHECK(ExtractFightMoves());
 		CHECK(ExtractPedType());

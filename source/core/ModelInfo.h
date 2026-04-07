@@ -230,6 +230,8 @@ public:
 	CHandlingBike   *GetHandlingBike()   { return m_pHandlingBike;             }
 	CHandlingBoat   *GetHandlingBoat()   { return m_pHandlingBoat;             }
 	CHandlingFlying *GetHandlingFlying() { return m_pHandlingFlying;           }
+	CHandlingJetski *GetHandlingJetski() { return m_pHandlingJetski;           }
+	CHandling6atv   *GetHandling6Atv()   { return m_pHandling6atv;             }
 	const char      *GetWheelScaleRear() { return Precision(m_wheelScaleRear); }
 	uint8(&GetCurrentAvoidColours())[2][4]{ return m_aCurrentAvoidColors; }
 	uint8(&GetColoursIndices())[8][2]{ return m_anColorVariationIndices; }

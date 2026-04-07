@@ -267,6 +267,14 @@ public:
 	uint8 padding2[12]; // from fBoatVolumeDistribution 4*3
 	CVuVector scaleMax;
 	CVuVector scaleMin;
+	float field_90;
+	float field_94;
+	float field_98;
+	float field_9C;
+	float field_A0;
+	float field_A4;
+	float field_A8; // cBoatMG::PreRender
+	float field_AC;
 #endif
 
 	const char* GetThrustY()         { return Precision(fThrustY);       }
@@ -293,6 +301,23 @@ public:
 	const char* GetScaleMinX() { return Precision3(scaleMin.x); }
 	const char* GetScaleMinY() { return Precision3(scaleMin.y); }
 	const char* GetScaleMinZ() { return Precision3(scaleMin.z); }
+};
+
+struct CHandlingJetski
+{
+	float m_fLeanUpCoefficient;   // 0.0099999998
+	float m_fLeanDownCoefficient; // 0.0099999998
+	float m_fLeanSideCoefficient; // 0.49000001
+};
+
+struct CHandling6atv
+{
+	float field_0;
+	float field_4;
+	float field_8;
+	float field_C;  // pad?
+	float field_10; // pad?
+	float field_14; // pad?
 };
 
 #ifdef LCS

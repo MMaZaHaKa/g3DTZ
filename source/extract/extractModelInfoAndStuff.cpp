@@ -20,6 +20,8 @@ static inline unsigned int ToUInt8(T v) {
 
 bool ExtractHandling()
 {
+	CFileSystem::ResetFolder();
+
 #ifdef VCS
 #define BIT(num) (1 << (num))
 	struct tHandlingChunk
@@ -34,12 +36,12 @@ bool ExtractHandling()
         TYPE_BIKE_HANDLING      = BIT(1), // 0x2
         TYPE_FLYING_HANDLING    = BIT(2), // 0x4
         TYPE_BOAT_HANDLING      = BIT(3), // 0x8
-        //TYPE_JETSKI_HANDLING    = BIT(4), // 0x10
-        //TYPE_SIXATV_HANDLING    = BIT(5), // 0x20
+        TYPE_JETSKI_HANDLING    = BIT(4), // 0x10
+        TYPE_SIXATV_HANDLING    = BIT(5), // 0x20
     };
 
-	printf("sizes sizeof(CHandlingData) %d, sizeof(CHandlingBike) %d, sizeof(CHandlingFlying) %d, sizeof(CHandlingBoat) %d\n",
-		sizeof(CHandlingData), sizeof(CHandlingBike), sizeof(CHandlingFlying), sizeof(CHandlingBoat));
+	printf("sizes sizeof(CHandlingData) %d, sizeof(CHandlingBike) %d, sizeof(CHandlingFlying) %d, sizeof(CHandlingBoat) %d, sizeof(CHandlingJetski) %d, sizeof(CHandling6atv) %d\n",
+		sizeof(CHandlingData), sizeof(CHandlingBike), sizeof(CHandlingFlying), sizeof(CHandlingBoat), sizeof(CHandlingJetski), sizeof(CHandling6atv));
 
 	const char* HandlingRawFilename = "HANDLINGRAW.CFG";
 
@@ -104,6 +106,24 @@ bool ExtractHandling()
 			chunk.handlings |= TYPE_BOAT_HANDLING;
 			if (fwrite(mi->GetHandlingBoat(), 1, sizeof(CHandlingBoat), f) != sizeof(CHandlingBoat)) {
 				printf("SaveHandlingDataRaw: write BOAT failed for model %d\n", i);
+				fclose(f);
+				return false;
+			}
+		}
+
+		if (mi->GetHandlingJetski()) {
+			chunk.handlings |= TYPE_JETSKI_HANDLING;
+			if (fwrite(mi->GetHandlingJetski(), 1, sizeof(CHandlingJetski), f) != sizeof(CHandlingJetski)) {
+				printf("SaveHandlingDataRaw: write JETSKI failed for model %d\n", i);
+				fclose(f);
+				return false;
+			}
+		}
+
+		if (mi->GetHandling6Atv()) {
+			chunk.handlings |= TYPE_SIXATV_HANDLING;
+			if (fwrite(mi->GetHandling6Atv(), 1, sizeof(CHandling6atv), f) != sizeof(CHandling6atv)) {
+				printf("SaveHandlingDataRaw: write 6ATV failed for model %d\n", i);
 				fclose(f);
 				return false;
 			}

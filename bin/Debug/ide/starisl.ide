@@ -1,0 +1,136 @@
+# 
+objs
+3500, MANSION2_C_FENCE, knackers, 1, 150, 0
+3501, MANSION2_A, knackers, 1, 200, 0
+3502, BOAT_HOUSEA, knackers, 1, 150, 0
+3503, BOAT_HOUSEA01, knackers, 1, 150, 0
+3504, MANSION3_C, knackers, 1, 180, 128
+3505, ST_GARDEN1, knackers, 1, 200, 0
+3506, STARGATE, knackers, 1, 100, 0
+3507, STPOOLWATER, knackers, 1, 100, 0
+3508, STPOOLW1, knackers, 1, 150, 0
+3509, MANSION1GARDENS, knackers, 1, 250, 0
+3510, STARISLAND_ROAD6, knackers, 1, 220, 1
+3511, STARISLAND_ROAD2, knackers, 1, 220, 1
+3512, STARISLAND_ROAD4, knackers, 1, 220, 1
+3513, STARISLAND_ROAD1, knackers, 1, 220, 1
+3514, BOATPOLE, knackers, 1, 150, 0
+3515, STARISLAND_ROAD3, knackers, 1, 220, 1
+3516, MANSION2_B, knackers, 1, 200, 0
+3517, MANSION3_B, knackers, 1, 160, 0
+3518, LODRISLAND_ROAD3, knackers, 1, 1500, 128
+3519, LODRISLAND_ROAD1, knackers, 1, 1500, 128
+3520, LODSION3_B, knackers, 1, 1500, 128
+3521, LODRHOUSE, knackers, 1, 1500, 128
+3522, LODRISLAND_ROAD2, knackers, 1, 1500, 128
+3523, LODRISLAND_ROAD4, knackers, 1, 1500, 128
+3524, LODRISLAND_ROAD6, knackers, 1, 1500, 128
+3525, LODSION1GARDENS, knackers, 1, 1500, 128
+3526, STOBJECT23, knackers, 1, 100, 0
+3527, STPOOLWATER5, knackers, 1, 100, 0
+3528, STPOOLWATER02, knackers, 1, 100, 0
+3529, MANSION1_BASE, knackers, 1, 220, 0
+3530, LODSION1_BASE, knackers, 1, 1500, 128
+3531, LODSION1_A, knackers, 1, 1500, 128
+3532, MANSION1_A, knackers, 1, 220, 0
+3533, LODSION2_B, knackers, 1, 1500, 128
+3534, LODGARDEN1, knackers, 1, 1500, 128
+3535, GATE5, knackers, 1, 150, 0
+3536, STARBBNET02, knackers, 1, 200, 0
+3537, MANSION2C, knackers, 1, 200, 0
+3538, STARBRIDGE2, knackers, 1, 200, 0
+3539, STARMAINWALL1, knackers, 1, 200, 0
+3540, STARWALLMAIN2, knackers, 1, 200, 0
+3541, STARWALLMAIN4, knackers, 1, 200, 0
+3542, STARFBED03, knackers, 1, 100, 0
+3543, STARFBED04, knackers, 1, 100, 0
+3544, STARFBED06, knackers, 1, 100, 0
+3545, POLLSTAEPS1, knackers, 1, 100, 0
+3546, LODSION3GARDENS, knackers, 1, 1500, 128
+3547, LODSION2_A, knackers, 1, 1500, 128
+3548, LODRBRIDGE2, knackers, 1, 5001, 128
+3549, LODSION2C, knackers, 1, 1500, 128
+3550, LODSION3A, knackers, 1, 1500, 128
+3551, STARBRIDGE2B, knackers, 1, 200, 0
+3552, STARWALLMAIN5, knackers, 1, 200, 0
+3553, COMGATE2, knackers, 1, 150, 0
+3554, COMGATE1OPEN, comgate1open, 1, 150, 0
+3555, COMGATE1, knackers, 1, 150, 0
+3556, COMGATE1CLOSED, comgate1closed, 1, 150, 0
+3557, COMGATE2CLOSED, comgate2closed, 1, 150, 0
+3558, LODGATE2, knackers, 1, 1500, 128
+3559, LODGATE1, knackers, 1, 1500, 128
+3560, COMGATE03, knackers, 1, 150, 0
+3561, STARBLOCKER1, knackers, 1, 130, 0
+3562, STARBLOCKER02, knackers, 1, 130, 0
+3563, LODGATE03, knackers, 1, 1500, 128
+3564, MANSION3GARDENS2, knackers, 1, 250, 1
+3565, MAN1GARDEN_HEDGE, knackers, 1, 200, 0
+3566, MAN3_BASE_HEDGE, knackers, 1, 130, 0
+3567, LODSION3_BASE, knackers, 1, 1500, 128
+3568, MANSION3_BASE, knackers, 1, 250, 0
+3569, MAN_WTRFTR_3A, knackers, 1, 170, 132
+3570, MN_TREESISL05, knackers, 1, 299, 4
+3571, MAN_GRND5, knackers, 1, 200, 0
+3572, MAN_GRND4, knackers, 1, 200, 0
+3573, MAN_WTRFTR_1A, knackers, 1, 100, 36
+3574, MAN_GRND6, knackers, 1, 200, 0
+3575, MAN_GRND3, knackers, 1, 200, 0
+3576, LOD_BUILD02, knackers, 1, 1500, 128
+3577, LOD_BUILD01, knackers, 1, 1500, 128
+3578, HASH_1F2059AC, knackers, 1, 220, 0
+3579, MAN_BUILD01, knackers, 1, 250, 0
+3580, MANMRGBUILD2, knackers, 1, 160, 128
+3581, MANMRGBASE1, knackers, 1, 200, 0
+3582, LODMRGBASE1, knackers, 1, 1500, 128
+3583, LODMRGBUILD1, knackers, 1, 1500, 128
+3584, STARGATEDETAIL, knackers, 1, 130, 0
+3585, MAN_GRND2, knackers, 1, 200, 0
+3586, MAN_BUILD02_AL, knackers, 1, 100, 4
+3587, MAN_BUILD01_AL, knackers, 1, 110, 4
+3588, MAN_BUILD02, knackers, 1, 220, 0
+3589, MANMRGBUILD1, knackers, 1, 200, 128
+3590, LOD_GRND5, knackers, 1, 1500, 128
+3591, LOD_GRND4, knackers, 1, 1500, 128
+3592, LOD_GRND2, knackers, 1, 1500, 128
+3593, LOD_GRND6, knackers, 1, 1500, 128
+3594, LOD_GRND3, knackers, 1, 1500, 128
+3595, LODMRGBUILD2, knackers, 1, 1500, 128
+3596, JM_MANSFENCE, knackers, 1, 100, 0
+3597, HASH_CCAA5C5C, knackers, 1, 299, 4
+3598, PM_EDITPROP9, knackers, 1, 299, 4
+3599, PM_EDITPROP8, knackers, 1, 299, 4
+3600, HASH_2F4B8F8C, knackers, 1, 100, 0
+3601, MANSION1B, knackers, 1, 200, 0
+3602, MANSION3A, knackers, 1, 200, 0
+3603, LODSION1B, knackers, 1, 1500, 128
+3604, HASH_17B02E55, knackers, 1, 1500, 128
+3605, GATE4, knackers, 1, 100, 0
+3606, PM_HELIDIAZ, knackers, 1, 250, 1
+3607, STARHOUSE, knackers, 1, 180, 0
+3608, DR_DIAZ_GRG, dr_diaz_grg, 1, 100, 0
+3609, HASH_B750B10E, knackers, 1, 100, 0
+3610, MAN3GHEDGE, knackers, 1, 140, 128
+3612, HASH_16E6E30B, knackers, 1, 30, 128
+3613, DR_PARTYFENCE, knackers, 1, 100, 0
+3614, MANSION3GARDENS, knackers, 1, 220, 0
+3615, HASH_FA771BB3, knackers, 1, 100, 0
+3616, HASH_3D8EC46C, generic, 1, 299, 132
+3617, HASH_D380A540, generic, 1, 299, 132
+3618, HASH_4A89F4FA, generic, 1, 299, 132
+3619, HASH_A3EA51CF, generic, 1, 299, 132
+3620, HASH_D4ED6159, generic, 1, 299, 132
+3621, HASH_DBB09195, knackers, 1, 100, 0
+3622, LODSION3_C, knackers, 1, 1500, 128
+end
+tobj
+3611, HASH_BA93DCF4, knackers, 1, 150, 12, 19, 5
+end
+2dfx
+3609, 3.26612, -1.41988, -0.512547, 17, 224, 7, 200, 0, "coronastar", "shad_exp", 100, 3, 1.5, 0, 40, 1, 0, 0, 0
+3609, 1.29258, -0.571913, -0.616516, 7, 229, 195, 200, 0, "coronastar", "shad_exp", 100, 3, 1.5, 0, 40, 1, 0, 0, 0
+3609, -0.865957, 0.386268, -0.761002, 234, 102, 232, 200, 0, "coronastar", "shad_exp", 100, 3, 1.5, 0, 40, 1, 0, 0, 0
+3609, -2.87658, 1.23275, -0.761002, 246, 121, 20, 200, 0, "coronastar", "shad_exp", 100, 3, 1.5, 0, 40, 1, 0, 0, 0
+3609, -4.7382, 2.02184, -0.598469, 237, 20, 20, 200, 0, "coronastar", "shad_exp", 100, 3, 1.5, 0, 40, 1, 0, 0, 0
+3609, 4.9341, -2.14473, -0.324198, 245, 91, 7, 200, 0, "coronastar", "shad_exp", 100, 3, 1.5, 0, 40, 1, 0, 0, 0
+end
