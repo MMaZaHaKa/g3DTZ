@@ -67,10 +67,7 @@ struct sResourceImage
 	void               *vehicleModelInfoInst; // Static variables of CVehicleModelInfo; nullptr in VCS
 	CStreaming         *streamingInst;
 	CAnimManager       *animManagerInst;
-	tFightMove         *fightMoves;
-#ifdef LCS
-	void* pedAnimInfo;
-#endif
+	tPedAnimOffsets    *pedAnimInfo;
 	CPedType** pedType;
 	CPedStats** pedStats;
 #ifdef VCS
@@ -260,7 +257,8 @@ LoadResourceImage(fs::path iPath, const base::sChunkHeader& header, std::istream
 	CAnimManager::Load(pResourceImage->animManagerInst);
 
 	/* Initialize ped stuff */
-	CPed::LoadFightData(pResourceImage->fightMoves);
+	//CPed::LoadFightData(pResourceImage->fightMoves);
+	CPed::LoadAnimOffsets(pResourceImage->pedAnimInfo);
 	CPedType::Initialize(pResourceImage->pedType);
 	CPedStats::Load(pResourceImage->pedStats);
 

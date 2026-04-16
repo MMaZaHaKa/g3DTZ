@@ -5,6 +5,7 @@
 #include "HandlingMgr.h"
 #include "FileSystem.h"
 #include "SampMan.h"
+#include "Ped.h"
 #include <fstream>
 #include <sstream>
 #include <vector>
@@ -178,10 +179,31 @@ bool ExtractHandling()
 }
 
 
+bool ExtractAnimOffsets()
+{
+	CFileSystem::ResetFolder();
+
+#ifdef VCS
+	const char* filename = "ANIMOFFSETS.CFG";
+
+	FILE* f = fopen(filename, "wb");
+	if (!f) {
+		printf("ExtractAnimOffsets: cannot open %s for write\n", filename);
+		return false;
+	}
+	fwrite(CPed::GetAnimOffsets(), 1, sizeof(tPedAnimOffsets), f);
+	fclose(f);
+	printf("ExtractAnimOffsets: written %s\n", filename);
+#endif
+	return true;
+}
+
+
 bool ExtractModelInfoAndStuff()
 {
 #ifdef VCS
 	ExtractHandling();
+	ExtractAnimOffsets();
 	/* Prepare pedcols.dat for VCS */
 	std::ofstream pedcolsFile("pedcols.dat");
 	{

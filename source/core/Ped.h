@@ -1,6 +1,28 @@
 #pragma once
 #include "Common.h"
 #include "Utils.h"
+#include "Maths.h"
+
+#define NUM_ANIM_OFFSETS (20 + 1) // last nil?
+#pragma pack(push, 1)
+struct tPedAnimOffset
+{
+	int32 m_nAnimationGroup;
+	int32 m_nAnimationID;
+	uint8 m_pad1[8];
+	CVuVector vecOffset;
+};
+static_assert(sizeof(tPedAnimOffset) == 32, "sizeof(tPedAnimOffset)");
+
+struct tPedAnimOffsets
+{
+	int32 m_nCount;
+	uint8 m_pad1[12];
+	tPedAnimOffset offsets[NUM_ANIM_OFFSETS];
+};
+
+extern tPedAnimOffsets PedAnimInfo;
+#pragma pack(pop)
 
 class tFightMove final
 {
@@ -49,8 +71,12 @@ class CPed final
 {
 private:
 	inline static tFightMove* m_fightMoves;
+	inline static tPedAnimOffsets* m_pedAnimInfo;
 
 public:
 	static void LoadFightData(tFightMove* fightMoves) { m_fightMoves = fightMoves; }
 	static auto& GetFightMove(int index) { return m_fightMoves[index]; }
+
+	static void LoadAnimOffsets(tPedAnimOffsets* pedAnimInfo) { m_pedAnimInfo = pedAnimInfo; }
+	static tPedAnimOffsets* GetAnimOffsets() { return m_pedAnimInfo; }
 };
