@@ -695,6 +695,23 @@ void DumpRoadsToFile(CPathFind* pf, const char* filename)
 	}
 	std::fprintf(f, "end\n");
 
+	std::fprintf(f, "secs\n");
+	for (int s = 0; s < 50 * 50; s++) {
+		const CPathSector& sec = pf->m_pathSectors[s];
+		uint8_t nCar = sec.m_pathNodeCount[0];
+		uint8_t nPed = sec.m_pathNodeCount[1];
+
+		std::fprintf(f, "%u %u %u\n", nCar, nPed, s);
+
+		for (int i = 0; i < nCar; i++) {
+			std::fprintf(f, "%u\n", sec.m_pathNodeList[0][i]);
+		}
+		for (int i = 0; i < nPed; i++) {
+			std::fprintf(f, "%u\n", sec.m_pathNodeList[1][i]);
+		}
+	}
+	std::fprintf(f, "end\n\n");
+
 	std::fclose(f);
 }
 

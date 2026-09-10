@@ -47,6 +47,13 @@ struct CPathNode
 	uint8_t unk1 : 1; // 0 always
 	uint8_t unk2 : 1; // 1 always
 };
+struct CPathSector
+{
+	uint16_t* m_pathNodeList[2]; // index for m_pathNodes array
+	uint8_t m_pathNodeCount[2];
+	uint8_t m_padA[2];
+};
+static_assert(sizeof(CPathSector) == 0xC, "sizeof(CPathSector) == 0xC");
 struct __declspec(align(2)) CPathFind // todo move into class
 {
 	CPathNode* m_pathNodes;
@@ -64,16 +71,9 @@ struct __declspec(align(2)) CPathFind // todo move into class
 	int16_t pad_AAAA_field_24;
 	int16_t field_26;
 	char AAAAAA_field_28[1608];
-	__int16 field_670;
-	__int16 field_672;
-	int field_674;
-	char field_678[29988];
-	__int16 field_7B9C;
-	__int16 field_7B9E;
-
+	CPathSector m_pathSectors[50*50];
 	CPathConnection* m_connections; //16*
 	uint8_t* m_distances; //8*
-
 	char field_7BA8[508];
 	int field_7DA4;
 	int field_7DA8;
@@ -82,6 +82,7 @@ struct __declspec(align(2)) CPathFind // todo move into class
 	CPathNode m_aPathNodes[8387];
 	int field_1DADE;
 };
+static_assert(sizeof(CPathFind) == 0x1DAE2, "sizeof(CPathFind) == 0x1DAE2");
 #pragma pack(pop)
 
 
