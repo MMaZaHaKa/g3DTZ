@@ -26,22 +26,26 @@ enum eModelInfoType : uint8
 
 class CColModel;
 
+#pragma pack(push, 1)
 class CBaseModelInfo
 {
 protected:
+public:
 	char            unknown[8];  // all zero
 	uint32          m_hashname;
 	RslObject      *m_rslObject; //pointer to model chunk (filled at runtime)
 	eModelInfoType  m_type;
 	uint8           m_num2dEffects;
 	bool            m_bOwnsColModel;
+	uint8           field_13;
 	CColModel      *m_colModel;
 	int16           m_first2dEffect;
 	int16           m_objectId;
 	int16           m_refCount;
 	int16           m_texlistSlot;
 #ifdef VCS
-	int16           unkId; // Some id, no idea what it's referencing
+	int16           m_interiorGroupIndex;
+	int16           field_22;
 #endif
 	void           *vtable;
 
@@ -53,6 +57,7 @@ public:
 	C2dEffect     *Get2dEffects();
 	CObjectInfo   *GetObjectInfo();
 };
+static_assert(sizeof(CBaseModelInfo) == 0x28, "sizeof(CBaseModelInfo) == 0x28");
 
 class CSimpleModelInfo : public CBaseModelInfo
 {
@@ -60,6 +65,7 @@ protected:
 	RslObject       **m_objects;
 	float             m_lodDistances[3];
 	uint8             m_numObjects;
+	uint8             m_alpha;
 	uint16            m_flags;
 	CSimpleModelInfo *m_relatedObject;
 
@@ -68,18 +74,20 @@ public:
 	int   GetNumObjects()       { return m_numObjects;      }
 	int   GetFlags()            { return ((m_flags >> 2) & 1) | ((m_flags & 0xFFE0) >> 4); }
 };
+static_assert(sizeof(CSimpleModelInfo) == 0x40, "sizeof(CSimpleModelInfo) == 0x40");
 
 class CTimeModelInfo final : public CSimpleModelInfo
 {
 private:
 	int32 m_timeOn;
 	int32 m_timeOff;
-	int16 m_otherTimeModelID;
+	int32 m_otherTimeModelID; // 16?
 
 public:
 	int GetTimeOn() { return m_timeOn; }  
 	int GetTimeOff() { return m_timeOff; }
 };
+static_assert(sizeof(CTimeModelInfo) == 0x4C, "sizeof(CTimeModelInfo) == 0x4C");
 
 class CWeaponModelInfo final : public CSimpleModelInfo
 {
@@ -91,13 +99,16 @@ public:
 	int         GetWeaponType() { return reinterpret_cast<int32&>(m_relatedObject); }
 	const char* GetAnimBlockName();
 };
+static_assert(sizeof(CWeaponModelInfo) == 0x44, "sizeof(CWeaponModelInfo) == 0x44");
 
 class CElementGroupModelInfo : public CBaseModelInfo
 {
 protected:
+public:
 	void* m_pElementGroup;
 	int   m_animGroupId;
 };
+static_assert(sizeof(CElementGroupModelInfo) == 0x30, "sizeof(CElementGroupModelInfo) == 0x30");
 
 class CHandlingData;
 class CHandlingBike;
@@ -125,9 +136,22 @@ enum eVehicleType : int32
 #endif
 };
 
+struct tVehicleSampleData
+{
+	int32 m_nAccelerationSampleIndex;
+	uint8 m_nBank;
+	uint8 field_5[3]; // pad
+	int32 m_nHornSample;
+	int32 m_nHornFrequency;
+	int32 m_nSirenOrAlarmSample;
+	int32 m_nSirenOrAlarmFrequency;
+	uint8 m_bDoorType;
+};
+
 class CVehicleModelInfo final : public CElementGroupModelInfo
 {
 private:
+public:
 #ifdef LCS
 	uint8        m_lastColour1;
 	uint8        m_lastColour2;
@@ -216,14 +240,15 @@ public:
 	uint8            m_numDoors;
 	int8             m_vehicleClass;
 	uint8            m_level;
-	char             unk5[13];
-	int32            engineFarSample;  // *
-	int32            engineNearSample; // *
-	int32            hornSample;       // *
-	int32            hornFrequency;    // * Vehicle sound info, not hardcoded in VCS???
-	int32            sirenSample;      // *
-	int32            sirenFrequency;   // *
-	int32            unk6;             // *
+	int8             m_numComps;
+	uint8            m_nLastChosenColourVariation;
+	int8             field_279[3];
+	uint32           m_nFlags;
+	int8             field_280[4];
+	tVehicleSampleData m_SampleData;
+	int8             m_nRadioStation;
+	int8             field_29E;
+	int8             field_29F;
 
 public:
 	CHandlingData   *GetHandlingData()   { return m_pHandlingData;             }
@@ -264,6 +289,8 @@ public:
 #endif
 
 };
+static_assert(sizeof(CVehicleModelInfo) == 0x2A0, "sizeof(CVehicleModelInfo) == 0x2A0");
+#pragma pack(pop)
 
 class CPedModelInfo final : public CElementGroupModelInfo
 {

@@ -405,6 +405,8 @@ bool ExtractModelInfoAndStuff()
 					normals_label:
 						s << m->GetNormalSplay(); //14 (NS)
 					}
+					s << ", 0x" << std::hex << m->m_nFlags;
+					s << ", " << std::dec << static_cast<int>(m->m_nRadioStation);
 					break;
 				}
 				case MITYPE_PED:

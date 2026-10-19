@@ -315,9 +315,9 @@ struct CHandling6atv
 	float field_0;
 	float field_4;
 	float field_8;
-	float field_C;  // pad?
-	float field_10; // pad?
-	float field_14; // pad?
+	//float field_C;  // pad?
+	//float field_10; // pad?
+	//float field_14; // pad?
 };
 
 #ifdef LCS

@@ -28,6 +28,7 @@ bool ExtractWaterLevel();
 bool ExtractZones();
 bool ExtractPathData();
 bool ExtractPaths();
+bool ExtractCombat();
 
 struct CAnimBlendTree;
 //#ifndef CPP17

@@ -58,6 +58,7 @@ int main() {
 		CHECK(ExtractZones());
 		CHECK(ExtractPathData());
 		CHECK(ExtractPaths());
+		//CHECK(ExtractCombat());
 		std::cout << "All done!\n";
 
 		return EXIT_SUCCESS;
